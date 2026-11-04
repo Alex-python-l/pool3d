@@ -1,0 +1,14 @@
+{
+  "units": "metres in Blender; convert explicitly to original Unity centimetre presentation",
+  "physics_contact_reference_z_m": 0.8,
+  "visual_uncompressed_nap_top_z_m": 0.80018,
+  "cloth_bottom_z_m": 0.79883,
+  "cloth_thickness_m": 0.00135,
+  "ball_radius_m": 0.028575,
+  "stationary_ball_centre_z_m": 0.828575,
+  "do_not_recalibrate_physics_height_from_render_skin": true,
+  "runtime_ball_compression_inputs": "up to 16 active ball centres and radii, with original unit conversion",
+  "static_room_excludes_ball_contact_preview_fibres": "Preview | compressed cloth nap at balls R13",
+  "game_camera_reference": "Shot | front-half cue camera",
+  "authoring_default_camera": "Detail | R13 ball contact"
+}

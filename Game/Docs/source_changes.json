@@ -1,0 +1,446 @@
+[
+  {
+    "path": "Assets/IntegratedArt/Materials/Resin Ball 10.mat",
+    "kind": "new",
+    "source": null,
+    "sha256": "ba2c2570dc93d69543073713532f05a2b5e1f781cf682ad1baf79c84d8adde8a"
+  },
+  {
+    "path": "Assets/IntegratedArt/Materials/Resin Ball 11.mat",
+    "kind": "new",
+    "source": null,
+    "sha256": "1249b043759e4e152206eb675578715f913247b292f32012b258699be8d1e142"
+  },
+  {
+    "path": "Assets/IntegratedArt/Materials/Resin Ball 12.mat",
+    "kind": "new",
+    "source": null,
+    "sha256": "d87a1268c05c014dfd697b0fd481d807584d50938d0e15cdd11a1ab28414065f"
+  },
+  {
+    "path": "Assets/IntegratedArt/Materials/Resin Ball 13.mat",
+    "kind": "new",
+    "source": null,
+    "sha256": "ecf20bd4208f43c6824a37312aa8d34a912e11bd5c5d61d77abfbb50472bc2b9"
+  },
+  {
+    "path": "Assets/IntegratedArt/Materials/Resin Ball 14.mat",
+    "kind": "new",
+    "source": null,
+    "sha256": "0ab6a35a8ec6e34d1896bbb86a5f79ea7e2e94e3d96f84d85c5e612e5a5df7da"
+  },
+  {
+    "path": "Assets/IntegratedArt/Materials/Resin Ball 15.mat",
+    "kind": "new",
+    "source": null,
+    "sha256": "dd32583cce367a534578229352e96b615c8ea9c739f444bac2919354aac4e539"
+  },
+  {
+    "path": "Assets/IntegratedArt/Materials/Resin Ball 2.mat",
+    "kind": "new",
+    "source": null,
+    "sha256": "77de93d2d35c944fd49f59b4ca3a2fc425b5465e32d39048078af07e894129cd"
+  },
+  {
+    "path": "Assets/IntegratedArt/Materials/Resin Ball 3.mat",
+    "kind": "new",
+    "source": null,
+    "sha256": "34cf1c3e019e1dce49744e7eeb927903382814efc323944e385b3884560fb0b9"
+  },
+  {
+    "path": "Assets/IntegratedArt/Materials/Resin Ball 4.mat",
+    "kind": "new",
+    "source": null,
+    "sha256": "87149fa20ac2be4fab82464f31930b1509652be0d1c98e78d3843b4f25059eec"
+  },
+  {
+    "path": "Assets/IntegratedArt/Materials/Resin Ball 5.mat",
+    "kind": "new",
+    "source": null,
+    "sha256": "b0c8ff314f2ed25a9d2fd16e52996331cec35cf55f47285368f03323f69f496c"
+  },
+  {
+    "path": "Assets/IntegratedArt/Materials/Resin Ball 6.mat",
+    "kind": "new",
+    "source": null,
+    "sha256": "1c17751bd53ae5cf1d215fc9a258aa1820ad779cd89aca80de47b79c124b2a4a"
+  },
+  {
+    "path": "Assets/IntegratedArt/Materials/Resin Ball 7.mat",
+    "kind": "new",
+    "source": null,
+    "sha256": "3a22ad216469f84507b44a148198ae9acdd13a40dfde468f239df08ef50b4b96"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_0.prefab",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-MaterialStudy-V3-20261025/UnityProject/Assets/MaterialStudy/Prefabs/Ball_0.prefab",
+    "sha256": "c8231f3f6e26dabff0ac2107c99e83c38397f4bffd0eeef18c4d3846a82c5d39"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_1.prefab",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-MaterialStudy-V3-20261025/UnityProject/Assets/MaterialStudy/Prefabs/Ball_1.prefab",
+    "sha256": "e6164f17b7958a5669ae75a870d6c0a2f9c0144722f3803a203d7110c1a62077"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_10.prefab",
+    "kind": "new",
+    "source": null,
+    "sha256": "555fe27ad2a668973e441b4e8b4e226c9c2ee64cc68daeeadef1783030c9f674"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_11.prefab",
+    "kind": "new",
+    "source": null,
+    "sha256": "193ab7e695143ee25c4f68b330b1eae4960e7816793ca1b0f003d63e520b8883"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_12.prefab",
+    "kind": "new",
+    "source": null,
+    "sha256": "1f913bdbf234986b5227faadafd801e80a89293d0cdd0a69be19d3671b9d2684"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_13.prefab",
+    "kind": "new",
+    "source": null,
+    "sha256": "01d286b45c997c3d25114c38793444d520c2913d8fd12842412ed4c16ee0b688"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_14.prefab",
+    "kind": "new",
+    "source": null,
+    "sha256": "c594c35570cda2946997cb02a23003f00610a539a7d34fccbf307e52616688a0"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_15.prefab",
+    "kind": "new",
+    "source": null,
+    "sha256": "f695cc75341affd00ef32f40cf2aa04ed5ca6f2fe51988404f885d2d97317674"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_2.prefab",
+    "kind": "new",
+    "source": null,
+    "sha256": "05d035c922b878a5e9c9f0b473fbf2b9a2b1d6e82cef1f32bb1213d1057c7005"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_3.prefab",
+    "kind": "new",
+    "source": null,
+    "sha256": "fc5131cd329a3463c99ff9d4238ab27c486752259a979e8dc3a99537124e57db"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_4.prefab",
+    "kind": "new",
+    "source": null,
+    "sha256": "3dc0b7666aab790de029ab77f0d18158841760c70df7a883d8efdf2bf3af52a0"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_5.prefab",
+    "kind": "new",
+    "source": null,
+    "sha256": "bffbc035955ffab32c834b7eeb2797f4a86c35cd1e2fc1f282a97e027a9aa6e9"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_6.prefab",
+    "kind": "new",
+    "source": null,
+    "sha256": "9b29b616bc838cedf56e62ff5c3e29009d56f99cd8baef8bdfd8a572be9bd04b"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_7.prefab",
+    "kind": "new",
+    "source": null,
+    "sha256": "d0b48a0188b4d99f276b5e380414831583fb78397278eef2e7c8c1740f77d30d"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_8.prefab",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-MaterialStudy-V3-20261025/UnityProject/Assets/MaterialStudy/Prefabs/Ball_8.prefab",
+    "sha256": "06ddcbcbcff35a2e2fe33f959fb79cae310eb9335afe201b5c9a7b181e5c2084"
+  },
+  {
+    "path": "Assets/IntegratedArt/Prefabs/Ball_9.prefab",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-MaterialStudy-V3-20261025/UnityProject/Assets/MaterialStudy/Prefabs/Ball_9.prefab",
+    "sha256": "7655c4df977c5340ee90bca1e76a3a763bdadc2a886b3dfdee34cc32953ee80a"
+  },
+  {
+    "path": "Assets/IntegratedArt/Shaders/ShortFelt.shader",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-MaterialStudy-V3-20261025/UnityProject/Assets/MaterialStudy/Shaders/ShortFelt.shader",
+    "sha256": "7b9f4a3a61aa7e9a400f0769165186eda7fa3df64ef8f361af8d6d7723c5e7a9"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_0.png",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-MaterialStudy-V3-20261025/UnityProject/Assets/MaterialStudy/Textures/Ball_0.png",
+    "sha256": "b07087a8268bd9c401aba516b13601c1a9bf10b6172f337f5d19616768cab167"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_1.png",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-MaterialStudy-V3-20261025/UnityProject/Assets/MaterialStudy/Textures/Ball_1.png",
+    "sha256": "adb8504af3b38057005f7d2739b1a3c050615429779ff9b4e72e12fd31d28444"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_10.png",
+    "kind": "new",
+    "source": null,
+    "sha256": "3f638c95a888afd2be61170bbfe9ad07a0773970b649f14455feb61b02bcf359"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_11.png",
+    "kind": "new",
+    "source": null,
+    "sha256": "d2af1263cccbed5a2cd78d4abcef6b0916df28819efc904470d278fe37b034ee"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_12.png",
+    "kind": "new",
+    "source": null,
+    "sha256": "4f61410d928b5854401043c46a14c8cbcbc644ab9617158231031b853c12192f"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_13.png",
+    "kind": "new",
+    "source": null,
+    "sha256": "ae031ef2e663d92aa0694b05681558eb58504ef6a1ab2c140b1ef9f801304ce3"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_14.png",
+    "kind": "new",
+    "source": null,
+    "sha256": "6c7f99c346892f496787fc89ff549c0e54c073a5bea10c677cbe22fd4f9e165a"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_15.png",
+    "kind": "new",
+    "source": null,
+    "sha256": "f011cd3278b99d9bffc81da91d4bae9f35594d2090b7fb790e5c0364a03db685"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_2.png",
+    "kind": "new",
+    "source": null,
+    "sha256": "3392ade8e31f2340e9fba5107f264dbb58afeae89b9b4e63aabfdbb52e1c8585"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_3.png",
+    "kind": "new",
+    "source": null,
+    "sha256": "ede9c31e72557ff737b42ebfdef2a07f0deb0bc195ed466af90479e02c5248a8"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_4.png",
+    "kind": "new",
+    "source": null,
+    "sha256": "46b1add18704b095654e0d922e614fca0efb01c6391c80909702dc74d5807942"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_5.png",
+    "kind": "new",
+    "source": null,
+    "sha256": "2f740818fe9a1592aa89e139b7bc54b9018000580379481a36c8589d975eab2e"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_6.png",
+    "kind": "new",
+    "source": null,
+    "sha256": "032be9b2824a43219252209ff3f3498139fbc7db9470620a39afee71cd6d592f"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_7.png",
+    "kind": "new",
+    "source": null,
+    "sha256": "db7b1aa7b5b1e88f75beb1d4f73df1ad8330545dfb10bf9b99a3372c93bee216"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_8.png",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-MaterialStudy-V3-20261025/UnityProject/Assets/MaterialStudy/Textures/Ball_8.png",
+    "sha256": "517b662eb281eeee1371609b73b5562a3b00b9ced5329d090785b445c235bc32"
+  },
+  {
+    "path": "Assets/IntegratedArt/Textures/Ball_9.png",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-MaterialStudy-V3-20261025/UnityProject/Assets/MaterialStudy/Textures/Ball_9.png",
+    "sha256": "1b15cf28c76b5bae5d6c5101a92308e1a3531f3b6c5f0ccf0bf9f15b562634bb"
+  },
+  {
+    "path": "Assets/OfflineRuntime/Editor/IntegratedArtBuilder.cs",
+    "kind": "new",
+    "source": null,
+    "sha256": "b95d4ef0f78942f7de121101cf3e83dc1b646f6c69c6c8a421fe6636e49fcb25"
+  },
+  {
+    "path": "Assets/OfflineRuntime/Editor/IntegratedGeometryChecks.cs",
+    "kind": "new",
+    "source": null,
+    "sha256": "f6b697699b232c7fb66922bac48e152fc873075b61a60be8f3b05b16dc2db85e"
+  },
+  {
+    "path": "Assets/OfflineRuntime/Editor/IntegratedPresentationChecks.cs",
+    "kind": "new",
+    "source": null,
+    "sha256": "d5fc84bcb500d48f263873ff0c6c5f5353b9d72abdb89504585d5ec959772658"
+  },
+  {
+    "path": "Assets/OfflineRuntime/Editor/IntegrationBaseline.cs",
+    "kind": "new",
+    "source": null,
+    "sha256": "fb5190284024627f7069f95f73b4e53ae6efa61962f8416689c130558178c9e9"
+  },
+  {
+    "path": "Assets/OfflineRuntime/Geometry/PoolRule.IntegratedGeometry.cs",
+    "kind": "new",
+    "source": null,
+    "sha256": "5e3625b850ca41bcb12f2920ee46201837ea920bfe67cd8778f0f015d647ceb8"
+  },
+  {
+    "path": "Assets/OfflineRuntime/Geometry/TableGeometryConfig.cs",
+    "kind": "new",
+    "source": null,
+    "sha256": "6dd8f432499bccaed9fdcfe0a0518fe8919db338c07894009b67368ef4c083df"
+  },
+  {
+    "path": "Assets/OfflineRuntime/Geometry/TableSpace.cs",
+    "kind": "new",
+    "source": null,
+    "sha256": "5df7bd02f9c9e94fc917d2041d2f486d238e90d6cf4ebd5aba01e3844b9cc5d8"
+  },
+  {
+    "path": "Assets/OfflineRuntime/OfflineBootstrap.cs",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-SpinLab-20261026/UnityProject/Assets/OfflineRuntime/OfflineBootstrap.cs",
+    "sha256": "e10fe03ecc309e35eb154a17aeaeef82b197510b9103fa438eeeb4fe6e40e44e"
+  },
+  {
+    "path": "Assets/OfflineRuntime/OfflineControls.cs",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-SpinLab-20261026/UnityProject/Assets/OfflineRuntime/OfflineControls.cs",
+    "sha256": "8da821f89250a8d2b3ef7e03512ea1aed44022059e276b38b86e451fd3a31137"
+  },
+  {
+    "path": "Assets/OfflineRuntime/OfflineMatchController.cs",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-SpinLab-20261026/UnityProject/Assets/OfflineRuntime/OfflineMatchController.cs",
+    "sha256": "6745acc8ce8731f28ead3060c308ae362b1893a6891edd6075ee9040d295fccd"
+  },
+  {
+    "path": "Assets/OfflineRuntime/OfflineSceneView.cs",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-SpinLab-20261026/UnityProject/Assets/OfflineRuntime/OfflineSceneView.cs",
+    "sha256": "015981138a949562f071504bd2ea6e0b644bd300b515b42cf8000895935085e7"
+  },
+  {
+    "path": "Assets/OfflineRuntime/Presentation/IntegratedArtAssets.cs",
+    "kind": "new",
+    "source": null,
+    "sha256": "dcd6db41199ef49d79ecdcff7b472431b6d763bd76ec86700c7056f4838c3c10"
+  },
+  {
+    "path": "Assets/OfflineRuntime/Presentation/IntegratedBallView.cs",
+    "kind": "new",
+    "source": null,
+    "sha256": "3e7dc0eb0efcf57bcad1d34c521e19ae64134a791629705dd0725b1ec4c41041"
+  },
+  {
+    "path": "Assets/OfflineRuntime/Presentation/IntegratedCueView.cs",
+    "kind": "new",
+    "source": null,
+    "sha256": "a6a6db9d7bb343a59a3aa0557c20e8da59df6b98a2f0d231ac13ef308be42323"
+  },
+  {
+    "path": "Assets/OriginalCore/AI/PoolAIBase.Decision.cs",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-SpinLab-20261026/UnityProject/Assets/OriginalCore/AI/PoolAIBase.Decision.cs",
+    "sha256": "4fa1b073f62a58a05531024a2f680c1bd4c2f64800bc4ae602a91cf6023fc0ab"
+  },
+  {
+    "path": "Assets/OriginalCore/AI/PoolAIBase.FreeBall.cs",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-SpinLab-20261026/UnityProject/Assets/OriginalCore/AI/PoolAIBase.FreeBall.cs",
+    "sha256": "ae400e90e80d3fbcd2664f7d6ae1f0864c9c419798cd5f5668c63ea151e378cd"
+  },
+  {
+    "path": "Assets/OriginalCore/AI/PoolAIBase.Geometry.cs",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-SpinLab-20261026/UnityProject/Assets/OriginalCore/AI/PoolAIBase.Geometry.cs",
+    "sha256": "8a183ddb1d8887b225d2554eb924645cfd9b36c95867e7699026668e4bf0e562"
+  },
+  {
+    "path": "Assets/OriginalCore/Physics/PoolTable.cs",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-SpinLab-20261026/UnityProject/Assets/OriginalCore/Physics/PoolTable.cs",
+    "sha256": "431e0ef844341d54464e02a5e989b1ca84f927f919cb67e96d1576142710859a"
+  },
+  {
+    "path": "Assets/OriginalCore/Rules/EightBallVsRule.cs",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-SpinLab-20261026/UnityProject/Assets/OriginalCore/Rules/EightBallVsRule.cs",
+    "sha256": "32e7aa301bfcd629f96a560ab5f0f5e931cb81e153b8dec9d8c2812c0abdcc7f"
+  },
+  {
+    "path": "Assets/OriginalCore/Rules/NineBallVsRule.cs",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-SpinLab-20261026/UnityProject/Assets/OriginalCore/Rules/NineBallVsRule.cs",
+    "sha256": "d83ba3c458e171c717333a3faf571f285df568a5c9ab250a1796695ff2e3a655"
+  },
+  {
+    "path": "Assets/OriginalCore/Rules/PoolRule.Core.cs",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-SpinLab-20261026/UnityProject/Assets/OriginalCore/Rules/PoolRule.Core.cs",
+    "sha256": "bce47b857911026695bff1b5a84870781816c8c2046f0022d1854547d573a95a"
+  },
+  {
+    "path": "Assets/OriginalCore/Rules/PoolRule.Placement.cs",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-SpinLab-20261026/UnityProject/Assets/OriginalCore/Rules/PoolRule.Placement.cs",
+    "sha256": "759f2c1499f72e84ba3629736ad2707dd64117966d766031e0b6519e3680209f"
+  },
+  {
+    "path": "Assets/OriginalCore/Rules/VSRule.Bounds.cs",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-SpinLab-20261026/UnityProject/Assets/OriginalCore/Rules/VSRule.Bounds.cs",
+    "sha256": "0c4e883f7c4b111db983322427d1e233649f0ad15eaf74898fa60c5c416f5263"
+  },
+  {
+    "path": "Assets/OriginalCore/Rules/VSRule.Collisions.cs",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-SpinLab-20261026/UnityProject/Assets/OriginalCore/Rules/VSRule.Collisions.cs",
+    "sha256": "b1fa0495809dc2c6c7d0f2f45cb9b38d310399854fee6c1732625a15a4ad8bf4"
+  },
+  {
+    "path": "Assets/OriginalCore/Rules/VSRule.Core.cs",
+    "kind": "adapted",
+    "source": "deliverables/Pool3D-SpinLab-20261026/UnityProject/Assets/OriginalCore/Rules/VSRule.Core.cs",
+    "sha256": "c660744d97404d479cbe962513a3f442eaa84cd2a6c054413698601c3bb22cff"
+  },
+  {
+    "path": "Assets/Resources/Integrated/Environment.prefab",
+    "kind": "new",
+    "source": null,
+    "sha256": "56a9baa22106c864d4e78bfe798dccbaa6950f3410f73093e457b50ce644089c"
+  },
+  {
+    "path": "Assets/Resources/Integrated/PresentationAssets.asset",
+    "kind": "new",
+    "source": null,
+    "sha256": "2941841b6eaa34868579d6feaf7dfe98217907c4feab835931784ea6f2883dbe"
+  },
+  {
+    "path": "Assets/Scenes/IntegratedOffline.unity",
+    "kind": "new",
+    "source": null,
+    "sha256": "cdd4af3cdd5ec449944a5d29a5614b2d8d6c89b3316ee1e0624d9c798f87cddc"
+  },
+  {
+    "path": "Assets/StreamingAssets/TableGeometry.json",
+    "kind": "new",
+    "source": null,
+    "sha256": "a9d27f538051fcaeaedbf4b6ed379435dc1562651399118892a21629f3c3fc1f"
+  }
+]

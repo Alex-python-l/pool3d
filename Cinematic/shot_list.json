@@ -1,0 +1,51 @@
+[
+  {
+    "name": "01 | A room for the break",
+    "start": 1,
+    "end": 72,
+    "duration_seconds": 3.0,
+    "camera": "PROMO | 01 | A room for the break"
+  },
+  {
+    "name": "02 | Cloth and craftsmanship",
+    "start": 73,
+    "end": 144,
+    "duration_seconds": 3.0,
+    "camera": "PROMO | 02 | Cloth and craftsmanship"
+  },
+  {
+    "name": "03 | Draw and strike",
+    "start": 145,
+    "end": 216,
+    "duration_seconds": 3.0,
+    "camera": "PROMO | 03 | Draw and strike"
+  },
+  {
+    "name": "04 | The collision",
+    "start": 217,
+    "end": 288,
+    "duration_seconds": 3.0,
+    "camera": "PROMO | 04 | The collision"
+  },
+  {
+    "name": "05 | Overhead release",
+    "start": 289,
+    "end": 384,
+    "duration_seconds": 4.0,
+    "camera": "PROMO | 05 | Overhead release"
+  },
+  {
+    "name": "06 | Across the cloth",
+    "start": 385,
+    "end": 456,
+    "duration_seconds": 3.0,
+    "camera": "PROMO | 06 | Across the cloth"
+  },
+  {
+    "name": "07 | The room remains",
+    "start": 457,
+    "end": 528,
+    "duration_seconds": 3.0,
+    "camera": "PROMO | 07 | The room remains"
+  }
+]

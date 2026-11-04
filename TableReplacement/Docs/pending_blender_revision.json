@@ -1,0 +1,29 @@
+{
+  "revision": "R13 mottled felt volume, cloth sheet and ball contact; R11 closed room and supplied cue retained",
+  "source": "art-source\\luxury_pool_table\\20261102_felt_depth_r13\\luxury_pool_table_felt_depth_r13.blend",
+  "sourceSha256": "ea0ca5d4b648c4445a428d3b1ded30cad142cdb7384f69d7a2b1c238f84b5caa",
+  "changedObjects": [
+    "Chinese8 | fine cloth edge nap R13",
+    "Chinese8 | luxury body",
+    "Chinese8 | cushion Long -1 -1",
+    "Chinese8 | cushion Long +1 -1",
+    "Chinese8 | cushion Long -1 +1",
+    "Chinese8 | cushion Long +1 +1",
+    "Chinese8 | cushion End -1",
+    "Chinese8 | cushion End +1",
+    "Chinese8 | level cloth with six open pockets",
+    "Chinese8 | six pocket leather back facings R12"
+  ],
+  "note": "Unity candidate/archive remains R3b. Re-export latest room and geometry together. Exclude Blender balls, cue and ball-contact fibre preview from static room. Keep physics reference Z=0.800m, not visual pile Z=0.80018m. Adapt shader compression to active runtime ball positions; no Unity import, gameplay or FPS measurement performed in R13. Preserve this guard.",
+  "geometryRevision": "R13 1.35 mm render cloth and tiny edge nap; R4 nose and R6 wood contacts unchanged; R12 inner facings retained",
+  "unityGeometryRevision": "R3b",
+  "independentMaterialPackage": "art-source\\luxury_pool_table\\20261030_seam_roughness\\Pool3D-FeltLite-R6.unitypackage",
+  "lightingRevision": "R10 Cycles authoring sample, static Unity bake not performed",
+  "environmentRevision": "R11 closed room and separate supplied cue; no Unity import",
+  "materialRevision": "R13 seamless photographic nap, full-bed wear and live 16-ball compression mask",
+  "latestMaterialAuthoring": "art-source\\luxury_pool_table\\20261102_felt_depth_r13\\felt_spec.json",
+  "contactHeightContract": "art-source\\luxury_pool_table\\20261102_felt_depth_r13\\contact_height_contract.json",
+  "physicsContactZMetres": 0.8,
+  "visualNapTopZMetres": 0.80018,
+  "requiresFullEnvironmentReexport": true
+}

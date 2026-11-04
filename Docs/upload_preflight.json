@@ -1,0 +1,21 @@
+{
+  "files": 4662,
+  "bytes": 531708673,
+  "credential_pattern_matches": [],
+  "files_over_95MiB": [],
+  "excluded_directories": [
+    ".git",
+    ".vs",
+    "Archive",
+    "Build",
+    "Builds",
+    "Library",
+    "LibraryFirstImportStalled",
+    "Logs",
+    "Temp",
+    "UserSettings",
+    "__pycache__",
+    "obj"
+  ],
+  "original_projects_modified": false
+}

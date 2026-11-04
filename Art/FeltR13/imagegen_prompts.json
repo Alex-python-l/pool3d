@@ -1,0 +1,13 @@
+{
+  "mode": "built-in image_gen",
+  "asset": "Textures/FeltR13_ReferenceNap_Albedo.png",
+  "actual_resolution": [
+    1254,
+    1254
+  ],
+  "input_roles": [
+    "7ad642868466b6208a5a1892734e941.jpg: wool texture and cushion wrap reference",
+    "7a4f74fbbdc39c220a9f25d1a7f11d7.jpg: natural mottling and directional nap reference"
+  ],
+  "prompt": "Use case: photorealistic-natural. Asset type: one production PBR base-colour texture for real Chinese-eight-ball billiard wool cloth, square 2048x2048 if possible, seamlessly tileable.\nInput images: the two supplied photographs are MATERIAL REFERENCES ONLY. Image 1 shows dense short wool fibres, compressible cloth wrapping over a cushion, local forest-green nap amongst brighter green. Image 2 shows subtle irregular darker patches and brushing direction on a used but maintained billiard bed.\nPrimary request: Create a new flat orthographic scan of ONLY the green felt surface. Physically represent a 25 cm by 25 cm area. Dense closely sheared tiny wool fibres, felted and matted, compressed microscopic fibres in soft swirling directions. Natural irregular emerald, medium grass green and dark forest green mottling, patch sizes 5-40 mm; some sparse tiny darker compressed nap flecks around 0.3-1.5 mm. Distinguishable directional brushing and mottling across the whole swatch, not a uniform solid green and not just fine random noise. Moderate contrast, natural not dirty; deep patches are still green. The field should have visible fine interlocking wool structure with very short dense fuzz, not woven linen, not grass, not carpet loops. Realistic natural greens, no fluorescent clipping.\nLighting: diffuse cross-polarized scan, evenly lit neutral albedo, no baked specular glare, no directional lighting gradient, no perspective and no vignette.\nConstraints: edge-to-edge material only, no cushion shape, no table, no wood, no balls, no holes, no grid, no text, no frame, no watermark. No long hairs, big chunky grains, plaid, checkerboard, stains or white speckles. Irregular blotching and nap remain nonrepeating across the swatch while opposite boundaries should tile seamlessly."
+}

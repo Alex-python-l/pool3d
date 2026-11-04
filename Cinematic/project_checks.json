@@ -1,0 +1,22 @@
+{
+  "original_meshes_checked": 106,
+  "original_mesh_changes": [],
+  "camera_outside_room_frames": [],
+  "cue_visibility_issues": [],
+  "camera_count": 7,
+  "animation_frames": 528,
+  "fps": 24,
+  "duration_seconds": 22,
+  "render_resolution": [
+    1920,
+    804
+  ],
+  "delivery_canvas": [
+    1920,
+    1080
+  ],
+  "ball_objects_reused": 16,
+  "scene_materials_reused": true,
+  "source_file_sha256": "8328b435a8f4f8e00fc9f5509187c33ee56bd8e3bee146444833d44650c795f4",
+  "passed": true
+}

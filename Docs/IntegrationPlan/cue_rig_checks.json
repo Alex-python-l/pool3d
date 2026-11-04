@@ -1,0 +1,103 @@
+{
+  "passed": true,
+  "source_model": "C:\\Users\\L\\Desktop\\破壳BullBear Labs\\art-source\\luxury_pool_table\\20261101_closed_room_balls_cue_r11\\Source\\magic staff 3d model.glb",
+  "full_model_retained": true,
+  "cue_length_m": 1.4500000664900075,
+  "tip_world_m": [
+    -0.9315750002861023,
+    0.0,
+    0.8285750150680542
+  ],
+  "butt_world_m": [
+    -2.3691701889038086,
+    0.0,
+    1.0178380012512207
+  ],
+  "anchors": [
+    "CueTip",
+    "CueButt",
+    "CueMidpoint"
+  ],
+  "elevation_degrees": 7.5,
+  "table_intersections_at_selected_elevation": 0,
+  "elevations_tested": [
+    {
+      "elevation_degrees": 3.0,
+      "intersections": 426
+    },
+    {
+      "elevation_degrees": 3.5,
+      "intersections": 414
+    },
+    {
+      "elevation_degrees": 4.0,
+      "intersections": 404
+    },
+    {
+      "elevation_degrees": 4.5,
+      "intersections": 395
+    },
+    {
+      "elevation_degrees": 5.0,
+      "intersections": 385
+    },
+    {
+      "elevation_degrees": 5.5,
+      "intersections": 369
+    },
+    {
+      "elevation_degrees": 6.0,
+      "intersections": 356
+    },
+    {
+      "elevation_degrees": 6.5,
+      "intersections": 235
+    },
+    {
+      "elevation_degrees": 7.0,
+      "intersections": 8
+    },
+    {
+      "elevation_degrees": 7.5,
+      "intersections": 0
+    }
+  ],
+  "camera": "Shot | front-half cue camera",
+  "camera_position_m": [
+    -1.659999966621399,
+    -0.02500000037252903,
+    1.0800000429153442
+  ],
+  "visible_axis_fraction": 0.519405423543853,
+  "front_half_visible_by_camera_composition": true,
+  "geometry_not_cut_in_half": true,
+  "new_model_triangles": 11420,
+  "textures": [
+    {
+      "name": "magic_staff_3d_model_basecolor.jpg",
+      "resolution": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "magic_staff_3d_model_rm.jpg",
+      "resolution": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "magic_staff_3d_model_normal.png",
+      "resolution": [
+        2048,
+        2048
+      ],
+      "packed": true
+    }
+  ],
+  "blender_aim_preview_only": true,
+  "unity_runtime_cue_not_replaced_yet": true
+}

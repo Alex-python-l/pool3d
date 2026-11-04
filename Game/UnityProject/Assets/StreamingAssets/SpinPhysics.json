@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "enabledByDefault": true,
+  "useAlciatoreBallFriction": true,
+  "ballRadiusMetres": 0.028575,
+  "ballMassKg": 0.170097,
+  "cueMassKg": 0.567,
+  "maxTipOffset": 0.7,
+  "englishThrottle": 1.0,
+  "ballFriction": 0.05,
+  "ballRestitution": 0.95,
+  "cushionFriction": 0.2,
+  "cushionRestitution": 0.85,
+  "slidingFriction": 0.2,
+  "rollingFriction": 0.01,
+  "spinFrictionProportionality": 0.4444444444,
+  "gravity": 9.81,
+  "linearStopMetresPerSecond": 0.0005,
+  "angularStopRadiansPerSecond": 0.05
+}

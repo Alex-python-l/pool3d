@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "emission_data_bake": true,
+  "colour_tile_size": [
+    2048,
+    2048
+  ],
+  "live_ball_object_coordinates": 16,
+  "ball_positions_unchanged": true,
+  "nap_relief_reduces_to_zero_at_contact": true,
+  "painted_shadow_disc": false,
+  "alpha_shell_layers": 0,
+  "image_nodes_after_bake": 3,
+  "albedo_three_axis_mapping": true,
+  "seconds": 2.0139195919036865,
+  "original_lights_unchanged": true
+}

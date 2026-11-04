@@ -1,0 +1,88 @@
+{
+  "passed": true,
+  "all_original_meshes_unchanged": 82,
+  "all_original_materials_unchanged": true,
+  "only_original_presentation_camera_transform_changed": true,
+  "room_closed_six_direction_checks": [
+    {
+      "axis": 0,
+      "sign": 1,
+      "wall": "Room | front wall closed R11",
+      "hit": [
+        3.3000001907348633,
+        0.0,
+        1.25
+      ]
+    },
+    {
+      "axis": 0,
+      "sign": -1,
+      "wall": "Room | back wall opposite table",
+      "hit": [
+        -4.099999904632568,
+        0.0,
+        1.25
+      ]
+    },
+    {
+      "axis": 1,
+      "sign": 1,
+      "wall": "Room | right wall",
+      "hit": [
+        0.0,
+        2.999999761581421,
+        1.25
+      ]
+    },
+    {
+      "axis": 1,
+      "sign": -1,
+      "wall": "Room | left wall",
+      "hit": [
+        0.0,
+        -2.999999761581421,
+        1.25
+      ]
+    },
+    {
+      "axis": 2,
+      "sign": 1,
+      "wall": "Room | ceiling",
+      "hit": [
+        0.0,
+        0.0,
+        2.5
+      ]
+    },
+    {
+      "axis": 2,
+      "sign": -1,
+      "wall": "Room | carpet floor",
+      "hit": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "room_has_four_walls_floor_ceiling": true,
+  "balls": 16,
+  "ball_diameter_m": 0.05715,
+  "ball_center_height_m": 0.828575,
+  "balls_share_one_mesh": true,
+  "cue_source_model_used": true,
+  "cue_length_m": 1.4500000664900075,
+  "cue_front_axis_fraction_visible": 0.519405423543853,
+  "cue_body_not_cut_in_half": true,
+  "no_table_cue_intersections": true,
+  "preview_cameras_inside_closed_room": true,
+  "new_packed_images": 19,
+  "static_blender_ball_preview": true,
+  "runtime_rules_or_input_not_executed": true,
+  "unity_scene_modified": false,
+  "gameplay_executed": false,
+  "rendered_views_checked": true,
+  "scene_objects": 138,
+  "scene_meshes": 103,
+  "scene_triangles": 305641
+}

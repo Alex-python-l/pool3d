@@ -1,0 +1,211 @@
+{
+  "archive": "Pool3D-Integrated-V1-M0M1-20261027-Source.zip",
+  "bytes": 20814437,
+  "sha256": "f9289bad032af214deeb3a50ecca7692b773b4c7704ec294b66445079ea339d6",
+  "protected_simulation_files": [
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/AI/AIStateMgr.cs",
+      "sha256": "f7de24a9e22091f757b6e478cb8235887f6fb493f804828789fdf89039aff8a4"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/AI/AIStates.cs",
+      "sha256": "9dbfdf265eb0463a3de9fe4eb90dbca0d1c518905cf19b1f988f8158fe3010c2"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/AI/MStateMachine.cs",
+      "sha256": "73a58b42fb8ab9c9a3cf2893edbcc7ae22c5c5a8a132255a21e5a115bca0e091"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/AI/PoolAIBase.Decision.cs",
+      "sha256": "4fa1b073f62a58a05531024a2f680c1bd4c2f64800bc4ae602a91cf6023fc0ab"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/AI/PoolAIBase.FreeBall.cs",
+      "sha256": "ae400e90e80d3fbcd2664f7d6ae1f0864c9c419798cd5f5668c63ea151e378cd"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/AI/PoolAIBase.Geometry.cs",
+      "sha256": "8a183ddb1d8887b225d2554eb924645cfd9b36c95867e7699026668e4bf0e562"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/AI/PoolAIBase.State.cs",
+      "sha256": "1f851732ea3880874798087987b0dac9b2fb7f49c2761842cfd4c7a75409dee4"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/AI/State.cs",
+      "sha256": "f2616df80031671d60938fea088036fa35f97b0d9b61bd369280acc7d519058c"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Camera/CameraSF.cs",
+      "sha256": "f38d4135b192ac825ad747ecf2bd804cd322ec7a9f9f5f9cbac25781bbfb2273"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Camera/CameraSF.Motion.cs",
+      "sha256": "638643e4f66ed8e71e93a22790106f21b7216c6aa15a6e42731e460d135f87a0"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Common/Dsp.Gameplay.cs",
+      "sha256": "b2637b96f5e4be21b1f31d2171932e91d01bcdb166ec25f5a764d683e418b7c9"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Common/MathUtil.Geometry.cs",
+      "sha256": "bafe2a47d8fffd493e216edbd3bbee1c6071994506d3f0867f5c99601f57a1a6"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Common/TimeUtil.PhysicsClock.cs",
+      "sha256": "987283b8951ebc59bc821a2699f7fd347f51bef65f3dab577f2b7b80dca11f7d"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Common/UnityEngineInternalExport.cs",
+      "sha256": "8544810b714839cf16419b441db9b5a008f74b5f038274a1633a72483917ea7a"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Common/Util3D.cs",
+      "sha256": "9ecbb52e4ab7ee32165ebd0e5b1951c6437d2991fdc888fe41953a31005f4cdf"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Common/Var.Gameplay.cs",
+      "sha256": "c0d0b71bec2f5ffd906fd352a46ec0629de4c686eee82b3f68dc1929e57c2697"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Model/RoundState.cs",
+      "sha256": "95cf7e049c73e12144bd7985854d5e06e5182001c6f632208844ac07c35c0c96"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Model/VSRule.GameRoundState.cs",
+      "sha256": "cdaffd0be622712b9fbf6a11e238ffeec21195a704b62dba29bf3843fb5c33dd"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Physics/PoolBall.cs",
+      "sha256": "bcec91fbc0f3b2958ae3a01ada0efb623ba5ebc39ab1b3ef44a556abccb33d50"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Physics/PoolBlocker.cs",
+      "sha256": "62b33ec5b4055ac2529119170f04c60c25377eb5c286bc95ba1dc6f3aabb4d41"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Physics/PoolHole.cs",
+      "sha256": "b890e5b623d5df0c43a12a618004d09c3003cb70ff10228ed31aa20da504616f"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Physics/PoolObject.cs",
+      "sha256": "6f8fd692c0d10ec7db4e927678a2e43687c09680c9e8de1445d3c94a202e47a2"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Physics/PoolTable.Aim.cs",
+      "sha256": "6f1455076c16e1c6e317a30bc48fd26af3ab6304fa6f6a248a88e85f00b1d5ad"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Physics/PoolTable.CollisionResponse.cs",
+      "sha256": "06e6e625e04da062d9d2b2d50963f6fa6a67e4cd09a2ab9439fab0bf17f6564f"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Physics/PoolTable.CollisionSearch.cs",
+      "sha256": "b9e8b684c69e107d8c85a8cd636e33447961aea9e6a323e826129a3d6f97e1cb"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Physics/PoolTable.cs",
+      "sha256": "431e0ef844341d54464e02a5e989b1ca84f927f919cb67e96d1576142710859a"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Physics/PoolTable.Forces.cs",
+      "sha256": "60d7d01e69c0495ee64391684dcabeb614e000661e4a0ef613aaf76ed50da65a"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Physics/PoolTable.Intersections.cs",
+      "sha256": "5e08b75e90128d1bee5d9915676f33fb532b20d39bf45ae7960566f7fca30563"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Physics/PoolTable.Shot.cs",
+      "sha256": "0a40212391ce645df7b8362643a08cb72583286a5f119e357caa6e30c3a9f78d"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Physics/PoolTable.Simulation.cs",
+      "sha256": "01e2f15715c09c229cba81727cc0770b115a10a0587e3d3c7e71cd781040014b"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Protocol/PoolProto.cs",
+      "sha256": "abafba63ab394c651e7f091d33154b253a2a7c0d9d2daf4a43eaf4d7380b8523"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Rules/EightBallVsRule.cs",
+      "sha256": "32e7aa301bfcd629f96a560ab5f0f5e931cb81e153b8dec9d8c2812c0abdcc7f"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Rules/IIRule.cs",
+      "sha256": "92e9ff3bd8cec7582d55d50cedad9e70a0bea009fc87fa71ff4b59d9a5ec3661"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Rules/NineBallVsRule.cs",
+      "sha256": "d83ba3c458e171c717333a3faf571f285df568a5c9ab250a1796695ff2e3a655"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Rules/PoolAI.cs",
+      "sha256": "b860dcf2084d02963fb270d58296553946a5b4f6da70351828895ea4b5d29a8a"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Rules/PoolRule.Core.cs",
+      "sha256": "bce47b857911026695bff1b5a84870781816c8c2046f0022d1854547d573a95a"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Rules/PoolRule.Fields.cs",
+      "sha256": "613b82923f2ee825a52f7457d9292dfd9ddfd28f1d407b1422e295994b63f89b"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Rules/PoolRule.Placement.cs",
+      "sha256": "759f2c1499f72e84ba3629736ad2707dd64117966d766031e0b6519e3680209f"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Rules/PoolRule.Static.cs",
+      "sha256": "608fe089a0715e180d3ed4436c9a071d333413e0f1f4f05216a844a8c8da4595"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Rules/RuleListener.cs",
+      "sha256": "1441a8c30431ae3c153c65facb2aac24b618399362a9a18c16c27a2a16c67fbf"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Rules/VSRule.Bounds.cs",
+      "sha256": "0c4e883f7c4b111db983322427d1e233649f0ad15eaf74898fa60c5c416f5263"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Rules/VSRule.Collisions.cs",
+      "sha256": "b1fa0495809dc2c6c7d0f2f45cb9b38d310399854fee6c1732625a15a4ad8bf4"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Rules/VSRule.Core.cs",
+      "sha256": "c660744d97404d479cbe962513a3f442eaa84cd2a6c054413698601c3bb22cff"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Rules/VSRule.Fields.cs",
+      "sha256": "e81a9d36634082b4756832d06fcdafc90059a1f8c13ef8db83b380f32472a99d"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OriginalCore/Rules/VSRule.Tips.cs",
+      "sha256": "bbe06166e26faec1e85b050830d36e57b69432a077f9bcba6e1a59a7afc1d516"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OfflineRuntime/Physics/PoolTable.SpinEnhancement.cs",
+      "sha256": "b0044e1b9bd6004284a3ad93bd7e8295580665d9fe4ee75b01c9bbb71140b3b0"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OfflineRuntime/Physics/SpinPhysicsConfig.cs",
+      "sha256": "df5820a2a092717ae3b32373eeadc6b6ca10dd96a5c7ae2c8ea0a6a781a7c92f"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OfflineRuntime/Physics/SpinPhysicsMath.cs",
+      "sha256": "275976de648e1c61ae7b4377b5723e42deb539479a31a8b07b1fc21ae379a584"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OfflineRuntime/Geometry/PoolRule.IntegratedGeometry.cs",
+      "sha256": "5e3625b850ca41bcb12f2920ee46201837ea920bfe67cd8778f0f015d647ceb8"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OfflineRuntime/Geometry/TableGeometryConfig.cs",
+      "sha256": "6dd8f432499bccaed9fdcfe0a0518fe8919db338c07894009b67368ef4c083df"
+    },
+    {
+      "path": "deliverables/Pool3D-Integrated-V1/UnityProject/Assets/OfflineRuntime/Geometry/TableSpace.cs",
+      "sha256": "5df7bd02f9c9e94fc917d2041d2f486d238e90d6cf4ebd5aba01e3844b9cc5d8"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "status": "complete",
+  "batch": "final_r13",
+  "completed": [
+    "ball_cloth_contact.png",
+    "cloth_wrap_detail.png",
+    "cloth_thickness_detail.png",
+    "tabletop_shot.png",
+    "table_overview.png"
+  ],
+  "seconds": 240.73792910575867,
+  "samples": 256,
+  "engine": "CYCLES",
+  "device": "OPTIX",
+  "actual_scene": true
+}

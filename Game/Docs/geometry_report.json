@@ -1,0 +1,92 @@
+{
+  "passed": true,
+  "checks": 308,
+  "playing_area_simulator_units": [
+    2540,
+    1270
+  ],
+  "ball_diameter_millimetres": 57.15,
+  "metres_per_simulator_unit": 0.001,
+  "roundtrip_tolerance_simulator_units": 0.001,
+  "blockers": 31,
+  "pockets": [
+    -1312.808,
+    677.333,
+    51.81,
+    0.0,
+    691.444,
+    51.81,
+    1312.808,
+    677.333,
+    51.81,
+    1312.808,
+    -677.333,
+    51.81,
+    0.0,
+    -691.444,
+    51.81,
+    -1312.808,
+    -677.333,
+    51.81
+  ],
+  "source_mesh_projection": {
+    "source": "PoolSet_Bumper imported mesh, projected complete cushion silhouette; not a three-dimensional nose model",
+    "meshCount": 11,
+    "cushions": 6,
+    "blockerCount": 31,
+    "noseHeightMetres": 0.0349505,
+    "outlineSilhouetteSamples": 3216,
+    "maxEnvelopeErrorMillimetres": 0.0011769027710215596,
+    "pockets": [
+      {
+        "mesh": "PoolSet_Pocket",
+        "openingRadius": 80.38488030433655,
+        "captureRadius": 51.809880304336545
+      },
+      {
+        "mesh": "PoolSet_Pocket.001",
+        "openingRadius": 80.38491010665894,
+        "captureRadius": 51.80991010665893
+      },
+      {
+        "mesh": "PoolSet_Pocket.002",
+        "openingRadius": 80.38491010665894,
+        "captureRadius": 51.80991010665893
+      },
+      {
+        "mesh": "PoolSet_Pocket.003",
+        "openingRadius": 80.38488030433655,
+        "captureRadius": 51.809880304336545
+      },
+      {
+        "mesh": "PoolSet_Pocket.004",
+        "openingRadius": 80.38491010665894,
+        "captureRadius": 51.80991010665893
+      },
+      {
+        "mesh": "PoolSet_Pocket.005",
+        "openingRadius": 80.38491010665894,
+        "captureRadius": 51.80991010665893
+      }
+    ],
+    "capturePolicy": "top opening inscribed radius minus ball radius; original circular capture retained",
+    "gameplay": false,
+    "visualReview": false
+  },
+  "adapted_callsites": [
+    "Assets/OfflineRuntime/OfflineControls.cs",
+    "Assets/OfflineRuntime/OfflineMatchController.cs",
+    "Assets/OfflineRuntime/OfflineSceneView.cs",
+    "Assets/OriginalCore/AI/PoolAIBase.Decision.cs",
+    "Assets/OriginalCore/AI/PoolAIBase.FreeBall.cs",
+    "Assets/OriginalCore/AI/PoolAIBase.Geometry.cs",
+    "Assets/OriginalCore/Physics/PoolTable.cs",
+    "Assets/OriginalCore/Rules/EightBallVsRule.cs",
+    "Assets/OriginalCore/Rules/NineBallVsRule.cs",
+    "Assets/OriginalCore/Rules/PoolRule.Core.cs",
+    "Assets/OriginalCore/Rules/PoolRule.Placement.cs",
+    "Assets/OriginalCore/Rules/VSRule.Bounds.cs",
+    "Assets/OriginalCore/Rules/VSRule.Collisions.cs",
+    "Assets/OriginalCore/Rules/VSRule.Core.cs"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "complete": true,
+  "video": "C:\\Users\\L\\Desktop\\破壳BullBear Labs\\deliverables\\PoolHall-Break-Trailer-20261102\\break_promo_1080p.mp4",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "active_picture": [
+    1920,
+    804
+  ],
+  "fps": 24,
+  "duration_seconds": 22,
+  "independently_rendered_frames": 528,
+  "engine": "Blender Cycles OptiX",
+  "samples": 32,
+  "audio": "AAC 48 kHz stereo, original synthesis",
+  "full_decode_passed": true,
+  "all_png_crc_checks_passed": true,
+  "original_source_unchanged": true,
+  "original_meshes_unchanged": 106,
+  "new_cue_only_in_strike_shot": true,
+  "project": "C:\\Users\\L\\Desktop\\破壳BullBear Labs\\art-source\\luxury_pool_table\\20261102_break_promo\\break_promo_working.blend",
+  "backup": "C:\\Users\\L\\Desktop\\破壳BullBear Labs\\art-source\\luxury_pool_table\\20261102_break_promo\\original_scene_backup.blend",
+  "video_sha256": "2759aca632877870ea945a80825f55f3ced7392a17de0cbdba59c8408973ccff",
+  "video_bytes": 11158014
+}

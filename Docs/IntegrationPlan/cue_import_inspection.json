@@ -1,0 +1,73 @@
+{
+  "object": "Cue | supplied magic staff model",
+  "vertices": 6761,
+  "triangles": 11420,
+  "principal_axis": [
+    -0.47398626804351807,
+    -0.659619152545929,
+    -0.5833005905151367
+  ],
+  "principal_span": 1.492901086807251,
+  "ends": [
+    {
+      "sign": -1,
+      "vertices": 84,
+      "radius_90_percentile": 0.019197512418031693,
+      "center": [
+        0.34242790937423706,
+        8.474687576293945,
+        0.8700587153434753
+      ]
+    },
+    {
+      "sign": 1,
+      "vertices": 274,
+      "radius_90_percentile": 0.04284271225333214,
+      "center": [
+        -0.3367742598056793,
+        7.529986381530762,
+        0.03157299757003784
+      ]
+    }
+  ],
+  "images": [
+    {
+      "name": "magic_staff_3d_model_basecolor.jpg",
+      "resolution": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "magic_staff_3d_model_rm.jpg",
+      "resolution": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "magic_staff_3d_model_normal.png",
+      "resolution": [
+        4096,
+        4096
+      ],
+      "packed": true
+    }
+  ],
+  "bounds": [
+    [
+      -0.36575308442115784,
+      0.36575308442115784
+    ],
+    [
+      7.5,
+      8.5
+    ],
+    [
+      0.0,
+      0.89508056640625
+    ]
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "status": "complete",
+  "batch": "draft3",
+  "completed": [
+    "draft3_contact.png",
+    "draft3_shot.png"
+  ],
+  "seconds": 20.8455069065094,
+  "samples": 64,
+  "engine": "CYCLES",
+  "device": "OPTIX",
+  "actual_scene": true
+}

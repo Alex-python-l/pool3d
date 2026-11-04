@@ -1,0 +1,529 @@
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0001.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0003.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0005.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0007.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0009.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0011.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0013.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0015.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0017.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0019.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0021.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0023.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0025.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0027.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0029.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0031.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0033.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0035.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0037.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0039.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0041.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0043.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0045.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0047.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0049.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0051.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0053.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0055.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0057.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0059.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0061.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0063.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0065.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0067.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0069.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0071.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0073.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0075.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0077.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0079.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0081.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0083.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0085.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0087.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0089.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0091.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0093.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0095.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0097.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0099.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0101.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0103.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0105.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0107.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0109.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0111.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0113.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0115.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0117.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0119.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0121.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0123.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0125.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0127.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0129.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0131.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0133.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0135.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0137.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0139.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0141.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0143.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0145.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0147.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0149.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0151.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0153.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0155.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0157.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0159.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0161.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0163.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0165.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0167.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0169.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0171.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0173.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0175.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0177.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0179.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0181.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0183.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0185.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0187.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0189.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0191.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0193.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0195.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0197.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0199.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0201.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0203.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0205.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0207.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0209.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0211.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0213.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0215.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0217.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0219.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0221.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0223.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0225.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0227.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0229.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0231.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0233.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0235.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0237.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0239.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0241.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0243.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0245.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0247.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0249.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0251.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0253.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0255.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0257.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0259.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0261.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0263.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0265.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0267.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0269.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0271.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0273.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0275.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0277.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0279.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0281.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0283.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0285.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0287.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0289.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0291.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0293.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0295.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0297.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0299.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0301.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0303.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0305.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0307.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0309.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0311.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0313.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0315.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0317.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0319.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0321.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0323.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0325.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0327.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0329.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0331.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0333.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0335.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0337.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0339.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0341.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0343.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0345.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0347.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0349.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0351.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0353.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0355.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0357.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0359.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0361.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0363.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0365.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0367.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0369.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0371.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0373.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0375.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0377.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0379.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0381.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0383.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0385.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0387.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0389.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0391.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0393.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0395.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0397.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0399.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0401.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0403.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0405.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0407.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0409.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0411.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0413.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0415.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0417.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0419.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0421.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0423.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0425.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0427.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0429.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0431.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0433.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0435.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0437.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0439.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0441.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0443.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0445.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0447.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0449.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0451.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0453.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0455.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0457.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0459.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0461.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0463.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0465.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0467.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0469.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0471.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0473.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0475.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0477.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0479.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0481.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0483.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0485.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0487.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0489.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0491.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0493.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0495.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0497.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0499.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0501.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0503.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0505.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0507.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0509.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0511.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0513.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0515.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0517.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0519.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0521.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0523.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0525.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0527.png'
+duration 0.083333333333
+file 'C:/Users/L/Desktop/破壳BullBear Labs/art-source/luxury_pool_table/20261102_break_promo/preview/0527.png'

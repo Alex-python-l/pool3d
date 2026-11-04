@@ -1,0 +1,223 @@
+VsMode,,,,,,,,[sp]
+19,,,,,,,,[sp]
+m_Id,m_Name,m_Dsp,m_Rule,m_EntryFee,m_Reward,m_LockLv,m_RewardExp,[sp]
+0,8_0,"Call Pocket on 8 Ball/All in
+Entry fee and Prize:
+The entry fee will be the entire chip balance of the player with the least chips and the munimum entry fee is 1000
+The winnings will be the double of entry fee
+
+Winning:
+Pot the 8 ball after potting all your balls
+Pot the 8 ball in the chosen pocket
+
+Losing:
+Potting the 8 ball before your own balls are cleared
+Potting the cue ball and the 8 ball together
+Potting the 8 ball into any pocket other than the chosen one",5,-1,-1,8,360,[sp]
+1,8_1,"Standard (8 Ball)
+Winning:
+Pot the 8 ball after potting all your balls
+
+Losing:
+Potting the 8 ball before your own balls are cleared
+Potting the cue ball and the 8 ball together
+",4,100,200,1,68,[sp]
+2,8_2,"Call Pocket on 8 Ball
+Winning:
+Pot the 8 ball after potting all your balls
+Pot the 8 ball in the chosen pocket
+
+Losing:
+Potting the 8 ball before your own balls are cleared
+Potting the cue ball and the 8 ball together
+Potting the 8 ball into any pocket other than the chosen one
+",5,500,1000,3,88,[sp]
+3,8_3,"Call Pocket on 8 Ball/3D
+Winning:
+Pot the 8 ball after potting all your balls
+Pot the 8 ball in the chosen pocket
+
+Losing:
+Potting the 8 ball before your own balls are cleared
+Potting the cue ball and the 8 ball together
+Potting the 8 ball into any pocket other than the chosen one
+
+Notice:
+The game will be only in 3D perspective
+",7,2500,5000,5,114,[sp]
+4,8_4,"Call Pocket on 8 Ball
+Winning:
+Pot the 8 ball after potting all your balls
+Pot the 8 ball in the chosen pocket
+
+Losing:
+Potting the 8 ball before your own balls are cleared
+Potting the cue ball and the 8 ball together
+Potting the 8 ball into any pocket other than the chosen one
+",5,10000,20000,7,149,[sp]
+5,8_5,"Call Pocket on 8 Ball/No Guidelines
+Winning:
+Pot the 8 ball after potting all your balls
+Pot the 8 ball in the chosen pocket
+
+Losing:
+Potting the 8 ball before your own balls are cleared
+Potting the cue ball and the 8 ball together
+Potting the 8 ball into any pocket other than the chosen one
+
+Notice:
+The guideline will be blocked in the gameplay
+",1,50000,100000,9,194,[sp]
+6,8_6,"Call Pocket on 8 Ball/3D
+Winning:
+Pot the 8 ball after potting all your balls
+Pot the 8 ball in the chosen pocket
+
+Losing:
+Potting the 8 ball before your own balls are cleared
+Potting the cue ball and the 8 ball together
+Potting the 8 ball into any pocket other than the chosen one
+
+Notice:
+The game will be only in 3D perspective
+",7,100000,200000,11,252,[sp]
+7,8_7,"Call Pocket on 8 Ball
+Winning:
+Pot the 8 ball after potting all your balls
+Pot the 8 ball in the chosen pocket
+
+Losing:
+Potting the 8 ball before your own balls are cleared
+Potting the cue ball and the 8 ball together
+Potting the 8 ball into any pocket other than the chosen one
+",5,500000,1000000,12,328,[sp]
+8,8_8,"Call Pocket on 8 Ball/No Guidelines
+Winning:
+Pot the 8 ball after potting all your balls
+Pot the 8 ball in the chosen pocket
+
+Losing:
+Potting the 8 ball before your own balls are cleared
+Potting the cue ball and the 8 ball together
+Potting the 8 ball into any pocket other than the chosen one
+
+Notice:
+The guideline will be blocked in the gameplay
+",1,1000000,2000000,13,426,[sp]
+9,8_9,"Call Pocket on 8 Ball/ No Guidelines/3D
+Winning:
+Pot the 8 ball after potting all your balls
+Pot the 8 ball in the chosen pocket
+
+Losing:
+Potting the 8 ball before your own balls are cleared
+Potting the cue ball and the 8 ball together
+Potting the 8 ball into any pocket other than the chosen one
+
+Notice:
+The guideline will be blocked in the gameplay
+The game will be only in 3D perspective
+",3,5000000,10000000,14,554,[sp]
+100,9_0,"Standard (9 Ball)/All in
+Entry fee and Prize:
+The entry fee will be the entire chip balance of the player with the least chips and the munimum entry fee is 1000
+The winnings will be the double of entry fee
+
+Winning:
+Pot the 9 ball directly after potting all other balls
+Pot the 9 ball after the cue ball firstly have made contact with the lowest ball in any time
+
+Losing:
+None
+",4,-1,-1,7,360,[sp]
+101,9_1,"Standard (9 Ball)
+Winning:
+Pot the 9 ball directly after potting all other balls
+Pot the 9 ball after the cue ball firstly have made contact with the lowest ball in any time
+
+Losing:
+None
+",4,500,1000,2,72,[sp]
+102,9_2,"Standard (9 Ball)/3D
+Winning:
+Pot the 9 ball directly after potting all other balls
+Pot the 9 ball after the cue ball firstly have made contact with the lowest ball in any time
+
+Losing:
+None
+
+Notice:
+The game will be only in 3D perspective
+",6,5000,10000,6,108,[sp]
+103,9_3,"Standard (9 Ball)/No Guidelines
+Winning:
+Pot the 9 ball after potting all other balls
+Pot the 9 ball after the cue ball firstly have made contact with the lowest ball in any time
+
+Losing:
+None
+
+Notice:
+The guideline will be blocked in the gameplay
+",0,10000,20000,8,162,[sp]
+104,9_4,"Standard (9 Ball)/3D
+Winning:
+Pot the 9 ball directly after potting all other balls
+Pot the 9 ball after the cue ball firstly have made contact with the lowest ball in any time
+
+Losing:
+None
+
+Notice:
+The game will be only in 3D perspective
+",6,50000,100000,10,243,[sp]
+105,9_5,"Standard (9 Ball)/No Guidelines/3D
+Winning:
+Pot the 9 ball directly after potting all other balls
+Pot the 9 ball after the cue ball firstly have made contact with the lowest ball in any time
+
+Losing:
+None
+
+Notice:
+The guideline will be blocked in the gameplay
+The game will be only in 3D perspective
+",2,100000,200000,11,364,[sp]
+200,8_T_0,"Standard (8 Ball)
+Winning:
+There are 3 rounds in a tournament and only the 1st player could win the prize
+Pot the 8 ball after potting all your balls each round
+Pot the 8 ball in the chosen pocket each round
+
+Losing:
+Potting the 8 ball before your own balls are cleared
+Potting the cue ball and the 8 ball together
+",4,150,1000,3,86,[sp]
+201,8_T_1,"Call Pocket on 8 Ball/No Guidelines
+Winning:
+There are 3 rounds in a tournament and only the 1st player could win the prize
+Pot the 8 ball after potting all your balls each round
+Pot the 8 ball in the chosen pocket each round
+
+Losing:
+Potting the 8 ball before your own balls are cleared
+Potting the cue ball and the 8 ball together
+Potting the 8 ball into any pocket other than the chosen one
+
+Notice:
+The guideline will be blocked in the gameplay
+",1,1000,7000,5,172,[sp]
+202,8_T_2,"Call Pocket on 8 Ball/3D
+Winning:
+There are 3 rounds in a tournament and only the 1st player could win the prize
+Pot the 8 ball after potting all your balls each round
+Pot the 8 ball in the chosen pocket each round
+
+Losing:
+Potting the 8 ball before your own balls are cleared
+Potting the cue ball and the 8 ball together
+Potting the 8 ball into any pocket other than the chosen one
+
+Notice:
+The game will be only in 3D perspective
+",7,10000,70000,9,344,[sp]

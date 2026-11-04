@@ -1,0 +1,14 @@
+{
+  "current_target_matches_old_snapshot": false,
+  "changes": [
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Cloth_Normal.png",
+      "baseline_sha256": "980b2ff80095cf9630ec190d909b533464281a2f6e189189be1ec1de89be5927",
+      "target_sha256": null,
+      "bytes": null,
+      "modified": null,
+      "candidate_sha256": null
+    }
+  ],
+  "overwritten": false
+}

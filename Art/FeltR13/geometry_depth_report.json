@@ -1,0 +1,27 @@
+{
+  "sheet_thickness_m": 0.00135,
+  "visual_pile_top_m": 0.80018,
+  "nominal_contact_plane_m": 0.8,
+  "ball_transforms_unchanged": true,
+  "bed_source_vertices": 322,
+  "bed_vertices_after": 644,
+  "bed_triangles_after": 1268,
+  "edge_nap": {
+    "object": "Chinese8 | fine cloth edge nap R13",
+    "fibres": 1274,
+    "triangles": 2548,
+    "fibres_compressed_beneath_ball": 0,
+    "exclude_from_static_environment_export": false
+  },
+  "contact_nap": {
+    "object": "Preview | compressed cloth nap at balls R13",
+    "fibres": 1857,
+    "triangles": 3714,
+    "fibres_compressed_beneath_ball": 43,
+    "exclude_from_static_environment_export": true
+  },
+  "scene_triangles": 321802,
+  "no_particle_hair_system": true,
+  "no_extra_lights": true,
+  "no_unity_changes": true
+}

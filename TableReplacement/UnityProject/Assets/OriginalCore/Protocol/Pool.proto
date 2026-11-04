@@ -1,0 +1,526 @@
+// Recovered wire-contract slice, not the original .proto source text.
+// 49 transitively consumed messages; evidence: schema_contract.json.
+syntax = "proto2";
+package com.junerking.proto;
+option optimize_for = LITE_RUNTIME;
+
+message CCAchData {
+  repeated CCRecordItem items = 1;
+}
+
+message CCActivityGoods {
+  repeated CCItem items = 1;
+  optional int32 state = 2 [default = -1];
+}
+
+message CCAssetData {
+  optional int32 cue_id = 1;
+  repeated CCCueData cues = 2;
+  optional int32 table_id = 3;
+  repeated CCTableData tables = 4;
+  repeated CCBoxData boxes = 5;
+  optional int32 icon_id = 6;
+  repeated int32 icon_ids = 7;
+  repeated CCFragmentData fragments = 8;
+  repeated int32 chat_pack_ids = 9;
+  optional int32 free_spin_times = 10;
+  optional int32 medal = 11;
+  optional int32 festival_spin_times = 12;
+  repeated int32 icon_frame_ids = 13;
+}
+
+message CCBall {
+  required int32 ball_id = 1;
+  required bool is_visible = 2;
+  required float pos_x = 3;
+  required float pos_y = 4;
+  required bool is_available = 5;
+}
+
+message CCBoxData {
+  optional int32 id = 1;
+  optional int32 num = 2;
+}
+
+message CCCueData {
+  optional int32 id = 1;
+  optional int32 left_use_times = 2;
+  optional int64 left_use_time = 3;
+  optional bool auto_charge = 4;
+  optional int32 use_times = 5;
+  optional int32 win_times = 6;
+  optional int32 lv = 7;
+}
+
+message CCCurPlayGameState {
+  optional int32 state = 1;
+  optional int32 room_type = 2;
+  optional bool is_tour = 3;
+  optional int32 tour_turn = 4;
+  optional CCCurPvpState pvp_state = 5;
+  repeated CCTourPlayerState tour_room_states = 6;
+  optional CCPlayerContestResultRecord last_play_result_record = 7;
+}
+
+message CCCurPvpState {
+  optional CCPlayer oppo = 1;
+  optional CCSyncData syncData = 2;
+}
+
+message CCDailyTaskData {
+  repeated int32 item_ids = 1;
+  optional int64 last_time = 2;
+  repeated CCRecordItem items = 3;
+}
+
+message CCDailyWinReward {
+  optional int32 result = 1;
+  optional int32 activity_id = 2;
+  repeated CCItemEx items = 3;
+  optional CCActivityGoods goods = 4;
+  optional int32 win_times = 5;
+}
+
+message CCFestivalActivityData {
+  optional int32 id = 1;
+  optional int64 end_time = 2;
+  optional int32 progress = 3;
+  optional int32 target = 4;
+  optional bool completed = 5;
+  optional bool rewarded = 6;
+}
+
+message CCFragmentData {
+  optional int32 id = 1;
+  optional int32 num = 2;
+}
+
+message CCGameData {
+  optional float aimAngle = 1;
+  optional float aimPx = 2;
+  optional float aimPy = 3;
+  optional float strength = 4;
+  repeated CCBall ball_pos = 5;
+  optional int32 camp = 6;
+  optional float idealYaw = 7;
+  optional float idealPitch = 8;
+  optional int32 shootId = 9;
+  optional int32 foul = 10;
+  optional int32 potBallCount = 11;
+  optional int32 targetPocketId = 12;
+  optional int32 stickIndex = 13;
+  optional bool isAI = 14;
+  optional int32 lastPotBallId = 15;
+  optional int32 view_state = 16;
+}
+
+message CCItem {
+  optional int32 id = 1;
+  optional int32 type = 2;
+  optional int32 num = 3;
+  optional float vip_bet = 4;
+  optional int32 pre_num = 5;
+}
+
+message CCItemEx {
+  optional int32 type = 1;
+  optional int32 id = 2;
+  optional int64 num = 3;
+  optional int32 old_type = 4 [default = -1];
+  optional int32 old_id = 5 [default = -1];
+  optional float vip_bet = 6;
+  optional int32 pre_num = 7;
+}
+
+message CCLastPlayGameState {
+  optional int32 state = 1;
+  optional int32 room_type = 2;
+  optional int64 entry = 3;
+  optional bool pay_backed = 4;
+}
+
+message CCOnceGameStatis {
+  optional int32 pot = 1;
+  optional int32 comb_cnt = 2;
+  optional int32 n_in_one_cnt = 3;
+  optional int32 combintion_shoot_cnt = 4;
+  optional int32 bank_shoot_cnt = 5;
+  optional int32 shoot_cnt = 6;
+}
+
+message CCOtherData {
+  optional int64 weekly_winnings = 1;
+  optional int32 week_id = 2;
+  optional int32 last_request_league_lv = 3;
+  optional int32 prized_state = 4;
+  optional int64 last_weekly_winnings = 5;
+  optional int64 free_coins_end_time = 6;
+  optional int32 daily_bouns_day = 7;
+  repeated int32 daily_bouns_states = 8;
+  optional bool ad_free = 9;
+  optional bool link_facebook_state = 10;
+  optional bool link_facebook_rewarded = 11;
+  optional int64 limited_time_restart_time = 12 [default = -1];
+  optional bool limited_time_restart_valid = 13;
+  optional bool free_slot = 14 [default = true];
+  optional string ip = 15 [default = "1234"];
+  optional string last_login_version = 16 [default = "1234"];
+  optional CCLastPlayGameState last_playgame_state = 17;
+  optional string last_login_server_version = 18 [default = "1234"];
+  optional int32 watch_video_times = 19;
+  optional int32 state_video_free_spin = 20;
+  optional bool is_video_bonus_medal = 21;
+  optional int32 spin_bet = 22 [default = 1];
+  optional int32 spin_bonus_item_type = 23 [default = -1];
+  optional int32 spin_bonus_item_spin_id = 24 [default = -1];
+  optional CCPromotionData promotion_data = 25;
+  optional bool f_changeregion = 26;
+  optional int32 play_free_spin_times = 27;
+  optional int32 play_pay_spin_times = 28;
+  optional string last_login_version_success = 29 [default = "1234"];
+  optional int32 play_festival_spin_times = 30;
+  repeated CCFestivalActivityData festival_activity_datas = 32;
+  optional int32 all_watch_video_times = 33;
+  optional int64 last_watch_video_time = 34;
+  optional int32 piggy_coin = 35;
+  optional int32 piggy_lv = 36;
+  optional int32 credit_score = 37;
+}
+
+message CCPlayer {
+  required string id = 1;
+  optional string name = 2;
+  optional string token = 3;
+  optional int64 coin = 4;
+  optional int64 gem = 5;
+  optional int32 lv = 6;
+  optional int64 exp = 7;
+  optional int32 region = 8;
+  optional int32 last_login_region = 9;
+  optional int64 last_login_time = 10;
+  optional CCAssetData asset_data = 11;
+  optional CCStatisData statis_data = 12;
+  optional CCTaskData task_data = 13;
+  optional string face_book_id = 14;
+  optional string pur_token = 15;
+  optional int32 league_lv = 16;
+  optional CCOtherData other_data = 17;
+  optional int32 icon_id = 18;
+  optional int32 user_type = 19;
+  optional string com_third_id = 20;
+  optional int32 icon_frame_id = 21;
+  optional int64 frag_coin = 22;
+  optional CCSettingData setting_data = 23;
+  optional CCVipData vip_data = 24;
+  optional CCVideoData video_data = 25;
+}
+
+message CCPlayerContestResultRecord {
+  optional int32 state = 1;
+  optional int32 game_over_reason = 2;
+  optional int64 reward_coin = 3;
+  optional int32 reward_exp = 4;
+  optional bool is_win = 5;
+  optional int64 back_coin = 6;
+  optional int32 exp_add = 7;
+  optional bool is_tour_champion = 8;
+  optional bool is_lv_up = 9;
+  optional CCItem lv_up_bonus = 10;
+  optional int32 room_type = 11;
+  optional int32 shoot_count = 12;
+  optional int32 pot_balls_count = 13;
+  optional string oppo_id = 14;
+  optional string oppo_name = 15;
+  optional int32 oppo_icon = 16;
+  optional int32 oppo_lv = 17;
+  optional int32 oppo_cue_id = 18;
+  optional string oppo_facebook_id = 19;
+  optional int32 self_lv = 20;
+  optional int32 self_cue_id = 21;
+  optional int32 oppo_shoot_count = 22;
+  optional int32 oppo_pot_balls_count = 23;
+  optional int64 pre_game_coin = 24;
+  optional int64 cur_coin = 25;
+  optional bool is_friend = 26;
+  optional int32 report_state = 27;
+  optional int32 abnormal_req_cnt = 28;
+  optional int32 abnormal_rlt_cnt = 29;
+}
+
+message CCPotStatus {
+  optional int32 pot = 1;
+  optional int32 comb = 2;
+  optional int32 n_in_one = 3;
+  optional bool has_combintion_shooted = 4;
+  optional bool has_bank_shooted = 5;
+}
+
+message CCPromotionData {
+  repeated CCPromotionItemState item_states = 1;
+  repeated CCPromotionItemBuyRecord buy_records = 2;
+}
+
+message CCPromotionItemBuyRecord {
+  optional int32 id = 1;
+  optional int32 sub_id = 2;
+  optional int32 buy_times = 3;
+}
+
+message CCPromotionItemState {
+  optional int32 id = 1;
+  optional int32 sub_id = 2;
+  optional int64 start_time_sell = 3;
+  optional int64 start_time_next = 4;
+  optional int32 code = 5;
+  optional int32 type = 6;
+  optional int32 time_state = 7;
+  optional bool isvalid = 8;
+}
+
+message CCRankResponse {
+  optional int64 left_time = 1;
+  optional CCWeekScoreRank cur_week_rank = 2;
+  optional CCWeekScoreRank last_week_rank = 3;
+  optional CCWeekResult cur_week_result = 4;
+  optional CCWeekResult last_week_result = 5;
+  optional int32 prized_state = 6;
+  optional bool league_lv_change = 7;
+}
+
+message CCRecordItem {
+  optional int32 id = 1;
+  optional int32 num = 2;
+  optional int32 state = 3;
+}
+
+message CCRoomMgrState {
+  required int32 id = 1;
+  required int64 player_num = 2;
+}
+
+message CCRoomMgrStateResponse {
+  optional int32 result = 1;
+  repeated CCRoomMgrState room_mgr_states = 2;
+}
+
+message CCRoomPlayerStatus {
+  optional string uid = 1;
+  optional CCRoundResultStatus rrs = 4;
+  optional int64 offline_end_time = 5;
+  optional int64 start_offline_time = 6;
+  optional int64 offline_time = 7;
+  optional int32 offline_cnt = 8;
+  optional int32 reulst_inconformity_cnt = 9;
+  optional int32 score = 10;
+  optional int32 cue_id = 11;
+  optional int32 round_prepare_state = 12;
+  optional CCOnceGameStatis once_game_statis = 13;
+}
+
+message CCRoundResultStatus {
+  repeated CCBall balls = 1;
+  optional bool fouled = 2;
+  optional CCPotStatus pot_status = 3;
+  optional int32 camp = 4;
+  optional int32 turn = 5;
+  optional int32 free_ball_state = 6;
+  optional bool reset_balls = 7;
+  optional int32 win = 8;
+  optional int32 confirm_state = 9;
+  optional int32 pushout_state = 10;
+}
+
+message CCServerConfigData {
+  optional int32 free_spin_special_offer_interval = 1;
+  optional int32 server_round_time_add = 2;
+  optional int32 min_round_time = 3;
+  optional int32 max_round_time = 4;
+}
+
+message CCSettingData {
+  optional bool init = 1;
+  optional bool notification = 2;
+  optional bool music = 3 [default = true];
+  optional bool sound = 4 [default = true];
+  optional bool vibrate = 5 [default = true];
+  optional int32 cue_sensitivity = 6 [default = 1];
+  optional bool tap_to_aim = 7 [default = true];
+  optional bool chat_in_game = 8 [default = true];
+  optional bool guideline_offline = 9 [default = true];
+  optional int32 power_bar_orientation = 10 [default = 1];
+  optional bool accept_add_friend = 11 [default = true];
+  optional bool show_status_to_friend = 12 [default = true];
+}
+
+message CCShootState {
+  optional int32 id = 1;
+  optional bool shootting = 2;
+  optional float aim_angle = 3;
+  optional float aim_px = 4;
+  optional float aim_py = 5;
+  optional float strength = 6;
+}
+
+message CCShootStatus {
+  optional int32 cue_id = 1;
+  optional bool has_shooted = 2;
+  optional float aim_angle = 3;
+  optional float aim_px = 4;
+  optional float aim_py = 5;
+  optional float strength = 6;
+  repeated CCBall balls = 7;
+  optional int32 target_pocket_id = 8;
+}
+
+message CCStatisData {
+  optional int32 win_8 = 1;
+  optional int32 lose_8 = 2;
+  optional int32 draw_8 = 3;
+  optional int32 winstreak_8 = 4;
+  optional int32 tourwin_8 = 5;
+  optional int32 max_winstreak_8 = 6;
+  optional int32 ballspot_8 = 7;
+  optional int32 win_9 = 8;
+  optional int32 lose_9 = 9;
+  optional int32 draw_9 = 10;
+  optional int32 winstreak_9 = 11;
+  optional int32 tourwin_9 = 12;
+  optional int32 max_winstreak_9 = 13;
+  optional int32 ballspot_9 = 14;
+  optional int64 total_wincoin = 15;
+}
+
+message CCStatus {
+  required int32 status = 1;
+  optional string error_reason = 2;
+}
+
+message CCSyncData {
+  optional bool playing = 1;
+  optional float roundLeftTime = 2;
+  optional int32 turn = 3;
+  optional int32 camp = 4;
+  repeated CCBall ball_pos = 5;
+  optional int32 foul = 6;
+  optional int32 selfShootId = 7;
+  optional int32 oppoShootId = 8;
+  optional int32 selfTargetPocketId = 9;
+  optional int32 oppoTargetPocketId = 10;
+  optional int32 stickIndex = 11;
+  optional int32 oppo_net_state = 12;
+  optional float oppo_offline_time = 13;
+  optional int32 game_state = 14;
+  optional bool is_ai = 15;
+  optional int32 view_state = 16;
+  optional int64 entry_fee = 17;
+  optional int32 self_score = 18;
+  optional int32 oppo_score = 19;
+  optional int32 self_cue_id = 20;
+  optional int32 oppo_cue_id = 21;
+  optional int32 game_over_reason = 22;
+  optional CCShootState self_shoot_state = 23;
+  optional CCShootState oppo_shoot_state = 24;
+  optional int32 free_ball_state = 25;
+  optional CCShootStatus shoot_status = 27;
+  optional CCRoomPlayerStatus self_player_status = 28;
+  optional CCRoomPlayerStatus oppo_player_status = 29;
+  optional int64 round_end_time = 30;
+  optional int32 pushout_state = 31;
+  optional int32 comb = 33;
+}
+
+message CCTableData {
+  optional int32 id = 1;
+  optional int64 left_use_time = 2;
+}
+
+message CCTaskData {
+  optional CCDailyTaskData dailytask_data = 1;
+  optional CCAchData ach_data = 2;
+}
+
+message CCTourPlayerState {
+  optional string user_id = 1;
+  optional string user_name = 2;
+  optional int32 roomNum = 3;
+  optional int32 in_room_state = 4;
+  optional int32 user_icon = 5;
+  optional bool is_ai = 6;
+  optional int32 in_room_no = 7;
+  optional int32 camp = 8;
+  optional int32 left_ball_count = 9;
+  optional int32 play_id = 10;
+}
+
+message CCTourRoomStateResponse {
+  required CCStatus status = 1;
+  optional int64 transaction_id = 2;
+  repeated CCTourPlayerState tour_player_states = 3;
+}
+
+message CCVideoData {
+  optional int32 nth = 1;
+  optional int64 next_refresh_time = 2;
+  repeated CCItem reward_items = 3;
+  optional int64 refresh_t = 4;
+}
+
+message CCVipData {
+  optional bool init = 1;
+  optional int32 lv = 2;
+  optional int32 exp = 3;
+  optional bool transfered = 4;
+  optional bool transfer_show = 5;
+}
+
+message CCWaitOppoResponse {
+  optional int32 result = 1;
+  optional int64 offline_end_time = 2;
+}
+
+message CCWeekResult {
+  optional CCWeekResultItem world_item = 1;
+  optional CCWeekResultItem region_item = 2;
+  optional CCWeekResultItem leaguelv_item = 3;
+}
+
+message CCWeekResultItem {
+  optional int32 type_id = 1;
+  optional int64 player_num = 2;
+  optional int32 prize_states = 3;
+}
+
+message CCWeekScoreItem {
+  required string user_id = 1;
+  optional string name = 2;
+  optional int32 lv = 3;
+  optional int32 region = 4;
+  optional int64 weekly_winnings = 5;
+  optional int32 icon_id = 6;
+  optional int32 icon_frame_id = 7;
+  optional string third_id = 8;
+}
+
+message CCWeekScoreRank {
+  repeated CCWeekScoreItem world_items = 2;
+  repeated CCWeekScoreItem region_items = 3;
+  repeated CCWeekScoreItem leaguelv_items = 4;
+}
+
+message CCWinResponse {
+  required CCStatus status = 1;
+  optional CCPlayer player = 2;
+  optional int32 reward_coin = 3;
+  optional int32 reward_exp = 4;
+  optional bool is_win = 5;
+  optional int32 back_coin = 6;
+  optional int32 exp_add = 7;
+  optional bool is_tour_champion = 8;
+  optional bool is_lv_up = 9;
+  optional CCItem lv_up_bonus = 10;
+  optional CCDailyWinReward daily_win_reward = 11;
+  optional int32 credit = 12;
+  optional int32 game_over_reason = 13;
+  optional CCItem lv_exp_item = 14;
+  optional CCItem vip_exp_item = 15;
+}

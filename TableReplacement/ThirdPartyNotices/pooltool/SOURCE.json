@@ -1,0 +1,52 @@
+{
+  "repository": "https://github.com/ekiefl/pooltool",
+  "commit": "7632b1c66f19159741a4cfe48b23d18f079d9a87",
+  "license": "Apache-2.0",
+  "reference_files": [
+    {
+      "path": "LICENSE.txt",
+      "sha256": "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c"
+    },
+    {
+      "path": "pooltool/objects/ball/params.py",
+      "sha256": "f2d5454a17cb2cb896ffad5781039ebd069c8f6540c64c3d6e19f58bf91d2fd0"
+    },
+    {
+      "path": "pooltool/physics/evolve/__init__.py",
+      "sha256": "f69de6e5c4c76db3eed0cf7b808c47adec10afd8ac37b8a40afffd25430a6335"
+    },
+    {
+      "path": "pooltool/physics/resolve/ball_ball/friction.py",
+      "sha256": "3c012a956394f485cb1840a0daf4cbfa608ff4958b4b0afe51cd8ad42ee519db"
+    },
+    {
+      "path": "pooltool/physics/resolve/ball_ball/frictional_inelastic/__init__.py",
+      "sha256": "1750c14f1c80cb5a4213e126cc08161aa6386724ef554e1e3fce5f8d09662bf8"
+    },
+    {
+      "path": "pooltool/physics/resolve/ball_cushion/impulse_frictional_inelastic/model.py",
+      "sha256": "bc774bb780f76c28d59c7d921038b2eca288c5ab80065976efb7e08bbc06cf0d"
+    },
+    {
+      "path": "pooltool/physics/resolve/sphere_half_space_collision.py",
+      "sha256": "f173882d98a1b5dd217acf6eba54b157af6548d03af000bd98966e69ed9880c3"
+    },
+    {
+      "path": "pooltool/physics/resolve/stick_ball/instantaneous_point/__init__.py",
+      "sha256": "056f29f24a14c624a470003334217e7cc145b8f2108ce64ccf4e721b2b56602d"
+    },
+    {
+      "path": "pooltool/physics/utils.py",
+      "sha256": "678ea7be56a37b9567b1fa25219d10ca0fb8fb53c99baa5d5ae9b71ccb84a488"
+    },
+    {
+      "path": "pooltool/ptmath/utils.py",
+      "sha256": "80c1d4c55c500d13a1e9dcf7b6f05928fdefa827c809fb3370b3eb49389a374c"
+    },
+    {
+      "path": "README.md",
+      "sha256": "e36abac7a5c4b0f16ddd973c89e749be3a2fd06fd8b3318cb4ef41e3a18acd49"
+    }
+  ],
+  "adaptation": "Selected equations adapted to C# and the existing game state; no pooltool runtime bundled"
+}

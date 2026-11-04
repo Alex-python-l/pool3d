@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "compared_config_samples": 3000,
+  "max_edge_error_mm": 6.089928225945096e-06,
+  "method": "Each physics segment sampled against actual exported triangle nose-level edges; independent of ring polar ordering."
+}

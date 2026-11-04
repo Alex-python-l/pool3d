@@ -1,0 +1,27 @@
+{
+  "status": "complete",
+  "views": [
+    {
+      "file": "C:\\Users\\L\\Desktop\\破壳BullBear Labs\\art-source\\luxury_pool_table\\20261101_closed_room_balls_cue_r11\\closed_room.png",
+      "camera": "Room | presentation camera",
+      "resolution": [
+        1800,
+        1350
+      ]
+    },
+    {
+      "file": "C:\\Users\\L\\Desktop\\破壳BullBear Labs\\art-source\\luxury_pool_table\\20261101_closed_room_balls_cue_r11\\shot_front_half.png",
+      "camera": "Shot | front-half cue camera",
+      "resolution": [
+        1600,
+        1000
+      ]
+    }
+  ],
+  "seconds": 110.68643379211426,
+  "actual_blender_scene": true,
+  "engine": "CYCLES",
+  "backend": "OPTIX",
+  "unity_runtime": false,
+  "gameplay_executed": false
+}

@@ -1,0 +1,17 @@
+{
+    "passed": false,
+    "gameplay": false,
+    "playMode": false,
+    "cases": 8,
+    "checks": [
+        "V3 long side",
+        "V3 short side",
+        "ball diameter unchanged",
+        "mesh outline exceeds old cache capacity",
+        "mixed old/V3 dimensions rejected",
+        "zero unit scale rejected",
+        "unknown schema rejected",
+        "empty config rejected"
+    ],
+    "error": "System.Exception: reject mixed geometry contracts: legacy ID with V3 body, old cushion array with V3 dimensions, old head-string area with new head string\r\n  at Pool3D.Offline.Editor.IntegratedGeometryChecks.Check (System.Boolean ok, System.String message) [0x0002c] in C:\\Users\\L\\Desktop\\破壳BullBear Labs\\deliverables\\Pool3D-Integrated-V1\\UnityProject\\Assets\\OfflineRuntime\\Editor\\IntegratedGeometryChecks.cs:17 \r\n  at Pool3D.Offline.Editor.IntegratedGeometryChecks.Run () [0x001f5] in C:\\Users\\L\\Desktop\\破壳BullBear Labs\\deliverables\\Pool3D-Integrated-V1\\UnityProject\\Assets\\OfflineRuntime\\Editor\\IntegratedGeometryChecks.cs:42 "
+}

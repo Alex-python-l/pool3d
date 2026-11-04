@@ -1,0 +1,36 @@
+{
+  "static_only": true,
+  "checks": [
+    {
+      "pocket": 0,
+      "capture_radius": 22.925,
+      "minimum_ball_clearance_mm": -5.963658519271689
+    },
+    {
+      "pocket": 1,
+      "capture_radius": 24.425,
+      "minimum_ball_clearance_mm": 23.60653992573025
+    },
+    {
+      "pocket": 2,
+      "capture_radius": 22.925,
+      "minimum_ball_clearance_mm": -5.963658519271689
+    },
+    {
+      "pocket": 3,
+      "capture_radius": 22.925,
+      "minimum_ball_clearance_mm": -5.963658519271689
+    },
+    {
+      "pocket": 4,
+      "capture_radius": 24.425,
+      "minimum_ball_clearance_mm": 23.60653992573025
+    },
+    {
+      "pocket": 5,
+      "capture_radius": 22.925,
+      "minimum_ball_clearance_mm": -5.963658519271689
+    }
+  ],
+  "interpretation": "Diagnostic of lines aimed at the exact deep pocket centre. Tight rounded jaws can reject these lines; the final replacement check separately verifies all three actual AI candidate lines and requires at least one clear approach per pocket."
+}

@@ -1,0 +1,23 @@
+{
+  "hold_draw_through_frame": 207,
+  "strike_frame": 208,
+  "last_frame_speed_average_m_s": 3.6719999999999997,
+  "rerender_final_frames": [
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210
+  ],
+  "geometry_and_other_animation_unchanged": true
+}

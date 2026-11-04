@@ -1,0 +1,17 @@
+{
+  "same_algorithm": "OpenImageDenoise HIGH ACCURATE",
+  "cpu_to_gpu_comparison": [
+    {
+      "frame": 36,
+      "mean_abs_8bit": 0.03385438260088447
+    },
+    {
+      "frame": 231,
+      "mean_abs_8bit": 0.07061416010226644
+    },
+    {
+      "frame": 315,
+      "mean_abs_8bit": 0.07394645695135434
+    }
+  ]
+}

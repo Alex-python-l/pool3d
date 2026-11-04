@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "scene": "luxury_pool_room_closed_balls_cue_r11.blend",
+  "sha256": "a9d3befe97db81abfe6d3b9decf21214a471f1d59e82470981336f04a5c8c408",
+  "images": [
+    "closed_room.png",
+    "shot_front_half.png"
+  ],
+  "original_meshes_unchanged": 82,
+  "balls": 16,
+  "closed_four_walls": true,
+  "cue_length_m": 1.4500000664900075,
+  "visible_front_axis_fraction": 0.519405423543853,
+  "unity_modified": false,
+  "unity_plan": "Unity接入实施方案.md"
+}

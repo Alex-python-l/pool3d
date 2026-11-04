@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d827801db7fd64ea494b1a511c1842, type: 3}
+  m_Name: PresentationAssets
+  m_EditorClassIdentifier: 
+  environmentPrefab: {fileID: 3540334399734133583, guid: 4d45f14cb0e45a14d9d8307fda22fb12, type: 3}
+  geometryId: luxury-chinese8-20261030-r3
+  cuePrefab: {fileID: 5182803342708130554, guid: ccf2ef67ca7b5d54bb7915ed8fa659ba, type: 3}
+  ballPrefabs:
+  - {fileID: 1391031740340391521, guid: 9b751fbe93a2eac499b24084a57e2fcb, type: 3}
+  - {fileID: 2389706050788419548, guid: d2a1f23be3fed644fa83783fe58ce190, type: 3}
+  - {fileID: 3914531359757325779, guid: 7bd638119eac2d04cab6eacf9d1151d1, type: 3}
+  - {fileID: 2131696274273221358, guid: 01d5a573b1e9104438e8460fdcb7f334, type: 3}
+  - {fileID: 7353710243652666752, guid: be1076ae3f28244438741aa7d5768f23, type: 3}
+  - {fileID: 3804819946026483819, guid: 77c655a51ce97274fabf36d9caef1728, type: 3}
+  - {fileID: 2488728577109895047, guid: 12692544a4e51864aae93ad45ce4fd7e, type: 3}
+  - {fileID: 5389662089964521351, guid: ad6d0bb9dfe51d740a36dc71e5046f8f, type: 3}
+  - {fileID: 311433951551535359, guid: 6d69f737159b38d4d80de110ba23ebc2, type: 3}
+  - {fileID: 7925115185211701441, guid: 62f41cd73fba2ce4fbffb8f4e31de03e, type: 3}
+  - {fileID: 3159014281502496473, guid: 5517bfbebf572914193b01404c6f4c8e, type: 3}
+  - {fileID: 8577374891009592204, guid: 760556bf253940b4b9566e507d6d509b, type: 3}
+  - {fileID: 1177528262839539663, guid: 7e99e6acb7de17447b00dea3f6ffccae, type: 3}
+  - {fileID: 8505058250782227787, guid: 8cf84c4b5f1f8064084b77c2efba3dbd, type: 3}
+  - {fileID: 8644887870009209599, guid: 0d9df90646ec87240b63fae2ad277423, type: 3}
+  - {fileID: 7668336863213554429, guid: a4db6c4e7ca84e2418bea9828670c3d7, type: 3}

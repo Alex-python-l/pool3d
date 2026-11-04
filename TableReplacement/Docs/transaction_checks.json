@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "cases": [
+    "read-only preflight",
+    "apply complete paired payload",
+    "restore all original files and remove added files",
+    "mid-copy failure rolls back and removes staging files"
+  ],
+  "files": 147,
+  "original_project_modified": false
+}

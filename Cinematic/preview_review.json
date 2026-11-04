@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "reviewed_key_frames": [
+    1,
+    35,
+    71,
+    73,
+    107,
+    143,
+    145,
+    179,
+    215,
+    217,
+    239,
+    287,
+    289,
+    335,
+    383,
+    385,
+    419,
+    455,
+    457,
+    491,
+    527
+  ],
+  "checks": [
+    "seven shots framed within room",
+    "full table and six pockets visible overhead",
+    "slender cue front only in strike shot",
+    "physical contact and no escaped balls",
+    "slow motion collision and continuous movement",
+    "22-second encoded preview with synchronized synthesized soundtrack"
+  ]
+}

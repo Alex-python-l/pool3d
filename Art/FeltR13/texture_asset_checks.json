@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "file_hashes_verified": 5,
+  "normal_height_x_correlation": 0.9992439992820679,
+  "normal_height_y_correlation": 0.9993334302052189,
+  "normal_convention": "OpenGL +Y up with PNG row-down compensation",
+  "generated_albedo_resolution": [
+    1254,
+    1254
+  ],
+  "baked_albedo_resolution": [
+    2048,
+    2048
+  ]
+}

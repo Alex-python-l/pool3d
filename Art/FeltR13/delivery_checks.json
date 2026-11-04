@@ -1,0 +1,74 @@
+{
+  "revision": "R13",
+  "saved_at": "2026-11-02T02:10:53.128535+08:00",
+  "canonical": "C:\\Users\\L\\Desktop\\破壳BullBear Labs\\art-source\\luxury_pool_table\\20261029_cleanup_sizing\\luxury_pool_table_clean_metric.blend",
+  "canonical_sha256": "4b3328f84aa006cf0b938105cab5e71e95afcf7d3cce2ae590bd411605a9295d",
+  "complete_copy": "C:\\Users\\L\\Desktop\\破壳BullBear Labs\\art-source\\luxury_pool_table\\20261102_felt_depth_r13\\luxury_pool_table_felt_depth_r13.blend",
+  "complete_sha256": "ea0ca5d4b648c4445a428d3b1ded30cad142cdb7384f69d7a2b1c238f84b5caa",
+  "pre_edit_backup": "C:\\Users\\L\\Desktop\\破壳BullBear Labs\\art-source\\luxury_pool_table\\20261102_felt_depth_r13\\before_felt_depth_r13.blend",
+  "scene_objects": 150,
+  "mesh_objects": 106,
+  "triangles": 321802,
+  "packed_used_images": 39,
+  "actual_scene_render_views_reviewed": true,
+  "views": [
+    {
+      "file": "ball_cloth_contact.png",
+      "resolution": [
+        1800,
+        1300
+      ],
+      "bytes": 3381351,
+      "sha256": "224233bcb348409f226aee355453ef3f4ff51da924c42ff1d022f174a846d740"
+    },
+    {
+      "file": "cloth_wrap_detail.png",
+      "resolution": [
+        1400,
+        1600
+      ],
+      "bytes": 3440558,
+      "sha256": "f001783f2c8b969f5ca5ca58bcf96a4804341e80b265e158253322bb46e9e8b5"
+    },
+    {
+      "file": "cloth_thickness_detail.png",
+      "resolution": [
+        1400,
+        1100
+      ],
+      "bytes": 2152211,
+      "sha256": "b458993c58d0252e56119882814e9bd1f0ffdcabf2a8b9ffbff12ad084570bfa"
+    },
+    {
+      "file": "tabletop_shot.png",
+      "resolution": [
+        1920,
+        1200
+      ],
+      "bytes": 2807893,
+      "sha256": "29da22a469f4e0778711abdac6d90d59bf732aaeceeab613fd9c7c634f72a199"
+    },
+    {
+      "file": "table_overview.png",
+      "resolution": [
+        1920,
+        1440
+      ],
+      "bytes": 3467391,
+      "sha256": "1a648f12013301943c4af2c07a6fdd57eb9ed8e74b623e7428f3492ac28ec072"
+    }
+  ],
+  "checks": "felt_depth_checks.json",
+  "height_contract": "contact_height_contract.json",
+  "static_room_mesh_count": 88,
+  "static_contact_preview_excluded": true,
+  "imagegen_mode": "built-in",
+  "imagegen_prompts": "imagegen_prompts.json",
+  "tripo_calls": 0,
+  "credentials_file_read": false,
+  "unity_export_performed": false,
+  "playMode": false,
+  "gameplay_executed": false,
+  "runtime_fps_not_measured": true,
+  "pending_guard_updated": true
+}

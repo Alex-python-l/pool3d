@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-30",
+  "passed": true,
+  "stage": "paired table replacement prepared in isolated candidate; original not activated",
+  "unity": "2022.3.62f2 Built-in Linear",
+  "editModeExitCode": 0,
+  "geometryChecks": 881,
+  "presentationChecks": 301,
+  "replacementChecks": 299,
+  "numericRegression": true,
+  "transactionChecks": [
+    "read-only preflight",
+    "apply complete paired payload",
+    "restore all original files and remove added files",
+    "mid-copy failure rolls back and removes staging files"
+  ],
+  "meshParts": 50,
+  "materials": 9,
+  "triangles": 264705,
+  "blockers": 604,
+  "modelPackageAssets": 67,
+  "originalFilesUnchanged": 535,
+  "candidateOriginalCoreCsUnchanged": 45,
+  "payloadFiles": 147,
+  "appliedToOriginal": false,
+  "playMode": false,
+  "gameplay": false,
+  "screenshots": false,
+  "rendered": false,
+  "windowsBuild": false,
+  "upperFrameRevision": "R3b original corner appearance, limited straight-rail UV and curved pocket cloth",
+  "r2RolledBack": true,
+  "woodFrameRebuilt": false,
+  "creamCapsRebuilt": false,
+  "originalCornerAppearanceRestored": true,
+  "curvedJawConnectors": 12,
+  "bodyCushionTriangleIntersections": 0,
+  "observedMissingOriginalAssetsPreserved": [
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Cloth_Normal.png",
+      "sha256": "980b2ff80095cf9630ec190d909b533464281a2f6e189189be1ec1de89be5927"
+    }
+  ]
+}

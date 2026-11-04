@@ -1,0 +1,44 @@
+{
+  "source": "PoolSet_Bumper imported mesh, projected complete cushion silhouette; not a three-dimensional nose model",
+  "meshCount": 11,
+  "cushions": 6,
+  "blockerCount": 31,
+  "noseHeightMetres": 0.0349505,
+  "outlineSilhouetteSamples": 3216,
+  "maxEnvelopeErrorMillimetres": 0.0011769027710215596,
+  "pockets": [
+    {
+      "mesh": "PoolSet_Pocket",
+      "openingRadius": 80.38488030433655,
+      "captureRadius": 51.809880304336545
+    },
+    {
+      "mesh": "PoolSet_Pocket.001",
+      "openingRadius": 80.38491010665894,
+      "captureRadius": 51.80991010665893
+    },
+    {
+      "mesh": "PoolSet_Pocket.002",
+      "openingRadius": 80.38491010665894,
+      "captureRadius": 51.80991010665893
+    },
+    {
+      "mesh": "PoolSet_Pocket.003",
+      "openingRadius": 80.38488030433655,
+      "captureRadius": 51.809880304336545
+    },
+    {
+      "mesh": "PoolSet_Pocket.004",
+      "openingRadius": 80.38491010665894,
+      "captureRadius": 51.80991010665893
+    },
+    {
+      "mesh": "PoolSet_Pocket.005",
+      "openingRadius": 80.38491010665894,
+      "captureRadius": 51.80991010665893
+    }
+  ],
+  "capturePolicy": "top opening inscribed radius minus ball radius; original circular capture retained",
+  "gameplay": false,
+  "visualReview": false
+}

@@ -1,0 +1,8 @@
+* text=auto
+*.blend binary
+*.fbx binary
+*.glb binary
+*.mp4 binary
+*.png binary
+*.jpg binary
+*.unitypackage binary

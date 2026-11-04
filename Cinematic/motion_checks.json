@@ -1,0 +1,40 @@
+{
+  "simulator": "Blender Bullet",
+  "fps": 240,
+  "frames": 2401,
+  "substeps_per_frame": 48,
+  "solver_iterations": 100,
+  "all_target_balls_moved_over_3mm": true,
+  "target_balls_moved_over_10cm": 12,
+  "first_rack_movement_sim_frame": 47,
+  "max_ball_height_m": 0.8296064734458923,
+  "min_ball_height_m": 0.6135014891624451,
+  "min_ball_center_separation_m": 0.057144554278467395,
+  "severe_overlap_frames_over_2mm": [],
+  "balls_pocketed": [
+    0,
+    4,
+    6,
+    11,
+    15
+  ],
+  "no_ball_outside_table": true,
+  "final_displacement_m": [
+    0.7527578966465942,
+    1.0550299485881038,
+    0.5567027682715899,
+    1.8344147529868438,
+    0.966890341497855,
+    0.016525473125445205,
+    0.7025627911963905,
+    0.47294416085492197,
+    0.016523617797336274,
+    0.03443375689163676,
+    1.2183349813681434,
+    0.9760254887774347,
+    0.48350889669980546,
+    0.48351196436700855,
+    1.4065468084236674,
+    0.7042776391237195
+  ]
+}

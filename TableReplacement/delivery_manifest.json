@@ -1,0 +1,3704 @@
+{
+  "files": [
+    {
+      "path": "Docs/blender_final_asset_audit.json",
+      "bytes": 19533,
+      "sha256": "c009c04d780b3df394c0a5ef626bce34a8b3d0fe0c2f51f2bf8c022e0bc7ad71"
+    },
+    {
+      "path": "Docs/blender_preparation_report.json",
+      "bytes": 25679,
+      "sha256": "5534274968e3f92f4d55ea46250a82a515a8014fd36979fd1201af16f9b87058"
+    },
+    {
+      "path": "Docs/contour_edge_checks.json",
+      "bytes": 237,
+      "sha256": "987037582eb334f77300741c7e84c03d962a66ad254f72c84fad7c0d8d77f3a5"
+    },
+    {
+      "path": "Docs/diagnostic_centreline_approaches.json",
+      "bytes": 1046,
+      "sha256": "b464bdeeba7240a447845893193fd1bf5531b47d32494951ef46b7a6c9f31a84"
+    },
+    {
+      "path": "Docs/editor_exit.json",
+      "bytes": 65,
+      "sha256": "7eb850da83b09a676f9a9e3708c581a31023018d5abd500bf81adea90f23bb68"
+    },
+    {
+      "path": "Docs/geometry_checks.json",
+      "bytes": 26946,
+      "sha256": "040f275a267314ca5f92d0a97b1dda16b049f6701dfafbcc3fb87c7206a7882c"
+    },
+    {
+      "path": "Docs/inherited_m0m1/ball_set_manifest.json",
+      "bytes": 3151,
+      "sha256": "0a9fd5cf4ed5482212036309311b6e6a3ee421f23247199c780274a1478c1378"
+    },
+    {
+      "path": "Docs/inherited_m0m1/baseline_checks.json",
+      "bytes": 64,
+      "sha256": "c277b5b167dd807f20b5f5e9d6c73a52daf13f49c2d8bb52233d099d986fa6a8"
+    },
+    {
+      "path": "Docs/inherited_m0m1/baseline_manifest.json",
+      "bytes": 205089,
+      "sha256": "48f2605bcae17de37ff49e0596f021c0185487fcbbc99899256a00a60af24fc8"
+    },
+    {
+      "path": "Docs/inherited_m0m1/editor_exit.json",
+      "bytes": 53,
+      "sha256": "fd8fe787bffa08ba1f713cbd1761986e290cec1279a878d7b7082a864e43bc94"
+    },
+    {
+      "path": "Docs/inherited_m0m1/felt_red.json",
+      "bytes": 42,
+      "sha256": "c974fa9d4bf3fd71561772a68060d9e77e12af22e7a0addc1b2e0e045185205d"
+    },
+    {
+      "path": "Docs/inherited_m0m1/geometry_checks.json",
+      "bytes": 10369,
+      "sha256": "b7664dc9483f119615b6308049ac012b53438e0955b8876f139ec6935960aebb"
+    },
+    {
+      "path": "Docs/inherited_m0m1/geometry_contract.md",
+      "bytes": 3117,
+      "sha256": "f7734be5938a3d2f441ca81e8e0545e283bd2fc2da877e282f4ee544420f75f8"
+    },
+    {
+      "path": "Docs/inherited_m0m1/geometry_mesh_report.json",
+      "bytes": 1307,
+      "sha256": "5fc96cc3cc7b1f4c4ff8aa062531ce88c7560a221da87b979ef52dbc85ea6554"
+    },
+    {
+      "path": "Docs/inherited_m0m1/geometry_red.json",
+      "bytes": 52,
+      "sha256": "d1710b8c3e73e6071b2c0748c58d5e60ad0fda68bef80ff5a33e3e94377639e1"
+    },
+    {
+      "path": "Docs/inherited_m0m1/geometry_report.json",
+      "bytes": 2700,
+      "sha256": "e5d616500a6e71826139f8034796eb73565769405c0180f045573ff0fca90ca3"
+    },
+    {
+      "path": "Docs/inherited_m0m1/m0m1_snapshot.json",
+      "bytes": 10882,
+      "sha256": "ca8e6acd97ae7fa6cad9b562ba636d2b04500907687ca9437f172635958137c2"
+    },
+    {
+      "path": "Docs/inherited_m0m1/preparation.json",
+      "bytes": 293,
+      "sha256": "382b69b2ca2cb0ec4ad62c25fb17070abeb71fea8fe091224d08def13757eff8"
+    },
+    {
+      "path": "Docs/inherited_m0m1/presentation_checks.json",
+      "bytes": 13713,
+      "sha256": "590425ac77dcdf82614df2a417597b8cc8fc520c0081771f589648ba8b45523d"
+    },
+    {
+      "path": "Docs/inherited_m0m1/presentation_red.json",
+      "bytes": 50,
+      "sha256": "3d830cad4a3463bf6c1ceeeb49caa65acb02aba3865f7f56dd69d33587006527"
+    },
+    {
+      "path": "Docs/inherited_m0m1/review.md",
+      "bytes": 1626,
+      "sha256": "935911442910fcfd082eb89685a0606c54bfa9052b4f166d4fdfe88aa2609523"
+    },
+    {
+      "path": "Docs/inherited_m0m1/review_contract_red.json",
+      "bytes": 1069,
+      "sha256": "b3235ca7ada8603959b527991b6b88657d17a22621944372732ca02a0bb33c4a"
+    },
+    {
+      "path": "Docs/inherited_m0m1/source_changes.json",
+      "bytes": 16835,
+      "sha256": "7417f547a62bb62a9166447e6687bfc6fbb00b24b77d0deaa6430e9395bdc61e"
+    },
+    {
+      "path": "Docs/inherited_m0m1/table_mesh_export.json",
+      "bytes": 2600554,
+      "sha256": "ff114ee761eb7803a5cb66d4b480b8ba8366f626b78bb643fbd4fc7d1b7ad74e"
+    },
+    {
+      "path": "Docs/inherited_m0m1/verification.json",
+      "bytes": 802,
+      "sha256": "44b4ce2bcc894ad50f6add72c2c84ce93348ced1804c46ffc716b785db4a46c9"
+    },
+    {
+      "path": "Docs/model_package_checks.json",
+      "bytes": 3831,
+      "sha256": "8189151f7be71c66e3dc8da812301b3837ffdc56d6a37047ca50e4e245cee7eb"
+    },
+    {
+      "path": "Docs/original_project_snapshot.json",
+      "bytes": 95265,
+      "sha256": "2d8d302a7f1a6c517172ad6855769ef52e0524c921583be1b7e5f63a26a9721f"
+    },
+    {
+      "path": "Docs/original_unchanged.json",
+      "bytes": 362,
+      "sha256": "a9b52ac03b72b7da7628b4fb1580adafdfdd6fae15bf786d807b7174edd4bcf9"
+    },
+    {
+      "path": "Docs/presentation_checks.json",
+      "bytes": 13713,
+      "sha256": "590425ac77dcdf82614df2a417597b8cc8fc520c0081771f589648ba8b45523d"
+    },
+    {
+      "path": "Docs/rail_fix_checks.json",
+      "bytes": 57758,
+      "sha256": "b8faaab487298b771aba23a49239e646a68d071f8e2d4332381c6aa6c3a4ac73"
+    },
+    {
+      "path": "Docs/replacement_checks.json",
+      "bytes": 14392,
+      "sha256": "9d99cc3da9d95fe679e428351a47771f36fcd0e50c736e5d0530b822c6821951"
+    },
+    {
+      "path": "Docs/replacement_contract.md",
+      "bytes": 2510,
+      "sha256": "8c6c7297df275311add44d8d19783fee681f2085d24ca8c8ce52229ace220b63"
+    },
+    {
+      "path": "Docs/replacement_geometry.json",
+      "bytes": 42086,
+      "sha256": "27cf7cf9c457a6909a49b60da6c737f403dc4595cce159aa0b0531de4ad96286"
+    },
+    {
+      "path": "Docs/replacement_payload.json",
+      "bytes": 31405,
+      "sha256": "864b58ccbad0f575d5bd17ec7615325833529094c82df14bf9c67ebb3133e02c"
+    },
+    {
+      "path": "Docs/target_baseline_changes.json",
+      "bytes": 394,
+      "sha256": "ddf42d7297ee791024e096958a88220a29bd650b893cee44a96665f0ee9d339b"
+    },
+    {
+      "path": "Docs/transaction_checks.json",
+      "bytes": 283,
+      "sha256": "0eb679c292c7873bf4cd657b90eb45b102db91f8537bce3386f6fcb0f717d2af"
+    },
+    {
+      "path": "Docs/verification.json",
+      "bytes": 1444,
+      "sha256": "81bba9690b828a0266cd2cff8e738d966c5464f348e9beaa312ed16c70d343cf"
+    },
+    {
+      "path": "numeric_checks.json",
+      "bytes": 7700,
+      "sha256": "2471bbe83344b6d6541768a26b565124a7afd1ed270268057fdfecc5ae4f14b3"
+    },
+    {
+      "path": "Pool3D-NewTable-Model.unitypackage",
+      "bytes": 14101421,
+      "sha256": "7f7550d2b9ed0fe36e266ddd5cd830504b5610eebddfb8df54620d3535a20595"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6408,
+      "sha256": "7389c62c8c067116ffaefe673b5950d3050eb5ff62e133524fad2c74bfc25064"
+    },
+    {
+      "path": "Source/authoring_clean_metric.blend",
+      "bytes": 13104334,
+      "sha256": "aae233aeb7d5616a219117bdd8b3c0436a9d2a497b59e7a5355dca9184438c56"
+    },
+    {
+      "path": "Source/build_geometry.py",
+      "bytes": 5257,
+      "sha256": "719bbb342c4f4b96b9dfdc8eff269a5380c8fca9f4adf5ec7f2757fd875b8b90"
+    },
+    {
+      "path": "Source/build_replacement_geometry.py",
+      "bytes": 4010,
+      "sha256": "08d4b99ef0acc2c1c67a23379d5cc995b5e2fa4754be31de40326093f68b7d17"
+    },
+    {
+      "path": "Source/export_blender_table.py",
+      "bytes": 4550,
+      "sha256": "881ee7ca8c02b77ccc84107a7e978d70c71e5cd2e008f7c43a6301aba00cebfe"
+    },
+    {
+      "path": "Source/fix_uv_and_curved_jaws_r3.py",
+      "bytes": 11971,
+      "sha256": "cc3367cec0efbe3034c49932b094d333a31ab5d0daf0e012aca3079c6d57ba83"
+    },
+    {
+      "path": "Source/generate_ball_set.py",
+      "bytes": 3185,
+      "sha256": "03207d3f1524d1e3844c3fff3650bc8ddfb0b87f07f08e78989e4847550f4a53"
+    },
+    {
+      "path": "Source/requirements.txt",
+      "bytes": 28,
+      "sha256": "55f2e81875ac91f7246be1a7e6555627064b7618781ee1951c7d44371df9b76d"
+    },
+    {
+      "path": "Source/restore_corner_appearance_r3b.py",
+      "bytes": 4072,
+      "sha256": "986019304e2b24c2c1c62017e50a83449a61cc8b717bb1efd94b8890ea3897f4"
+    },
+    {
+      "path": "ThirdPartyNotices/art_sources.md",
+      "bytes": 1106,
+      "sha256": "5ab52f76e0bb785d9d26016f726c3763bc363697f219a5ebb456e278143ebf46"
+    },
+    {
+      "path": "ThirdPartyNotices/pooltool/LICENSE.txt",
+      "bytes": 11358,
+      "sha256": "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c"
+    },
+    {
+      "path": "ThirdPartyNotices/pooltool/NOTICE.txt",
+      "bytes": 672,
+      "sha256": "b08637cce8e4f16935a62b6d074d8c5f7e9a313c7ba4f007d25fdf3f742fc419"
+    },
+    {
+      "path": "ThirdPartyNotices/pooltool/SOURCE.json",
+      "bytes": 2025,
+      "sha256": "a845b4c67dc0548007b16f9f9f6c2e71bb3358ac223a47dceb4817f7914926f4"
+    },
+    {
+      "path": "ThirdPartyNotices/ProtocolBuffers-LICENSE.txt",
+      "bytes": 1672,
+      "sha256": "cceea54d02beb54316eae94c8ea4c68450f00956a5ec3e89fbc36d148573a57f"
+    },
+    {
+      "path": "Tools/apply_replacement.py",
+      "bytes": 6769,
+      "sha256": "d7c03c48011b92d59c7ba14351a2e789e5ff1040ba2fd78ee1500f203c1ad817"
+    },
+    {
+      "path": "Tools/exit_candidate.json",
+      "bytes": 55,
+      "sha256": "ecdf43cfb7ddf48f726c2c7fd267357b4c9d53d06fcfbc06edae259df6e02f6d"
+    },
+    {
+      "path": "Tools/exit_import.json",
+      "bytes": 69,
+      "sha256": "f30c94d35408bd6d0fe9fe9db7d82a3d7796a915f7cc3072a9f472187c046170"
+    },
+    {
+      "path": "Tools/exit_minimal_r3b.json",
+      "bytes": 55,
+      "sha256": "ecdf43cfb7ddf48f726c2c7fd267357b4c9d53d06fcfbc06edae259df6e02f6d"
+    },
+    {
+      "path": "Tools/exit_minimal_r3b_package.json",
+      "bytes": 65,
+      "sha256": "7eb850da83b09a676f9a9e3708c581a31023018d5abd500bf81adea90f23bb68"
+    },
+    {
+      "path": "Tools/exit_package.json",
+      "bytes": 65,
+      "sha256": "7eb850da83b09a676f9a9e3708c581a31023018d5abd500bf81adea90f23bb68"
+    },
+    {
+      "path": "Tools/exit_rails_r2.json",
+      "bytes": 55,
+      "sha256": "ecdf43cfb7ddf48f726c2c7fd267357b4c9d53d06fcfbc06edae259df6e02f6d"
+    },
+    {
+      "path": "Tools/exit_rails_r2_package.json",
+      "bytes": 65,
+      "sha256": "7eb850da83b09a676f9a9e3708c581a31023018d5abd500bf81adea90f23bb68"
+    },
+    {
+      "path": "Tools/exit_uv_curve_r3.json",
+      "bytes": 55,
+      "sha256": "ecdf43cfb7ddf48f726c2c7fd267357b4c9d53d06fcfbc06edae259df6e02f6d"
+    },
+    {
+      "path": "Tools/exit_uv_curve_r3_final.json",
+      "bytes": 65,
+      "sha256": "7eb850da83b09a676f9a9e3708c581a31023018d5abd500bf81adea90f23bb68"
+    },
+    {
+      "path": "Tools/exit_uv_curve_r3_package.json",
+      "bytes": 65,
+      "sha256": "7eb850da83b09a676f9a9e3708c581a31023018d5abd500bf81adea90f23bb68"
+    },
+    {
+      "path": "Tools/package_candidate.py",
+      "bytes": 5547,
+      "sha256": "fc5549ce085815bdc597e80b63a31e2aea821fee5257d94f171655a0d8825047"
+    },
+    {
+      "path": "Tools/run_editor.py",
+      "bytes": 3010,
+      "sha256": "f21143a36a1d324f2f795024d0b2ec7b7ab72aa7da26cc7bfa220cd72a7c01ca"
+    },
+    {
+      "path": "Tools/test_replacement_transaction.py",
+      "bytes": 2493,
+      "sha256": "d04ee5179714958e122e522b11933cb5e7e012fc4055e21b7c7984b213fdeeee"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Brushed dark nickel.mat",
+      "bytes": 2204,
+      "sha256": "433181f8606933b2e271b5b74f429f6f6c9a2b534de651c5b7013751ef2c33b2"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Brushed dark nickel.mat.meta",
+      "bytes": 188,
+      "sha256": "80e17021ff0eef34de6bbd83c1023ce06204bb8a3d4ff706cfe54455e63772cf"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Cue hero - chalked leather.mat",
+      "bytes": 2211,
+      "sha256": "50045b46e8036019fc911337ec64b97897795c6f81e1ef608ebde624ca83ab0b"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Cue hero - chalked leather.mat.meta",
+      "bytes": 188,
+      "sha256": "7fb90052fe1c7aa5966493c021f080d8064c05078403f42e29a3c00dbac2ec55"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Cue hero - ivory ferrule.mat",
+      "bytes": 2208,
+      "sha256": "8867a8d83b09c1d2a888e5d88f5977dfcfe3732eaec526680d6b6f13bb8ec335"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Cue hero - ivory ferrule.mat.meta",
+      "bytes": 188,
+      "sha256": "5226a69ab5e46743e8380440d6a22d13413645d8b613b0c6edbf00554d06bfa9"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Cue hero - maple.mat",
+      "bytes": 2316,
+      "sha256": "0b2fab5f33dbe879fb52b5596950670d96091bb3cc449769bd66a1832854a878"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Cue hero - maple.mat.meta",
+      "bytes": 188,
+      "sha256": "3b589df34ca7772a493c1f2e66427a00dc5686a648cd7304cde560300011ae48"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Cue hero - rubber butt.mat",
+      "bytes": 2209,
+      "sha256": "e1eb995c419677d06b801a290870bd6702974f289e510a683a96b316f6288fe8"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Cue hero - rubber butt.mat.meta",
+      "bytes": 188,
+      "sha256": "da37b3a3dd9ddd33d6c6e9db8053765e64b2dd63b29faa7aca351e7803542caf"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Emerald Short Felt.mat",
+      "bytes": 2552,
+      "sha256": "6e2e4e6d51a8b5426e3cdc7e72fcbd6f21fd37465cf7ac797cebd8fdf3a716bf"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Emerald Short Felt.mat.meta",
+      "bytes": 188,
+      "sha256": "703e93f73d4f4f2317f2c1589807c2055e1ff02e7eddf08b70018fdb5b31d3b5"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Emerald Wool - detail weave.mat",
+      "bytes": 2404,
+      "sha256": "aa2e2177c516cd0091d7977c76d653d3e963d70067049cc73d365a538a5cca76"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Emerald Wool - detail weave.mat.meta",
+      "bytes": 188,
+      "sha256": "8b063cb2799bc8fb33bd525f3bca8c205bbfa6e69acabfcfb806fc3aca8a7e72"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Felt fibers layer 1.mat",
+      "bytes": 2884,
+      "sha256": "69301383afaa5ad16e69b0746401e24c81f1afc9a3ec68ec147326fe72a36138"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Felt fibers layer 1.mat.meta",
+      "bytes": 188,
+      "sha256": "b4acfc1a2325fe9be2293f20f1a20392817572e544c20dc4b599bcf24898773c"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Felt fibers layer 2.mat",
+      "bytes": 2883,
+      "sha256": "f725dc1d8d5932992685cf2b0d1238cd6e3faef17299e8e05d6cc34ca964fc99"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Felt fibers layer 2.mat.meta",
+      "bytes": 188,
+      "sha256": "551d80715128803297285a6956d5ec2ee7cf0863a003f166c83ffd3027812157"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Felt fibers layer 3.mat",
+      "bytes": 2884,
+      "sha256": "baaa6a647003148c80aeff8b1b476abfd823ef5a7c29d69b979293aaf8f230ba"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Felt fibers layer 3.mat.meta",
+      "bytes": 188,
+      "sha256": "026122c11dfff74a63379a7805a24f775364f94fad2b072b0799dc4f4a49d767"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Felt fibers layer 4.mat",
+      "bytes": 2881,
+      "sha256": "73ce1cf4bc57673e479b9f658b349d872315243835e7fbd21548ce2944d70fdf"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Felt fibers layer 4.mat.meta",
+      "bytes": 188,
+      "sha256": "1046f6e66e365661fd1123e90cca6e5bf31bc241254d7f4971059428798296c8"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Lamp_0.mat",
+      "bytes": 779,
+      "sha256": "9ead2a1173b79efe3c7ce328927773db79d7b04cd25feb9e76513c3295e5dc83"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Lamp_0.mat.meta",
+      "bytes": 188,
+      "sha256": "247bc8629bde6327cf05dd771edb06fb5ab3699dec46d8abf447a661b7e76c35"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Lamp_1.mat",
+      "bytes": 779,
+      "sha256": "9ead2a1173b79efe3c7ce328927773db79d7b04cd25feb9e76513c3295e5dc83"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Lamp_1.mat.meta",
+      "bytes": 188,
+      "sha256": "b59ba86456be010bc1de8225d96613f1ddd61163adbdc17edb963ba6613d804a"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Lamp_2.mat",
+      "bytes": 779,
+      "sha256": "9ead2a1173b79efe3c7ce328927773db79d7b04cd25feb9e76513c3295e5dc83"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Lamp_2.mat.meta",
+      "bytes": 188,
+      "sha256": "10e5c5883877af3ccf1a12ca9f2d9e386736b55a03fc24fd35c12f223f1666e5"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Maple cue shafts.mat",
+      "bytes": 2198,
+      "sha256": "243606a4c31dee2792e7423d59f082b5840cd5dbfea1d485fc3e314d08b73a2f"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Maple cue shafts.mat.meta",
+      "bytes": 188,
+      "sha256": "73556c51fc976ebd3fa4886d2daf96999b41f9eec55e50e041b93f608a75efdc"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 0.mat",
+      "bytes": 2480,
+      "sha256": "b8698e150b228ebd1bbf5d36b458ab8e81c7cc75727758aec3bd0eca03691ffb"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 0.mat.meta",
+      "bytes": 188,
+      "sha256": "21ae42253c44361629e9efeec4b8815b0e4e0977c287b2bdb0a5adcee2609ead"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 1.mat",
+      "bytes": 2480,
+      "sha256": "51528abda106ad25fdce316e44d1a184734e49f9a2c4be415cdf2cc4c256593f"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 1.mat.meta",
+      "bytes": 188,
+      "sha256": "be29f6aa0c1304c8136d791edc6f1d446294dc46271d2215454dc8c9bd70a0d1"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 10.mat",
+      "bytes": 2242,
+      "sha256": "ba2c2570dc93d69543073713532f05a2b5e1f781cf682ad1baf79c84d8adde8a"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 10.mat.meta",
+      "bytes": 188,
+      "sha256": "52fa2fc62fb882e23c307ee86ae93135b84520c7cf2c34e19dffdedb1d15c021"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 11.mat",
+      "bytes": 2242,
+      "sha256": "1249b043759e4e152206eb675578715f913247b292f32012b258699be8d1e142"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 11.mat.meta",
+      "bytes": 188,
+      "sha256": "67e3b6a63708f3ee13a383629a9930955076b774434805b11da92de9fa8d4be3"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 12.mat",
+      "bytes": 2242,
+      "sha256": "d87a1268c05c014dfd697b0fd481d807584d50938d0e15cdd11a1ab28414065f"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 12.mat.meta",
+      "bytes": 188,
+      "sha256": "d10df7d2914165ac46e7a06eb1c57ee2f7b14fb99549f95172bd8d7b729a6bc0"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 13.mat",
+      "bytes": 2242,
+      "sha256": "ecf20bd4208f43c6824a37312aa8d34a912e11bd5c5d61d77abfbb50472bc2b9"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 13.mat.meta",
+      "bytes": 188,
+      "sha256": "814b0961f2341671e4b5df3383daccf437c8845e9332eb1680204efbc3fb24fc"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 14.mat",
+      "bytes": 2242,
+      "sha256": "0ab6a35a8ec6e34d1896bbb86a5f79ea7e2e94e3d96f84d85c5e612e5a5df7da"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 14.mat.meta",
+      "bytes": 188,
+      "sha256": "f6c8755728282f7ad6521f5cedc0688adac32453caa15d90e8fecdd0808b52d4"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 15.mat",
+      "bytes": 2242,
+      "sha256": "dd32583cce367a534578229352e96b615c8ea9c739f444bac2919354aac4e539"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 15.mat.meta",
+      "bytes": 188,
+      "sha256": "5fc37a509773f3ae8e6eac9576d5648d27eaf6a3a87221182a52c9b51781151e"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 2.mat",
+      "bytes": 2241,
+      "sha256": "77de93d2d35c944fd49f59b4ca3a2fc425b5465e32d39048078af07e894129cd"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 2.mat.meta",
+      "bytes": 188,
+      "sha256": "ed7a9bd4cf2ce87907e35c1f72c26f0056c4c35749954e87c5ec1fff492dfbf2"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 3.mat",
+      "bytes": 2241,
+      "sha256": "34cf1c3e019e1dce49744e7eeb927903382814efc323944e385b3884560fb0b9"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 3.mat.meta",
+      "bytes": 188,
+      "sha256": "0d6ff3f1af9a03b7d222296696adf7da2854556c63202ac2bc605002882a8498"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 4.mat",
+      "bytes": 2241,
+      "sha256": "87149fa20ac2be4fab82464f31930b1509652be0d1c98e78d3843b4f25059eec"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 4.mat.meta",
+      "bytes": 188,
+      "sha256": "e03f614bb19c99a0e6d67d5ed4b5eaaf3bb12124ad27deaeca7fdfc99ec85500"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 5.mat",
+      "bytes": 2241,
+      "sha256": "b0c8ff314f2ed25a9d2fd16e52996331cec35cf55f47285368f03323f69f496c"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 5.mat.meta",
+      "bytes": 188,
+      "sha256": "74a418408896b4dcf30b354bfc93c55eb74435efbb8f73c62ce874a8c84421c1"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 6.mat",
+      "bytes": 2241,
+      "sha256": "1c17751bd53ae5cf1d215fc9a258aa1820ad779cd89aca80de47b79c124b2a4a"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 6.mat.meta",
+      "bytes": 188,
+      "sha256": "30d5619be8a88162f1fc084d3369307d265016bafd33eeebe0db0205130af732"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 7.mat",
+      "bytes": 2241,
+      "sha256": "3a22ad216469f84507b44a148198ae9acdd13a40dfde468f239df08ef50b4b96"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 7.mat.meta",
+      "bytes": 188,
+      "sha256": "0c9472155297929cb18da8d6c4c4cdbfed95cc8d3b24ab95571b1df63b8c6508"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 8.mat",
+      "bytes": 2480,
+      "sha256": "d09cefbbd3b1473a92613f8d40b42721c20d0951a9454313a3bb9590df0f31a8"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 8.mat.meta",
+      "bytes": 188,
+      "sha256": "3596b7afb72d3e1868d3a605b6d521e0da895acf974b88a74e78ecede4b1c329"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 9.mat",
+      "bytes": 2480,
+      "sha256": "0ac59d6e0bdaf73de23a8828c33b468d624da4cdc84af27aeb9d07457df60ee0"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Resin Ball 9.mat.meta",
+      "bytes": 188,
+      "sha256": "5e3c043d1e976275540b6208a708825fc4c0340e78ca82289a0c2348ae5cc1ca"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Room plaster.mat",
+      "bytes": 2196,
+      "sha256": "2e7b21119d1fa58f684bfbc625bda0d1e9a732ada46fd7e4056a8704ba15c5b0"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Room plaster.mat.meta",
+      "bytes": 188,
+      "sha256": "db3fe8525babd8e0cc687facdad294cfe43aaad188fed9c70901606b869d58b4"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Room sconces - warm glow.mat",
+      "bytes": 2236,
+      "sha256": "b167893a1cb9a220e5abc7370cf3f78ee77100a6c2911f2ae8302505916a92ee"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Room sconces - warm glow.mat.meta",
+      "bytes": 188,
+      "sha256": "10bc64191bfa5d6eb7d19216b4be66ebd3421e445326c56aeed200d4056264ea"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Room upholstery.mat",
+      "bytes": 2201,
+      "sha256": "a4e2e00e3040f37f5fe453453e75d37a9412108d83a87086ce6a7d89296e50dc"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Room upholstery.mat.meta",
+      "bytes": 188,
+      "sha256": "3c4c5efd706877750ba995929916c3c2b2dd43e418e22ac1bb5bc147cc9b70fe"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Room Window - cool glow.mat",
+      "bytes": 2220,
+      "sha256": "ab60a3f84f0c5db859c40bdbdd1b9eaebb646d3a32ae52abd4e2dae06d1c6ecc"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Room Window - cool glow.mat.meta",
+      "bytes": 188,
+      "sha256": "a723dd2bcc00ddedfb4c9b835fd75cb9c9f7579786f13b955bc497a4134b5316"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Room wood floor.mat",
+      "bytes": 2199,
+      "sha256": "15e1894199a56bdbb86c8bad81268219dfe1be57b4ce44f399e9af873e88263c"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Room wood floor.mat.meta",
+      "bytes": 188,
+      "sha256": "f09c06b5db23ba561ade494b8be790c6a8e4b9b75cfbd27c31ad54c7f2a5d7cb"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Satin black frame.mat",
+      "bytes": 2204,
+      "sha256": "fea6b66522fec0c4eb766ca089ca0e4e48ce9db5672f9f66f7caa5c88aa57101"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Satin black frame.mat.meta",
+      "bytes": 188,
+      "sha256": "0204726527f1cc4ee65cca3bb5d0b511106a536140e0aa2f6158a0e7dc7adee6"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Smoked Walnut - clear lacquer.mat",
+      "bytes": 2258,
+      "sha256": "66897ea9502de54f429b9ae0adb19197911e3d5356889f60aac19a260882e65d"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Smoked Walnut - clear lacquer.mat.meta",
+      "bytes": 188,
+      "sha256": "9ab9127d610d56cc16aeab08138104d6d4fb575eddcc69774e558e227412b0d0"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Strip diffuser 0.mat",
+      "bytes": 2214,
+      "sha256": "fbffaf9a5ccdc73764fb1a1af9c37dce39662bc0efae8143265354adb7c3abb2"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Strip diffuser 0.mat.meta",
+      "bytes": 188,
+      "sha256": "05d1cf753dd3a37ace02b016d92c05b6434bed7fde5dc07c67c8a53a0b1bdbfb"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Strip diffuser 1.mat",
+      "bytes": 2214,
+      "sha256": "76567136a19aa26f59bf1793e7640387c25d376413fa5235af226a82839a89cb"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Strip diffuser 1.mat.meta",
+      "bytes": 188,
+      "sha256": "1d8c5be54a14bea22d6799d899fc50d47289cc8abc7e8d49b47a3c6e7dd26d33"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Strip diffuser 2.mat",
+      "bytes": 2214,
+      "sha256": "b23c0b14cd72ad941127c1337c2e445bf4848310c5d5d7208883215b071c14ba"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Strip diffuser 2.mat.meta",
+      "bytes": 188,
+      "sha256": "4abedd28f10e8b7af284e6ba4614994b0000fdce61040e4a8ae280ec195a8798"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Studio walls.mat",
+      "bytes": 2198,
+      "sha256": "bd6048458e48ae62f6e8f197da945635e5a166680e30986c053bdc512c59c045"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials/Studio walls.mat.meta",
+      "bytes": 188,
+      "sha256": "c953c1bfa02d1abc931fd0e1ce58c251d4d071848faddc05f65652f495259988"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Materials.meta",
+      "bytes": 172,
+      "sha256": "b5145cc25ee11513f9d93cbe35de901928311922b8e49cd444680c229aea6194"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Ball_Hero.asset",
+      "bytes": 1004700,
+      "sha256": "31d07ed5e3b304ab6575be9d5ce15c0c81a9fa52e1d729dcb4aaa67d92943255"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Ball_Hero.asset.meta",
+      "bytes": 188,
+      "sha256": "815964385e110508d7f880a9eb4e96f622aa7f525e733e8ebde7067b1411c0e2"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Ball_LOD.asset",
+      "bytes": 258203,
+      "sha256": "61e32be5a272021216777231289749a00237f479067ef24f47df7bd4cd9ce493"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Ball_LOD.asset.meta",
+      "bytes": 188,
+      "sha256": "18ac88374ee5e4b3131ecd0e8cc800c0ebe131b802ce961a9ebeaccd272e0c0f"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Cloth_bed.asset",
+      "bytes": 87235,
+      "sha256": "a5c27e791b60c8c89d6f8e17d8f119bcaaeb1497013901c554862b454900d070"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Cloth_bed.asset.meta",
+      "bytes": 188,
+      "sha256": "5368ef0a7a37a116878fdd61ed4f41e26754cd4385aac37928e733787ae8032f"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Cushion_far.asset",
+      "bytes": 87229,
+      "sha256": "067254b956cdb8501cd86a7bf109ed70d92212064dd25fae979678ad240f5ed0"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Cushion_far.asset.meta",
+      "bytes": 188,
+      "sha256": "c0e10b70b4bee067a02abe3072c45e73eb0dc25217fad6bb5e41ce3b507c19e1"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Cushion_left.asset",
+      "bytes": 87229,
+      "sha256": "1ea5567460df4d55781aad25d768186bcf982ea7f159d6b1bdbbd390da20baa6"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Cushion_left.asset.meta",
+      "bytes": 188,
+      "sha256": "852116d3627a8f25b2a965a897490482c51ecd1d13a9c745292b864b4b96c187"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Cushion_near.asset",
+      "bytes": 87229,
+      "sha256": "067254b956cdb8501cd86a7bf109ed70d92212064dd25fae979678ad240f5ed0"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Cushion_near.asset.meta",
+      "bytes": 188,
+      "sha256": "7b77c9f12470d84fe754aa4a8c5a4d60e4a452545719d1043752afd7e1b56006"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Cushion_right.asset",
+      "bytes": 87229,
+      "sha256": "1ea5567460df4d55781aad25d768186bcf982ea7f159d6b1bdbbd390da20baa6"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Cushion_right.asset.meta",
+      "bytes": 188,
+      "sha256": "bf28fba24fa19206a1defe18ccb113740a08ed1bad0c5da66e20d32b18189163"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Dark_studio_back.asset",
+      "bytes": 87219,
+      "sha256": "bef47e3a6582c9a7a32cb7f725c36e2ff76fb3c5d266a4d830fd66d902c12121"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Dark_studio_back.asset.meta",
+      "bytes": 188,
+      "sha256": "ec1b090f00b9004d8ea36b43013458a389b77383e368d3f85a86b9899a0adbfc"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Dark_studio_floor.asset",
+      "bytes": 87217,
+      "sha256": "14c2a60be8646241555d994e9bf966f02f7ed504c1da99a311f02565c1adb8d9"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Dark_studio_floor.asset.meta",
+      "bytes": 188,
+      "sha256": "b4f4871d9dea722f4db3d4e538da54e190b081579a7347c2501897e7a1df5b1a"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Dark_studio_left.asset",
+      "bytes": 87219,
+      "sha256": "84f3fbefc8af1db731961229e33c472c5efc09393e19783fcff65096fa9618e5"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Dark_studio_left.asset.meta",
+      "bytes": 188,
+      "sha256": "00c8b84606a01a320fdd1964a3cc1b564542c6fb0962f96485e56919c62009f5"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Dark_studio_right.asset",
+      "bytes": 87219,
+      "sha256": "84f3fbefc8af1db731961229e33c472c5efc09393e19783fcff65096fa9618e5"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Dark_studio_right.asset.meta",
+      "bytes": 188,
+      "sha256": "7c4a446ed3e3f63b47e2a58a74402e4dc71079af4b2e8f070521c8b5643bcc59"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Fibers_PoolSet_Bumper.asset",
+      "bytes": 857730,
+      "sha256": "a768c85080b734de2e319ed4ac82ece20d88fbc9a99deaaaa695e0a6aa9dda25"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Fibers_PoolSet_Bumper.asset.meta",
+      "bytes": 188,
+      "sha256": "b3d4fab005db072d8623e45b73694fb9aac71a1f62d225238f0ad4d1e3cef903"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Fibers_PoolSet_Surface.asset",
+      "bytes": 418129,
+      "sha256": "23cfe01b59515a6846b6f2a3a6f8ca666f14fadf1a1b006df659d41bd1c57e42"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Fibers_PoolSet_Surface.asset.meta",
+      "bytes": 188,
+      "sha256": "e389a8a74f35d44d39e16bdddfb86e4a8aca5afcb9c79ac9cee65a03585201f9"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Lamp_diffuser_0.asset",
+      "bytes": 120576,
+      "sha256": "024d20ce5432eeda06cd2c58e5057709f9c40fda28c8b4b1d7bf4b8312aec869"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Lamp_diffuser_0.asset.meta",
+      "bytes": 188,
+      "sha256": "5e69443caa5822c8fa0d58e29bfbe216ee1977629b129c21dce980050d55ce57"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Lamp_diffuser_1.asset",
+      "bytes": 120576,
+      "sha256": "024d20ce5432eeda06cd2c58e5057709f9c40fda28c8b4b1d7bf4b8312aec869"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Lamp_diffuser_1.asset.meta",
+      "bytes": 188,
+      "sha256": "5ec0570e1ff314f0dff29780c46416ed9f8aece95e623daf8b47536e6b9b1858"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Lamp_diffuser_2.asset",
+      "bytes": 120576,
+      "sha256": "024d20ce5432eeda06cd2c58e5057709f9c40fda28c8b4b1d7bf4b8312aec869"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Lamp_diffuser_2.asset.meta",
+      "bytes": 188,
+      "sha256": "e9b68e1d0bceac984eae99c392c7c79d9a4ed29b44d6418ee2db318389568660"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Lamp_housing_0.asset",
+      "bytes": 118672,
+      "sha256": "1fb92eb5aaebf380d2171034db30880af16fb96ee6a94090034aa2423394643f"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Lamp_housing_0.asset.meta",
+      "bytes": 188,
+      "sha256": "1d18ad404a99bcf8796491e9507093f91e130583c6fa022336a2208956e7387a"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Lamp_housing_1.asset",
+      "bytes": 118672,
+      "sha256": "1fb92eb5aaebf380d2171034db30880af16fb96ee6a94090034aa2423394643f"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Lamp_housing_1.asset.meta",
+      "bytes": 188,
+      "sha256": "cd820ae46139b0e1567f08928ca58e97a06a05b24cd29a41a45f27b5442aa90d"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Lamp_housing_2.asset",
+      "bytes": 118672,
+      "sha256": "1fb92eb5aaebf380d2171034db30880af16fb96ee6a94090034aa2423394643f"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Lamp_housing_2.asset.meta",
+      "bytes": 188,
+      "sha256": "30665f6f6b5f4e423e78c69c39513f4b35da2effdfa702e724b795a28b78f383"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Nickel_trim_left.asset",
+      "bytes": 87233,
+      "sha256": "9bc3ad2495a7566d6d06925e656778577260c651b5d0315184b821e7fed27538"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Nickel_trim_left.asset.meta",
+      "bytes": 188,
+      "sha256": "7935ccef763a68fe130f1f608865e6372f0ae16cef1840e3d4829b650e67d7d2"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Nickel_trim_near.asset",
+      "bytes": 87233,
+      "sha256": "98b1f504d84eeb7db0d249449406c05a23425bed5610d261d3b549f81a9a8970"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Nickel_trim_near.asset.meta",
+      "bytes": 188,
+      "sha256": "af8aa971cc59c4d7669640e4e744c9fc5a0fceffe6b12ea1ec05fb009e30a2c1"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Nickel_trim_right.asset",
+      "bytes": 87233,
+      "sha256": "9bc3ad2495a7566d6d06925e656778577260c651b5d0315184b821e7fed27538"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Nickel_trim_right.asset.meta",
+      "bytes": 188,
+      "sha256": "20ab8d8f12008127d97625a6b843c579ed474b187e7618888548e3d62b394dd7"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Rail_far.asset",
+      "bytes": 87235,
+      "sha256": "755d24164eb8b6d52ced7738c4031def1f10460417f8e93d04a4cc5103cc39ba"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Rail_far.asset.meta",
+      "bytes": 188,
+      "sha256": "d53c4aa431aed978253e324b188bafcd05882369e74ad00d30cb3d8cbf116f3b"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Rail_left.asset",
+      "bytes": 87237,
+      "sha256": "d83974f3173ca34886ec8a274b059bf03df370cf0c96da4c4c14a69631a06a19"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Rail_left.asset.meta",
+      "bytes": 188,
+      "sha256": "fafc625dbad47adc3b23783d2985c3e3f1c78c95f27758fd9a22e301f27d1fde"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Rail_near.asset",
+      "bytes": 87235,
+      "sha256": "755d24164eb8b6d52ced7738c4031def1f10460417f8e93d04a4cc5103cc39ba"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Rail_near.asset.meta",
+      "bytes": 188,
+      "sha256": "cde35d4981f3be8d9eac3be51a1f51fcc0b8904ae209e5896d5fb876d83dfe4c"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Rail_right.asset",
+      "bytes": 87237,
+      "sha256": "d83974f3173ca34886ec8a274b059bf03df370cf0c96da4c4c14a69631a06a19"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Rail_right.asset.meta",
+      "bytes": 188,
+      "sha256": "52a99376f36b8368bf5aad067542f092fc0d5ba9d9c7a624a6458b1ba9db7618"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Table_apron.asset",
+      "bytes": 102764,
+      "sha256": "0e980a3c8d2e96b042936d0a0e0629830e22376f08bd7baf4b3cc30964d7a017"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Table_apron.asset.meta",
+      "bytes": 188,
+      "sha256": "82f947345e429e7864641ebe50ad26bff93e110355dccd0fbd1716a8c0ee865e"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Table_support_-0.57_-1.12.asset",
+      "bytes": 115210,
+      "sha256": "3520db31f28fa25a0eccce934bc087cbcb55b19387fdc376c8742f7a23f5d386"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Table_support_-0.57_-1.12.asset.meta",
+      "bytes": 188,
+      "sha256": "535defa7568ad814160423e14df9843b21dd9675518a8dd7f083fc48cb25f534"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Table_support_-0.57_1.12.asset",
+      "bytes": 115210,
+      "sha256": "3520db31f28fa25a0eccce934bc087cbcb55b19387fdc376c8742f7a23f5d386"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Table_support_-0.57_1.12.asset.meta",
+      "bytes": 188,
+      "sha256": "fb8970e925e2378473cce5f19974d4af6fcb9b05d1ed872354cc515937522076"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Table_support_0.57_-1.12.asset",
+      "bytes": 115210,
+      "sha256": "3520db31f28fa25a0eccce934bc087cbcb55b19387fdc376c8742f7a23f5d386"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Table_support_0.57_-1.12.asset.meta",
+      "bytes": 188,
+      "sha256": "d80fac17484873a579760002241dfc900a7c66217568750f6c5c8db0cb425d4c"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Table_support_0.57_1.12.asset",
+      "bytes": 115210,
+      "sha256": "3520db31f28fa25a0eccce934bc087cbcb55b19387fdc376c8742f7a23f5d386"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Table_support_0.57_1.12.asset.meta",
+      "bytes": 188,
+      "sha256": "a8582dda7d839b68f06631fd55e2fe14d060bf8c38a80741f6d6271c939c867a"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Walnut_table_body.asset",
+      "bytes": 87227,
+      "sha256": "730b821e1a66a420e8bf6eb33af4232a4ce33a61584757662a5b4f63ea13a766"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes/Walnut_table_body.asset.meta",
+      "bytes": 188,
+      "sha256": "0862691b230fc643eec61910962a161885eb912be036db679211a21a30289297"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Meshes.meta",
+      "bytes": 172,
+      "sha256": "386487e17a1270398b07d6988b97882a2bfee686d19bf4c598045c2e552a6e16"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Models/Cue_Adapted.mtl",
+      "bytes": 157,
+      "sha256": "3e4f1097256da4c2cb7232673079365301e732ef9b8fea908773a7ab3cdafe97"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Models/Cue_Adapted.mtl.meta",
+      "bytes": 155,
+      "sha256": "0f25082cc085f5e634e7a8aa1cc110f7d1099ba8e6d0a77218c68674c9050d88"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Models/Cue_Adapted.obj",
+      "bytes": 435213,
+      "sha256": "b51890d06b9af1fa61887414c78ef52491d77260944ff5ddfadc827607f38dd4"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Models/Cue_Adapted.obj.meta",
+      "bytes": 2830,
+      "sha256": "2edc0aa34a22f7d5d5d1c8a239244183361fb5b879fbfdc0601192860f3ab910"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Models.meta",
+      "bytes": 172,
+      "sha256": "ad559d756200f698b2303a37e56d23765a6e33f74bb6e00e07f0faaf99dead6b"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_0.prefab",
+      "bytes": 2419,
+      "sha256": "c8231f3f6e26dabff0ac2107c99e83c38397f4bffd0eeef18c4d3846a82c5d39"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_0.prefab.meta",
+      "bytes": 154,
+      "sha256": "588ada702d5a7da3e649f8e70d717fe3810f3384ff647eed5f69b51af7ce406e"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_1.prefab",
+      "bytes": 2419,
+      "sha256": "e6164f17b7958a5669ae75a870d6c0a2f9c0144722f3803a203d7110c1a62077"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_1.prefab.meta",
+      "bytes": 154,
+      "sha256": "1bdba6ca1437e1304b156fb9e17eaa5b059253b5b393a3dce3fc0fe7ee35f984"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_10.prefab",
+      "bytes": 2416,
+      "sha256": "555fe27ad2a668973e441b4e8b4e226c9c2ee64cc68daeeadef1783030c9f674"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_10.prefab.meta",
+      "bytes": 154,
+      "sha256": "774b129b35d962aeb5feb0c40610d77086950ca68047a215cb0ae9ca76bfcddf"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_11.prefab",
+      "bytes": 2420,
+      "sha256": "193ab7e695143ee25c4f68b330b1eae4960e7816793ca1b0f003d63e520b8883"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_11.prefab.meta",
+      "bytes": 154,
+      "sha256": "c82bc83e5a48736ae54683343a2586ecdf41075719dff204aff1a21d04ff0bd7"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_12.prefab",
+      "bytes": 2420,
+      "sha256": "1f913bdbf234986b5227faadafd801e80a89293d0cdd0a69be19d3671b9d2684"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_12.prefab.meta",
+      "bytes": 154,
+      "sha256": "ebdd392dcad151c212c1fc3ef870563ac037a25a194a670d1f2ba6cff29bbba3"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_13.prefab",
+      "bytes": 2420,
+      "sha256": "01d286b45c997c3d25114c38793444d520c2913d8fd12842412ed4c16ee0b688"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_13.prefab.meta",
+      "bytes": 154,
+      "sha256": "419a75474c4e4ce0ea8470c9b10e09d308f0f373a696d3225324d3cf7b092504"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_14.prefab",
+      "bytes": 2420,
+      "sha256": "c594c35570cda2946997cb02a23003f00610a539a7d34fccbf307e52616688a0"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_14.prefab.meta",
+      "bytes": 154,
+      "sha256": "e129c300d6ad8dd9edd6a63dea876bc6b8e0de0c361b93a0004f13d00903c792"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_15.prefab",
+      "bytes": 2420,
+      "sha256": "f695cc75341affd00ef32f40cf2aa04ed5ca6f2fe51988404f885d2d97317674"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_15.prefab.meta",
+      "bytes": 154,
+      "sha256": "0344e950a58f13239f9f3078dc1248018d0e7f90707780cecf23f0d43c393e2f"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_2.prefab",
+      "bytes": 2419,
+      "sha256": "05d035c922b878a5e9c9f0b473fbf2b9a2b1d6e82cef1f32bb1213d1057c7005"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_2.prefab.meta",
+      "bytes": 154,
+      "sha256": "f2c9061dd1ae462dfa7560e472105c3d6b203eea10172ca2699155f49107a575"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_3.prefab",
+      "bytes": 2419,
+      "sha256": "fc5131cd329a3463c99ff9d4238ab27c486752259a979e8dc3a99537124e57db"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_3.prefab.meta",
+      "bytes": 154,
+      "sha256": "107b127908aa5606f18b06c0a4b1edc01f94425120c7c14e332e9adc3ebcffd1"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_4.prefab",
+      "bytes": 2417,
+      "sha256": "3dc0b7666aab790de029ab77f0d18158841760c70df7a883d8efdf2bf3af52a0"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_4.prefab.meta",
+      "bytes": 154,
+      "sha256": "a19dc13f8140fb1c5c26b034f0fc0ff0489e95deacc6cab1d59336ee9fd89fc8"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_5.prefab",
+      "bytes": 2419,
+      "sha256": "bffbc035955ffab32c834b7eeb2797f4a86c35cd1e2fc1f282a97e027a9aa6e9"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_5.prefab.meta",
+      "bytes": 154,
+      "sha256": "44a59df96472458963ed23a685aaf42ca404d7cd8dbf8a60ff66febd2ff37e7f"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_6.prefab",
+      "bytes": 2417,
+      "sha256": "9b29b616bc838cedf56e62ff5c3e29009d56f99cd8baef8bdfd8a572be9bd04b"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_6.prefab.meta",
+      "bytes": 154,
+      "sha256": "a79ac14fbc6cf8afa0ccabbf28c7591588b2ae4c90871297a0c5b5e5ab271025"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_7.prefab",
+      "bytes": 2415,
+      "sha256": "d0b48a0188b4d99f276b5e380414831583fb78397278eef2e7c8c1740f77d30d"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_7.prefab.meta",
+      "bytes": 154,
+      "sha256": "05d4f5b50190e4da2325fa080780a919af058251be626641be8a3a55c20d1506"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_8.prefab",
+      "bytes": 2413,
+      "sha256": "06ddcbcbcff35a2e2fe33f959fb79cae310eb9335afe201b5c9a7b181e5c2084"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_8.prefab.meta",
+      "bytes": 154,
+      "sha256": "3f37fc69172bee0b8e7ce3d7acf4904a083985a6b3ebde824e4bc3bae21452d5"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_9.prefab",
+      "bytes": 2419,
+      "sha256": "7655c4df977c5340ee90bca1e76a3a763bdadc2a886b3dfdee34cc32953ee80a"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Ball_9.prefab.meta",
+      "bytes": 154,
+      "sha256": "37643bde7f286a42693ce8205a4f5460596ce3705193b9fafdcf514677650e60"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Cue0_Hero.prefab",
+      "bytes": 3845,
+      "sha256": "d796816fff27b273651eb389b79bd7ad1a6fc550c825774882b8c1bc062d6151"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs/Cue0_Hero.prefab.meta",
+      "bytes": 154,
+      "sha256": "c7c33d63df562ff669d2bcd1f8a012f4489a7c51ef416418d407e97880a7546d"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Prefabs.meta",
+      "bytes": 172,
+      "sha256": "d481f84f9ebb896760680aee425cea6bd201f01abe5b29336f2b72c473896fe8"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Room/PoolRoom_V2.fbx",
+      "bytes": 352044,
+      "sha256": "10818eaabffce732940d20de1dad32685b7a601e46b779232d7c69d2a2329cfd"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Room/PoolRoom_V2.fbx.meta",
+      "bytes": 2830,
+      "sha256": "496be691f4f3bf1a75e45102083de48f98c84af456fee216604807519eb5bc2f"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Room.meta",
+      "bytes": 172,
+      "sha256": "f8ade54257afbc27d89ab0b96bf730e71cabc853112bb84646fa5cb4befc9600"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Shaders/FeltLighting.cginc",
+      "bytes": 1967,
+      "sha256": "bd159efa2879aa4643e454e48b1ef9045208ec27e0b8245f07b0e7b2472d199a"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Shaders/FeltLighting.cginc.meta",
+      "bytes": 161,
+      "sha256": "1c4f885e45513c82144ee9ef1688004372b73ba3cddfdf517b8c02e623c46c33"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Shaders/ShortFelt.shader",
+      "bytes": 1474,
+      "sha256": "14c8694afc2cd29726d8b8f924364ccfdbc2a20629114fb00e065af0c38d1791"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Shaders/ShortFelt.shader.meta",
+      "bytes": 204,
+      "sha256": "2b54d55d2509362054e22486b0062ea374a52e78b16032e3b5d3a808a18323f0"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Shaders/ShortFeltFibers.shader",
+      "bytes": 2449,
+      "sha256": "f78060a28d6968fa092fa0b9c746713c936831bf73e7b7828a4f1d41d54d2724"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Shaders/ShortFeltFibers.shader.meta",
+      "bytes": 204,
+      "sha256": "0d755305074928b6503f814228d7c77ea6c6b2e87bbcd12a9dd40d1fc2c4ce85"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Shaders.meta",
+      "bytes": 172,
+      "sha256": "7a7ec0ff7e54cb00793e4a701d923792e3c9e663bf0370ec92f18bbcb333a9ec"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_0.png",
+      "bytes": 16918,
+      "sha256": "b07087a8268bd9c401aba516b13601c1a9bf10b6172f337f5d19616768cab167"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_0.png.meta",
+      "bytes": 2949,
+      "sha256": "c6f1236e7704bdaf6463c4c1e34efb5f7408526ee03d361af2941ef801bb99de"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_1.png",
+      "bytes": 25216,
+      "sha256": "adb8504af3b38057005f7d2739b1a3c050615429779ff9b4e72e12fd31d28444"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_1.png.meta",
+      "bytes": 2949,
+      "sha256": "bca7025921b37a752d05f2d4127736cb5b0a67dd6b654dc01c673a86ce153795"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_10.png",
+      "bytes": 29327,
+      "sha256": "3f638c95a888afd2be61170bbfe9ad07a0773970b649f14455feb61b02bcf359"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_10.png.meta",
+      "bytes": 2948,
+      "sha256": "749cb626a08e9c291e565bfd8538bcf86d96e347aec6454675b328b524a2dc0f"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_11.png",
+      "bytes": 25955,
+      "sha256": "d2af1263cccbed5a2cd78d4abcef6b0916df28819efc904470d278fe37b034ee"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_11.png.meta",
+      "bytes": 2948,
+      "sha256": "e7576af7dfc6f09f326172eff5fa58fc0c4b6ee7ed358fda6a46d861befe50cd"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_12.png",
+      "bytes": 28889,
+      "sha256": "4f61410d928b5854401043c46a14c8cbcbc644ab9617158231031b853c12192f"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_12.png.meta",
+      "bytes": 2948,
+      "sha256": "a9ceaba6923ee90ccf92629a46ba49f7770c756fd76526afbd0f54c2d68f97fa"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_13.png",
+      "bytes": 30406,
+      "sha256": "ae031ef2e663d92aa0694b05681558eb58504ef6a1ab2c140b1ef9f801304ce3"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_13.png.meta",
+      "bytes": 2948,
+      "sha256": "2d508ef4984dea2fd9d6767eaa43c03b7322cc4eff3f750e3e54c5420696ebbc"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_14.png",
+      "bytes": 27617,
+      "sha256": "6c7f99c346892f496787fc89ff549c0e54c073a5bea10c677cbe22fd4f9e165a"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_14.png.meta",
+      "bytes": 2948,
+      "sha256": "1514164e244f4e4a5a570be42d17719d660b40d9fc5c5d1f973208d3c26238b1"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_15.png",
+      "bytes": 29467,
+      "sha256": "f011cd3278b99d9bffc81da91d4bae9f35594d2090b7fb790e5c0364a03db685"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_15.png.meta",
+      "bytes": 2948,
+      "sha256": "4955d7763f1606e52945f154e03e423ede42c5471067ddcfcd9be8137e59cc6a"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_2.png",
+      "bytes": 27989,
+      "sha256": "3392ade8e31f2340e9fba5107f264dbb58afeae89b9b4e63aabfdbb52e1c8585"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_2.png.meta",
+      "bytes": 2948,
+      "sha256": "9baf3182cfd4e550952e3aa4a86dc2436d7c67d1bfd241a4d05d15168284e509"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_3.png",
+      "bytes": 29590,
+      "sha256": "ede9c31e72557ff737b42ebfdef2a07f0deb0bc195ed466af90479e02c5248a8"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_3.png.meta",
+      "bytes": 2948,
+      "sha256": "7a4d4662a6a50ab56a449c9b830748db9be805be4300261c10df1ccdcf1daedc"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_4.png",
+      "bytes": 26419,
+      "sha256": "46b1add18704b095654e0d922e614fca0efb01c6391c80909702dc74d5807942"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_4.png.meta",
+      "bytes": 2948,
+      "sha256": "30b1d631d8a7338c3f064b889721830cc29d1cf81f323f80a17f194c415819f1"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_5.png",
+      "bytes": 28520,
+      "sha256": "2f740818fe9a1592aa89e139b7bc54b9018000580379481a36c8589d975eab2e"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_5.png.meta",
+      "bytes": 2948,
+      "sha256": "f30b463ea4226322b5ded850704012a3f1bd5af58429dff245df439046109385"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_6.png",
+      "bytes": 29655,
+      "sha256": "032be9b2824a43219252209ff3f3498139fbc7db9470620a39afee71cd6d592f"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_6.png.meta",
+      "bytes": 2948,
+      "sha256": "b63e0c698a631837c22a68ac36cc31eeb0ccf466f0874b42e621ac481bf31e93"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_7.png",
+      "bytes": 27284,
+      "sha256": "db7b1aa7b5b1e88f75beb1d4f73df1ad8330545dfb10bf9b99a3372c93bee216"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_7.png.meta",
+      "bytes": 2948,
+      "sha256": "97bd3b1c2c99e98a48b3e33b602dc1829869723f127669935f0dceb31a18a065"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_8.png",
+      "bytes": 30901,
+      "sha256": "517b662eb281eeee1371609b73b5562a3b00b9ced5329d090785b445c235bc32"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_8.png.meta",
+      "bytes": 2949,
+      "sha256": "f35f08fa66719ab3e3820b26d69d6b3973cd92c90231ac2999e77f02ff7e0d53"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_9.png",
+      "bytes": 29310,
+      "sha256": "1b15cf28c76b5bae5d6c5101a92308e1a3531f3b6c5f0ccf0bf9f15b562634bb"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Ball_9.png.meta",
+      "bytes": 2949,
+      "sha256": "4c6144e4d0401b5c85f71122fb72caf50bd9766b7467e6cd736ea3e6de68d68b"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Cloth_BaseColor.png",
+      "bytes": 3644793,
+      "sha256": "a208dbacf967a99ac58811f5a0a847d97256818ae5279651f445b884e2a2671c"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Cloth_BaseColor.png.meta",
+      "bytes": 2949,
+      "sha256": "451e84811c0f2a7a6033c2403432e751f78fee8ee112cd45f25b869bc78bdc60"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Cloth_MetalSmooth.png",
+      "bytes": 541932,
+      "sha256": "9e47e3b1a59544f920b7579c6c5d39191e7a70cd76010f870a8e5c818abb9649"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Cloth_MetalSmooth.png.meta",
+      "bytes": 2949,
+      "sha256": "2e8ef39697f7edbdf276660277a60d7a8e328cb6fb0f1a30b38fa4ecfe606bd3"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Cloth_Normal.png",
+      "bytes": 8488821,
+      "sha256": "980b2ff80095cf9630ec190d909b533464281a2f6e189189be1ec1de89be5927"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Cloth_Normal.png.meta",
+      "bytes": 2949,
+      "sha256": "a5151ee01954f0e5f483664acf36102e987ee8300ce157d51629af0985b8d676"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Cue_Maple.png",
+      "bytes": 325835,
+      "sha256": "604faae0a9ce5d3791fa1dc06fc719c8ad8a5e3bd6a1924a8fbacd150c0c27c0"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Cue_Maple.png.meta",
+      "bytes": 2949,
+      "sha256": "a01b35d7789281e737988bf306c44c9e4c7e75c277f89ec3917c5eb320dee27d"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Cue_Maple_Normal.png",
+      "bytes": 64159,
+      "sha256": "4d329e6a2a3ac25990181a3b12c6caa6583bf31c0ab80f1b5a9658d514f2da72"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Cue_Maple_Normal.png.meta",
+      "bytes": 2949,
+      "sha256": "fc4831b6cd3a2bc361fca275ccf82d7844b2aaf839b5216734852135875f9e50"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Felt_Color.png",
+      "bytes": 52950,
+      "sha256": "a3da2abba9987f9ae0d0b6fce640ebe81a206a6c33985bb9b6d6882a06c0c33a"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Felt_Color.png.meta",
+      "bytes": 2949,
+      "sha256": "b20569b8040ce51e75368d8bf9bd0876d2031eaff39dcd44590297a6f0ec0630"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Felt_Fibers.png",
+      "bytes": 1866073,
+      "sha256": "8feb23a6f0b0af5146236df1c3b7ca5a9d869bb5a69e85d46c193b65f7fa60b0"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Felt_Fibers.png.meta",
+      "bytes": 2949,
+      "sha256": "1ebce57d9830752829e44203f2177f991866ccf0ab0b149cc7966cbba59c98f5"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Felt_Micro_Normal.png",
+      "bytes": 1700151,
+      "sha256": "07b34486a9e89ae68390789d2f058473a44cb1c6917f05d4060af7c59e64b204"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Felt_Micro_Normal.png.meta",
+      "bytes": 2949,
+      "sha256": "211151808dc1b0b706baf9e7314958c948882c08e38206f88193892d206778c4"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Resin_MetalSmooth.png",
+      "bytes": 855,
+      "sha256": "a72821f052dd0c5e549ebace8745cafe31ecf8b9eefb6a1a81bf4cac0bb5a74e"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Resin_MetalSmooth.png.meta",
+      "bytes": 2949,
+      "sha256": "5ea662b5a4756dfb01fe94c897ed7b8afe731609b7d216fa25b6f517c0da61bc"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Walnut_BaseColor.png",
+      "bytes": 286192,
+      "sha256": "6fa48a330a9e990a1c7bab1499d59e3a10e8f47989e6f524ffe7ca88aee2dacb"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Walnut_BaseColor.png.meta",
+      "bytes": 2949,
+      "sha256": "ae4c2b54e74069152e1126078c3624800ff230fd8ca67495f321067567957368"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Walnut_MetalSmooth.png",
+      "bytes": 280502,
+      "sha256": "c196143c79f04efaca5a4d48a93d7c89944b14389b3d2807af1aa4a664f48cbb"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Walnut_MetalSmooth.png.meta",
+      "bytes": 2949,
+      "sha256": "056b9ac48aaf42510912413d552d533d5e3716803cf9076d9682b62d687e8f70"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures.meta",
+      "bytes": 172,
+      "sha256": "0a7a2f407f2f057dbd6d87a660b8f63506cbe7a5f1149aa524f337dceb0a58ca"
+    },
+    {
+      "path": "UnityProject/Assets/IntegratedArt.meta",
+      "bytes": 172,
+      "sha256": "df31a4e2738ad633caf7d92d25202382cbb051d1ae7e99d7d97857df6d497cf8"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/IntegratedArtBuilder.cs",
+      "bytes": 5464,
+      "sha256": "b95d4ef0f78942f7de121101cf3e83dc1b646f6c69c6c8a421fe6636e49fcb25"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/IntegratedArtBuilder.cs.meta",
+      "bytes": 243,
+      "sha256": "09a5584ef373078b5bb5c4f7fd9b69ae21239e1caaa39bd7e5658cca4ad139b8"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/IntegratedFeltBuilder.cs",
+      "bytes": 3412,
+      "sha256": "8602454d5ff58f6e8cb31ae7a8cf62979766eee68fa0b9dead2022175f8bbf0b"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/IntegratedFeltBuilder.cs.meta",
+      "bytes": 243,
+      "sha256": "c7eb8488b41bdd8ef1089fb43ef015f3ac46c8a042938579151ca5ae491dd9b1"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/IntegratedFeltChecks.cs",
+      "bytes": 716,
+      "sha256": "2b87ba3b9fff97c807d60a14db1f3a0ee5f71fc1488cd1ba0c0d52b08e6f74a7"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/IntegratedFeltChecks.cs.meta",
+      "bytes": 243,
+      "sha256": "749d987e243de51ce45d0b5021f2242a8d1598b14785afab32afa91d35424ec4"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/IntegratedGeometryChecks.cs",
+      "bytes": 8175,
+      "sha256": "8e66c6f6998aa55cebd120144380e196050029b10839804ae777b2957e258c1b"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/IntegratedGeometryChecks.cs.meta",
+      "bytes": 243,
+      "sha256": "008a7025ffc0d96089cd6b03d63eae1461ad911874206d7770fb99bfb7d64571"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/IntegratedPresentationChecks.cs",
+      "bytes": 9191,
+      "sha256": "d5fc84bcb500d48f263873ff0c6c5f5353b9d72abdb89504585d5ec959772658"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/IntegratedPresentationChecks.cs.meta",
+      "bytes": 243,
+      "sha256": "d4ead468b2f7726a30e410da44dd19b8a13ccaa165694fa3fcceec6fa051495d"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/IntegrationBaseline.cs",
+      "bytes": 2063,
+      "sha256": "fb5190284024627f7069f95f73b4e53ae6efa61962f8416689c130558178c9e9"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/IntegrationBaseline.cs.meta",
+      "bytes": 243,
+      "sha256": "895a1e37dda8e091d80c37625657918c7e87c974ce760306c13f5ee7d30ba0a1"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/SpinLabPhysicsChecks.cs",
+      "bytes": 8833,
+      "sha256": "008367655d354ae58147433ad9b8951541876be0219dcb89ea1dbf85a0674663"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/SpinLabPhysicsChecks.cs.meta",
+      "bytes": 243,
+      "sha256": "8923d25de1baaabca200eeb1b8c1e4664aad22d835ebca5ee4459e07cdda1b59"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/SpinReferenceFixtures.json",
+      "bytes": 21578,
+      "sha256": "cc18af82bb2c5096b3f8d796eb4d41cc2439d86db0b3d8e808068d2e8eaa7c43"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/SpinReferenceFixtures.json.meta",
+      "bytes": 158,
+      "sha256": "664777980d5aaadff981ffb97fcd349aa8ec400314bf8ad5d76874cffb3f78e3"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/TableReplacementBuilder.cs",
+      "bytes": 7449,
+      "sha256": "adda87d434a28fdf019cb9b773737b0ae74b123b430861e6aec31a106f4d7fdb"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/TableReplacementBuilder.cs.meta",
+      "bytes": 243,
+      "sha256": "f50eef5efe01b95e85f1aad4577ef0cd46e81bc9abe86123d07591a20908d47d"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/TableReplacementChecks.cs",
+      "bytes": 10616,
+      "sha256": "6e42e6ea2caf217e5df03b6f0766c1fea436b949b19fbb593305a6c51336c9db"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor/TableReplacementChecks.cs.meta",
+      "bytes": 243,
+      "sha256": "d3f53ea135984681a61981eade50d49c8c2636bd4dd89cc1e2ead6ae1b3943e7"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Editor.meta",
+      "bytes": 172,
+      "sha256": "aa253bcd7749176cbd4a85e1859742d6aae89d8c374fb8d0bcbe569cd2033262"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Geometry/PoolRule.IntegratedGeometry.cs",
+      "bytes": 1534,
+      "sha256": "5e3625b850ca41bcb12f2920ee46201837ea920bfe67cd8778f0f015d647ceb8"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Geometry/PoolRule.IntegratedGeometry.cs.meta",
+      "bytes": 243,
+      "sha256": "2f33219289ce6ac0718cb9a4535483ca1c45d1b1fb6da63c633f0478f460315d"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Geometry/TableGeometryConfig.cs",
+      "bytes": 13460,
+      "sha256": "227338aad83703aab0ff83e37430db562289862602e7c96c3c0b0300c513b354"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Geometry/TableGeometryConfig.cs.meta",
+      "bytes": 243,
+      "sha256": "0f8a245362bdd42cc3b609b29680cb072d7546e8da28954c3de2ab757ef5c25c"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Geometry/TableSpace.cs",
+      "bytes": 509,
+      "sha256": "5df7bd02f9c9e94fc917d2041d2f486d238e90d6cf4ebd5aba01e3844b9cc5d8"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Geometry/TableSpace.cs.meta",
+      "bytes": 243,
+      "sha256": "817c813b60fffa307bfbde7dd3787277b6ad86b1dd26dd8b7f1c4387de723d8f"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Geometry.meta",
+      "bytes": 172,
+      "sha256": "527c2996c6974b58e0e25a8e7a00a0b1f40eb6fda86a9aac8d16242bff36e9fd"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineAudio.cs",
+      "bytes": 1468,
+      "sha256": "7985a72551014db4b9af628ec89d4598056a15da68ca016df85bb7ab9cc3673a"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineAudio.cs.meta",
+      "bytes": 240,
+      "sha256": "9a025466a6f00b8cd94dd7f97eb727ee36747438493415d66898bb16d7e7c1a9"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineBootstrap.cs",
+      "bytes": 481,
+      "sha256": "127de489f9acbf8fa0d41db77e7ab7286af68cb19a1555ef54d51fb757b7eb43"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineBootstrap.cs.meta",
+      "bytes": 240,
+      "sha256": "eff4e8387aa70a2876e5c2d90e7a05c4aefb914b8b702eb7b67b941c48fac80b"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineConfigTable.cs",
+      "bytes": 3851,
+      "sha256": "d1274ad1d8212f7f38af89ff89370d9c7c81ac51d7ad0d502b51f94f5adb8b65"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineConfigTable.cs.meta",
+      "bytes": 240,
+      "sha256": "0361c601d94dfbc33431e82a52f4aa843fad63678fd344aa17f99fc541c49307"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineControls.cs",
+      "bytes": 13849,
+      "sha256": "8da821f89250a8d2b3ef7e03512ea1aed44022059e276b38b86e451fd3a31137"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineControls.cs.meta",
+      "bytes": 240,
+      "sha256": "3e23e4bfac90cdaf9560d845054cf7a2682fbbcd2ddc4c200b59e08735ff4d34"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineControls.Spin.cs",
+      "bytes": 2958,
+      "sha256": "1b6008b1f0f4db9b2c8fb5cc9016ccf87b7049d8352464fc95795ca6c2dba2a4"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineControls.Spin.cs.meta",
+      "bytes": 243,
+      "sha256": "0caec6d5c1595edffb2f1b5992e91c5e682fb96957022573c88b9d51891e315c"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineCueDragGesture.cs",
+      "bytes": 1855,
+      "sha256": "0cfb892ec853f5494696e67c1f492373624bec5840dae563525e23a7849a4b22"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineCueDragGesture.cs.meta",
+      "bytes": 240,
+      "sha256": "aca9ced51c7a45afd81d94a9914ad47099adeeefad9e1f46ead834871f06a167"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineMatchController.AI.cs",
+      "bytes": 3488,
+      "sha256": "74a42683b8c67d8c3ef4d0fed0460d55dbb176613b7f5d958e787a3d683b2efe"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineMatchController.AI.cs.meta",
+      "bytes": 240,
+      "sha256": "8152e0864fc74edd0bc015ddc049566f7ab6b0681abd416e21b557bc7bcc23a5"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineMatchController.cs",
+      "bytes": 16238,
+      "sha256": "6745acc8ce8731f28ead3060c308ae362b1893a6891edd6075ee9040d295fccd"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineMatchController.cs.meta",
+      "bytes": 240,
+      "sha256": "bed40a1e80c79f259fbfadb41efab6fdca8c70ef01035942a32d67643623b3df"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineSceneView.cs",
+      "bytes": 9806,
+      "sha256": "b1d1f4d43de1c6a0a331bf99707efcf4d0bd323a1d07b91b2fb7ccdf6719656e"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/OfflineSceneView.cs.meta",
+      "bytes": 240,
+      "sha256": "ba85f71489d683df14e07f116eb62213b6a1f9903f8d07f9af31f49225d1218b"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Physics/PoolTable.SpinEnhancement.cs",
+      "bytes": 2669,
+      "sha256": "b0044e1b9bd6004284a3ad93bd7e8295580665d9fe4ee75b01c9bbb71140b3b0"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Physics/PoolTable.SpinEnhancement.cs.meta",
+      "bytes": 243,
+      "sha256": "07552658563105a5766ce7501f24b8db82a36b7cd61291485178eaca3b490da2"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Physics/SpinPhysicsConfig.cs",
+      "bytes": 2335,
+      "sha256": "df5820a2a092717ae3b32373eeadc6b6ca10dd96a5c7ae2c8ea0a6a781a7c92f"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Physics/SpinPhysicsConfig.cs.meta",
+      "bytes": 243,
+      "sha256": "443ba01ef9f9be85f3511d9e8df4aa38ab93020024bc79521eabeed47bb28359"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Physics/SpinPhysicsMath.cs",
+      "bytes": 5813,
+      "sha256": "275976de648e1c61ae7b4377b5723e42deb539479a31a8b07b1fc21ae379a584"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Physics/SpinPhysicsMath.cs.meta",
+      "bytes": 243,
+      "sha256": "a627e69f94b98bdba034c840b284c554ff5d2b1fb220ae75df170dd4c0697cc7"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Physics.meta",
+      "bytes": 172,
+      "sha256": "7290022f469df792db1f0fdf6a1b655dede35bef06494a4cc532a3ab89743425"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Presentation/DynamicFeltContacts.cs",
+      "bytes": 2260,
+      "sha256": "e8d3bded5f9d5755e1f9592731c202d547f253890955431506a6ab9f486de237"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Presentation/DynamicFeltContacts.cs.meta",
+      "bytes": 243,
+      "sha256": "22d8ce0c3eaab902ac2e7f6700fe1f04c73d329a04b8c8e22819e58161efbada"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Presentation/IntegratedArtAssets.cs",
+      "bytes": 526,
+      "sha256": "f688d9be7fd31731f19a80c1b68568983ea9d5fe25e0fff5d2b53d2b0e14668b"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Presentation/IntegratedArtAssets.cs.meta",
+      "bytes": 243,
+      "sha256": "d038baa0e2b9c52728ba644514b01ca1bf5008fdd1a0a4e5fa9e3aa64632edba"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Presentation/IntegratedBallView.cs",
+      "bytes": 1477,
+      "sha256": "3e7dc0eb0efcf57bcad1d34c521e19ae64134a791629705dd0725b1ec4c41041"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Presentation/IntegratedBallView.cs.meta",
+      "bytes": 243,
+      "sha256": "453cb117af3208dc158da669b6ceb545818adffd702707957f869ec5844f7d42"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Presentation/IntegratedCueView.cs",
+      "bytes": 4939,
+      "sha256": "a6a6db9d7bb343a59a3aa0557c20e8da59df6b98a2f0d231ac13ef308be42323"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Presentation/IntegratedCueView.cs.meta",
+      "bytes": 243,
+      "sha256": "fb8c20067e83c632fd6a2fb7e7082c80e55af56b711ad683bed175f783f0a661"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Presentation.meta",
+      "bytes": 172,
+      "sha256": "fb67bf8898c1be0a262f44e8656605dc0bcbeca7d5e8544140e900cc4f0a6c23"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Storage/OfflinePreferences.cs",
+      "bytes": 1304,
+      "sha256": "49c5cdb728b8c53abe96018f1e2c319b91fb5414db84052709299b5aa8ecca56"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Storage/OfflinePreferences.cs.meta",
+      "bytes": 240,
+      "sha256": "2df1b02bde20e5b8d0484098c88f5ffdeaaa9ab8c2f645719d7bac8dd5819478"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Storage/OfflineSaveNamespace.cs",
+      "bytes": 1482,
+      "sha256": "0d1fde16e507be728b85eca1b76846267f998cfe29bc51fa5372be53ce0b6bff"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Storage/OfflineSaveNamespace.cs.meta",
+      "bytes": 240,
+      "sha256": "238d2f7f0b9ec3a8dc9199668a9f8893003ba00e363b08b6789d8f63d395f105"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime/Storage.meta",
+      "bytes": 172,
+      "sha256": "1cb6cf3d52cfa1987c0a49599e6afab3e5e95f888aa1177a3e8dfaa9e3e5549a"
+    },
+    {
+      "path": "UnityProject/Assets/OfflineRuntime.meta",
+      "bytes": 172,
+      "sha256": "2c59a38983a770e428450d8e9018ebc900fde67cbdd47419889adf424165f31c"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/AIStateMgr.cs",
+      "bytes": 1469,
+      "sha256": "f7de24a9e22091f757b6e478cb8235887f6fb493f804828789fdf89039aff8a4"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/AIStateMgr.cs.meta",
+      "bytes": 240,
+      "sha256": "89cb979bc17017816f4ab70b79de59b9b2c51fcb2c872644fdf6e73943bc068a"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/AIStates.cs",
+      "bytes": 5479,
+      "sha256": "9dbfdf265eb0463a3de9fe4eb90dbca0d1c518905cf19b1f988f8158fe3010c2"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/AIStates.cs.meta",
+      "bytes": 240,
+      "sha256": "53b2e0d56ad901252842158ec8e32172683b273fee099d2e80eaad0606fdc00b"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/MStateMachine.cs",
+      "bytes": 3242,
+      "sha256": "73a58b42fb8ab9c9a3cf2893edbcc7ae22c5c5a8a132255a21e5a115bca0e091"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/MStateMachine.cs.meta",
+      "bytes": 240,
+      "sha256": "576e4ab9230d4c6617e1dbeb59841ae503503f14e1ca67332b2ff2a337e46b1e"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/PoolAIBase.Decision.cs",
+      "bytes": 12466,
+      "sha256": "4fa1b073f62a58a05531024a2f680c1bd4c2f64800bc4ae602a91cf6023fc0ab"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/PoolAIBase.Decision.cs.meta",
+      "bytes": 240,
+      "sha256": "6d54419fde9917f95721619c7dd0320686c9e098cbaf0af7a88fc7e443e75e08"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/PoolAIBase.FreeBall.cs",
+      "bytes": 6025,
+      "sha256": "ae400e90e80d3fbcd2664f7d6ae1f0864c9c419798cd5f5668c63ea151e378cd"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/PoolAIBase.FreeBall.cs.meta",
+      "bytes": 240,
+      "sha256": "6db1d979004e3818a126001a88535c7cb494db59b26b048545af93adb6049c12"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/PoolAIBase.Geometry.cs",
+      "bytes": 12532,
+      "sha256": "8a183ddb1d8887b225d2554eb924645cfd9b36c95867e7699026668e4bf0e562"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/PoolAIBase.Geometry.cs.meta",
+      "bytes": 240,
+      "sha256": "f0d1de33be79495f6e7256356bb0eb663b12f48326f532666e084485445c7c7d"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/PoolAIBase.State.cs",
+      "bytes": 1376,
+      "sha256": "1f851732ea3880874798087987b0dac9b2fb7f49c2761842cfd4c7a75409dee4"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/PoolAIBase.State.cs.meta",
+      "bytes": 240,
+      "sha256": "e3dc35e837c0edf82840e691f123a6a74d574bd3dcabe451ae9a2feed80aec10"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/State.cs",
+      "bytes": 948,
+      "sha256": "f2616df80031671d60938fea088036fa35f97b0d9b61bd369280acc7d519058c"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI/State.cs.meta",
+      "bytes": 240,
+      "sha256": "4db0fd697d926e5b2425dacce0885645939b0f1047dea3bffc1d4cd4f7601bf1"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/AI.meta",
+      "bytes": 172,
+      "sha256": "a8a3aa0532ca6a48356a6af2cf2f349c5f3087fa5b83db42a7d85e4ecef4ada7"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Camera/CameraSF.cs",
+      "bytes": 6961,
+      "sha256": "f38d4135b192ac825ad747ecf2bd804cd322ec7a9f9f5f9cbac25781bbfb2273"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Camera/CameraSF.cs.meta",
+      "bytes": 240,
+      "sha256": "b8dcfbc6e3cb4aef3a533b63eb88c728d7fb2e89543fe945ac27e4370dfe6cdc"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Camera/CameraSF.Motion.cs",
+      "bytes": 5198,
+      "sha256": "638643e4f66ed8e71e93a22790106f21b7216c6aa15a6e42731e460d135f87a0"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Camera/CameraSF.Motion.cs.meta",
+      "bytes": 240,
+      "sha256": "4092c44e54954f1026dd736fb5d3c677f615746ddef882c394c4012af76c735c"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Camera.meta",
+      "bytes": 172,
+      "sha256": "fe41f25d16810193d6d9b662ff1cd7b199d1c1ec0b4fa9b3f999c9c41ec7bf04"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Common/Dsp.Gameplay.cs",
+      "bytes": 490,
+      "sha256": "b2637b96f5e4be21b1f31d2171932e91d01bcdb166ec25f5a764d683e418b7c9"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Common/Dsp.Gameplay.cs.meta",
+      "bytes": 240,
+      "sha256": "e674832aef97a182d7de1f3ef44c43d2c66329c73cd039ecf08ff349d5633e97"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Common/MathUtil.Geometry.cs",
+      "bytes": 6759,
+      "sha256": "bafe2a47d8fffd493e216edbd3bbee1c6071994506d3f0867f5c99601f57a1a6"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Common/MathUtil.Geometry.cs.meta",
+      "bytes": 240,
+      "sha256": "f944f1f4488043e97e5c0053b83246b9a6aba0e0cfb85b96152fc26a5b292fff"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Common/TimeUtil.PhysicsClock.cs",
+      "bytes": 613,
+      "sha256": "987283b8951ebc59bc821a2699f7fd347f51bef65f3dab577f2b7b80dca11f7d"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Common/TimeUtil.PhysicsClock.cs.meta",
+      "bytes": 240,
+      "sha256": "3b770d4824badb97df53688997f80a5f6d92f0c1f2e93d879a98fa037e704f98"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Common/UnityEngineInternalExport.cs",
+      "bytes": 6028,
+      "sha256": "8544810b714839cf16419b441db9b5a008f74b5f038274a1633a72483917ea7a"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Common/UnityEngineInternalExport.cs.meta",
+      "bytes": 240,
+      "sha256": "ab6ff5d5a28f557c37f9ded1814af218cb0a35b2bf60c57ae5d748152c6e85a7"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Common/Util3D.cs",
+      "bytes": 8189,
+      "sha256": "9ecbb52e4ab7ee32165ebd0e5b1951c6437d2991fdc888fe41953a31005f4cdf"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Common/Util3D.cs.meta",
+      "bytes": 240,
+      "sha256": "b374b013f73d147e8a986081f690ac195b144e462e17a344aa571b93c6dfb687"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Common/Var.Gameplay.cs",
+      "bytes": 7461,
+      "sha256": "c0d0b71bec2f5ffd906fd352a46ec0629de4c686eee82b3f68dc1929e57c2697"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Common/Var.Gameplay.cs.meta",
+      "bytes": 240,
+      "sha256": "eb3cdcec4dbb8f805b222dbc805567451595afe19e5b2bdc98bcd8cc413df358"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Common.meta",
+      "bytes": 172,
+      "sha256": "625dedf71972b404ba85108f92101d31a76a06f30cd2c8a49e14d739d3ec9cdb"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Model/RoundState.cs",
+      "bytes": 1216,
+      "sha256": "95cf7e049c73e12144bd7985854d5e06e5182001c6f632208844ac07c35c0c96"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Model/RoundState.cs.meta",
+      "bytes": 240,
+      "sha256": "2f26eddc7c5d47d3bf4b095280c55da91454c7d2353f80d106959db59fb127fc"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Model/VSRule.GameRoundState.cs",
+      "bytes": 2656,
+      "sha256": "cdaffd0be622712b9fbf6a11e238ffeec21195a704b62dba29bf3843fb5c33dd"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Model/VSRule.GameRoundState.cs.meta",
+      "bytes": 240,
+      "sha256": "edd042635db9ece2c366b6cde7fee4acccd19c8b5943df376afc17b5ad545e25"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Model.meta",
+      "bytes": 172,
+      "sha256": "9078b2503d17d64f9b69c84b1e163b9f1e5baab7ca5a489559d7ce7bf0055ad0"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolBall.cs",
+      "bytes": 3711,
+      "sha256": "bcec91fbc0f3b2958ae3a01ada0efb623ba5ebc39ab1b3ef44a556abccb33d50"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolBall.cs.meta",
+      "bytes": 240,
+      "sha256": "fdcd2e852640d590f3a4e8787fe79d74d2016336d88f9710ae3fbc3e14bc9ff0"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolBlocker.cs",
+      "bytes": 1294,
+      "sha256": "62b33ec5b4055ac2529119170f04c60c25377eb5c286bc95ba1dc6f3aabb4d41"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolBlocker.cs.meta",
+      "bytes": 240,
+      "sha256": "21d21aa3b1b097b8747cb8bf58caaf5a24b66c6b246dc6390ac11e8b52085031"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolHole.cs",
+      "bytes": 299,
+      "sha256": "b890e5b623d5df0c43a12a618004d09c3003cb70ff10228ed31aa20da504616f"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolHole.cs.meta",
+      "bytes": 240,
+      "sha256": "848abd9b0f402fbf9bd37de9741d664ae9eb2d2d6cfaed5dfbfbcc14bd129b52"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolObject.cs",
+      "bytes": 1478,
+      "sha256": "6f8fd692c0d10ec7db4e927678a2e43687c09680c9e8de1445d3c94a202e47a2"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolObject.cs.meta",
+      "bytes": 240,
+      "sha256": "76f72f2bc8d82bc16c73b8f83fe03f3115283dd459f45b31b077567926462006"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.Aim.cs",
+      "bytes": 4358,
+      "sha256": "6f1455076c16e1c6e317a30bc48fd26af3ab6304fa6f6a248a88e85f00b1d5ad"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.Aim.cs.meta",
+      "bytes": 240,
+      "sha256": "42165d86dc69e56d21e2026bffcf02d160c99264ee73ef74b21495882cb5a9fa"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.CollisionResponse.cs",
+      "bytes": 5377,
+      "sha256": "06e6e625e04da062d9d2b2d50963f6fa6a67e4cd09a2ab9439fab0bf17f6564f"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.CollisionResponse.cs.meta",
+      "bytes": 240,
+      "sha256": "37299b0053b8a3d28dabfd494fda568494abfa4f3b45e6310fcb0ae2af218df0"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.CollisionSearch.cs",
+      "bytes": 6607,
+      "sha256": "b9e8b684c69e107d8c85a8cd636e33447961aea9e6a323e826129a3d6f97e1cb"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.CollisionSearch.cs.meta",
+      "bytes": 240,
+      "sha256": "5620cb0e301671307e6ec7a767d03e7e274f289dfa67c810ddcc87e99fc2c412"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.cs",
+      "bytes": 4555,
+      "sha256": "431e0ef844341d54464e02a5e989b1ca84f927f919cb67e96d1576142710859a"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.cs.meta",
+      "bytes": 240,
+      "sha256": "ef7f9cb921c98e96c34b85be9e30cc08bb339de1cc23fd37c6bba630531e8c4f"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.Forces.cs",
+      "bytes": 4257,
+      "sha256": "60d7d01e69c0495ee64391684dcabeb614e000661e4a0ef613aaf76ed50da65a"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.Forces.cs.meta",
+      "bytes": 240,
+      "sha256": "7eae8d2e4b55233088402a45c548a8b02d294fa989e9de41b27200dc71ad9c66"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.Intersections.cs",
+      "bytes": 2026,
+      "sha256": "5e08b75e90128d1bee5d9915676f33fb532b20d39bf45ae7960566f7fca30563"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.Intersections.cs.meta",
+      "bytes": 240,
+      "sha256": "0025d543f317d50a350025ba7a50a189826764b50c9eeee442ed9b9dcb4bb4d4"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.Shot.cs",
+      "bytes": 2727,
+      "sha256": "0a40212391ce645df7b8362643a08cb72583286a5f119e357caa6e30c3a9f78d"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.Shot.cs.meta",
+      "bytes": 240,
+      "sha256": "f6dbb6875bc9631da67b26d02b39a575058242ea1743497c4179e70fddb3cb84"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.Simulation.cs",
+      "bytes": 3561,
+      "sha256": "01e2f15715c09c229cba81727cc0770b115a10a0587e3d3c7e71cd781040014b"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics/PoolTable.Simulation.cs.meta",
+      "bytes": 240,
+      "sha256": "e0c9e20fe6f0d00466e420ffca65ce5d27e74548df577d0c25b1f1cf723fabbb"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Physics.meta",
+      "bytes": 172,
+      "sha256": "dbde0fc53db871a94e34a773adc65276157bdda1b0557480ca17eaafbd6ebd76"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Protocol/Pool.proto",
+      "bytes": 15430,
+      "sha256": "60889191dc01196fd27662803648667a55ebbdf84de2ee151b0103e1733897e0"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Protocol/Pool.proto.meta",
+      "bytes": 152,
+      "sha256": "42ad8a42e7e96a1a0cd34a4579c73653a905d6e3e45561d841d48490ede9f71d"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Protocol/PoolProto.cs",
+      "bytes": 1137908,
+      "sha256": "abafba63ab394c651e7f091d33154b253a2a7c0d9d2daf4a43eaf4d7380b8523"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Protocol/PoolProto.cs.meta",
+      "bytes": 240,
+      "sha256": "61360d2babbfff27671c7a9e9a8059aabcfcc9dee29fc15cb8c694757151ce05"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Protocol.meta",
+      "bytes": 172,
+      "sha256": "29127a680a1adbc87f035bdcac7096176677fb0e31cf03cd830d46e83dd5b6d8"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/EightBallVsRule.cs",
+      "bytes": 4950,
+      "sha256": "32e7aa301bfcd629f96a560ab5f0f5e931cb81e153b8dec9d8c2812c0abdcc7f"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/EightBallVsRule.cs.meta",
+      "bytes": 240,
+      "sha256": "afe7c4c54971f1e5f7c3be45f1e47e71937182a65ad39136f2ee37e411f199fd"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/IIRule.cs",
+      "bytes": 2164,
+      "sha256": "92e9ff3bd8cec7582d55d50cedad9e70a0bea009fc87fa71ff4b59d9a5ec3661"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/IIRule.cs.meta",
+      "bytes": 240,
+      "sha256": "ee4e7f9c1efa5916605bfd1534dca60006a08c27354416ffb256da6342bc7d91"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/NineBallVsRule.cs",
+      "bytes": 10216,
+      "sha256": "d83ba3c458e171c717333a3faf571f285df568a5c9ab250a1796695ff2e3a655"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/NineBallVsRule.cs.meta",
+      "bytes": 240,
+      "sha256": "744037c331d62658eea64a1d5b54cd9a4200e2488b927253fd69d6658342e6a0"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/PoolAI.cs",
+      "bytes": 510,
+      "sha256": "b860dcf2084d02963fb270d58296553946a5b4f6da70351828895ea4b5d29a8a"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/PoolAI.cs.meta",
+      "bytes": 240,
+      "sha256": "ec2584c9e69fa075feb2938f0310806af47b2a9d2f92d886403a3e37c375d02b"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/PoolRule.Core.cs",
+      "bytes": 7145,
+      "sha256": "bce47b857911026695bff1b5a84870781816c8c2046f0022d1854547d573a95a"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/PoolRule.Core.cs.meta",
+      "bytes": 240,
+      "sha256": "b841b90bc19b36e21fad87382adc35c448c5e1763a00ab2a7927fd7697c419bc"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/PoolRule.Fields.cs",
+      "bytes": 2589,
+      "sha256": "613b82923f2ee825a52f7457d9292dfd9ddfd28f1d407b1422e295994b63f89b"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/PoolRule.Fields.cs.meta",
+      "bytes": 240,
+      "sha256": "1799685774ad8ea89e655b712749fad80627e566b907e2b9ee6f514206a4e937"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/PoolRule.Placement.cs",
+      "bytes": 3730,
+      "sha256": "759f2c1499f72e84ba3629736ad2707dd64117966d766031e0b6519e3680209f"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/PoolRule.Placement.cs.meta",
+      "bytes": 240,
+      "sha256": "14c943977a42c3546085ff348a37190d3581ec8953faae4301f80e1d8d59833f"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/PoolRule.Static.cs",
+      "bytes": 5823,
+      "sha256": "608fe089a0715e180d3ed4436c9a071d333413e0f1f4f05216a844a8c8da4595"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/PoolRule.Static.cs.meta",
+      "bytes": 240,
+      "sha256": "68e065790fcc4705e051bd55b7c3d88b7aa7904946ce6cb267b68243dd5926eb"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/RuleListener.cs",
+      "bytes": 449,
+      "sha256": "1441a8c30431ae3c153c65facb2aac24b618399362a9a18c16c27a2a16c67fbf"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/RuleListener.cs.meta",
+      "bytes": 240,
+      "sha256": "7f6f2f74d368edd22c85d9a77c16071465be2acbff4f6366f33a5b2d7280cd7d"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/VSRule.Bounds.cs",
+      "bytes": 1688,
+      "sha256": "0c4e883f7c4b111db983322427d1e233649f0ad15eaf74898fa60c5c416f5263"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/VSRule.Bounds.cs.meta",
+      "bytes": 240,
+      "sha256": "241728dfb713d983cd4b460cbf1ea7658079361285f5f2c47c3a92fd32a35e4a"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/VSRule.Collisions.cs",
+      "bytes": 4345,
+      "sha256": "b1fa0495809dc2c6c7d0f2f45cb9b38d310399854fee6c1732625a15a4ad8bf4"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/VSRule.Collisions.cs.meta",
+      "bytes": 240,
+      "sha256": "12a8fe1ccd0e84a74e65c46c73d88777f0e73ab1ac2889f8609e6eb3ba725445"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/VSRule.Core.cs",
+      "bytes": 11512,
+      "sha256": "c660744d97404d479cbe962513a3f442eaa84cd2a6c054413698601c3bb22cff"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/VSRule.Core.cs.meta",
+      "bytes": 240,
+      "sha256": "74d5117c6ef552506c08984cfd3eca27ed64d9adda006dd53059ac8aff623f32"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/VSRule.Fields.cs",
+      "bytes": 1072,
+      "sha256": "e81a9d36634082b4756832d06fcdafc90059a1f8c13ef8db83b380f32472a99d"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/VSRule.Fields.cs.meta",
+      "bytes": 240,
+      "sha256": "06c540ba0b8ef8f7abda6f0fadc128178e844a469039c4a65c5fae0305470e71"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/VSRule.Tips.cs",
+      "bytes": 2014,
+      "sha256": "bbe06166e26faec1e85b050830d36e57b69432a077f9bcba6e1a59a7afc1d516"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules/VSRule.Tips.cs.meta",
+      "bytes": 240,
+      "sha256": "c8e1cbbe2bfb8a4b8c9bc077c27e1810c6969521769408185d6689fdd6a727ba"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore/Rules.meta",
+      "bytes": 172,
+      "sha256": "43bc74956ceb83263ff825c63ecb373778248b39c214ca5182b012c6fb28937f"
+    },
+    {
+      "path": "UnityProject/Assets/OriginalCore.meta",
+      "bytes": 172,
+      "sha256": "8bed368fc150e29b93f3363f081e28c47877f8a07f9b5dc1bc91c55813163887"
+    },
+    {
+      "path": "UnityProject/Assets/Plugins/Google.ProtocolBuffers.dll",
+      "bytes": 379392,
+      "sha256": "919af62c4bd63c5581854c0bbc91497fc8e85b062718596ff19720e788bc4aed"
+    },
+    {
+      "path": "UnityProject/Assets/Plugins/Google.ProtocolBuffers.dll.meta",
+      "bytes": 62,
+      "sha256": "a6a152ea0a1c4fb0ce64ddee2c7b5dc37bc28f2bd0a41d5c1dd1dc51af2d6edd"
+    },
+    {
+      "path": "UnityProject/Assets/Plugins.meta",
+      "bytes": 172,
+      "sha256": "75735f1aa7a77f3a79c8d158464b91c894eb40247d5a5660de7d76950f1699b0"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/0.png",
+      "bytes": 3527,
+      "sha256": "11a9f305a1648acf346918f9a490f64fb1e6f9c3016710774aae0a47ce60b24f"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/0.png.meta",
+      "bytes": 2801,
+      "sha256": "703f521f9d33644e9b83efb1d61da09f7a99fc4cd79dfbbe56bc30764b43d099"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/1.png",
+      "bytes": 5593,
+      "sha256": "aaa9f663820f7be741c66d6fa536683ecb5eeec57ee84095b2a72308b4e1c0af"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/1.png.meta",
+      "bytes": 2801,
+      "sha256": "59e3234d99408cad5fdaf43e98460293ed6b729eef5f15861b855fe02038964b"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/10.png",
+      "bytes": 7677,
+      "sha256": "6aa3edded750d89b4f5335e8a1579f85b9d9bbf689eb8a4b4a91a48f619d9b10"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/10.png.meta",
+      "bytes": 2801,
+      "sha256": "442f329460417b0cfd0380ec37001f0818cc891e19f197a4f4b9ecedb8620f17"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/11.png",
+      "bytes": 6510,
+      "sha256": "351e4893f4d86906e146f7d005af1b51bfdae44d13fe662da7041f0ff77edaf3"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/11.png.meta",
+      "bytes": 2801,
+      "sha256": "859401615c4131b8735b433870a58bf14272d053a2e2af97a86c2b8bedd61259"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/12.png",
+      "bytes": 8412,
+      "sha256": "9304b5b7bd6b3a03a903e4d598a4e08be23c2c2d2e711c0ded04b545bda1cc53"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/12.png.meta",
+      "bytes": 2801,
+      "sha256": "1154b78053813f7cc3d0657eb52df08192586f4b4c63eb262251fd3e95e5c292"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/13.png",
+      "bytes": 8073,
+      "sha256": "bde78bcc244fb5bd0ffb221611190be959d8098f2d9c0190d36ef72b3834183e"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/13.png.meta",
+      "bytes": 2801,
+      "sha256": "a8d8e45912cde70129a106e1ee61c45874857cb334bb4334570a08133d010d48"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/14.png",
+      "bytes": 7260,
+      "sha256": "377d6ab525cc07498ad420a14b616547105a2b92a9b67dff3b5da8953c3bdde7"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/14.png.meta",
+      "bytes": 2801,
+      "sha256": "a41a5adf7bff2e25bb1af9e2835a8170127b398c6854fd209ca4a9b12dacc8e5"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/15.png",
+      "bytes": 7715,
+      "sha256": "1de5af82e494d6ad0315e8cb956ef62e97125d3f383b11383d593247f77409ec"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/15.png.meta",
+      "bytes": 2801,
+      "sha256": "5f1b73a4f79895aeb2df09c9d77f79eeb6585c717ed761081c726497ea1fb628"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/2.png",
+      "bytes": 7451,
+      "sha256": "b1bb674b7953526882c45072eb852eb5c9cf0a8c06335047b6c73a1caa574507"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/2.png.meta",
+      "bytes": 2801,
+      "sha256": "facdb05ceb7e348a2e7116e0a96edcc6f80bfa951b36019a07d3f1ac04086e2c"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/3.png",
+      "bytes": 7325,
+      "sha256": "6015ce05259a609efd5806a124c008373299a830e94a5bd247832231c9641f2b"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/3.png.meta",
+      "bytes": 2801,
+      "sha256": "1697f6d85ffccd90d096f01146367b8a20fa7aac5f50eef6e4452064d0004f40"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/4.png",
+      "bytes": 7162,
+      "sha256": "9fda981492dfd17684ab81f10a06ccf5b460867f2b1884c41ee4bb99a3a4c18a"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/4.png.meta",
+      "bytes": 2801,
+      "sha256": "1cf8ef741076a4db2ec8cb0463840799e0a94401860723c11427931796735b5b"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/5.png",
+      "bytes": 7018,
+      "sha256": "70225ab4fe4498d8258e3fa202c3296ffade588485b8b059fd4c92d6e92f4ee9"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/5.png.meta",
+      "bytes": 2801,
+      "sha256": "8aad9c49b7412d16528a542b3d5b18e4457b5d595094c650ee2afaad2514d635"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/6.png",
+      "bytes": 7958,
+      "sha256": "032a09bf13877ae85f2da9a5fad1612da99a5248d107cce8781ed9e5942fc20e"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/6.png.meta",
+      "bytes": 2801,
+      "sha256": "6b4a3c7a2c484b94c4315da2c34d59f7f4de00988564b4fccdc6ae1b3983d547"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/7.png",
+      "bytes": 6487,
+      "sha256": "c7ed4be5e200009456155d6d1aa11b1d52ca77dd46f91f49bb7928972988c7c6"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/7.png.meta",
+      "bytes": 2801,
+      "sha256": "ec3a5aca6c72c27fd2c20aa37619fe2c02b05d63df6f2576c6db01a7ffbc425e"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/8.png",
+      "bytes": 7658,
+      "sha256": "bc0c4e1127ddb42d8692b00598dab49697309456639e9237dc56a498b40838b7"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/8.png.meta",
+      "bytes": 2801,
+      "sha256": "c33698c8bc6faf50ce086654c45320a0f2908854da9f6fd880f2fa5071316bdc"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/9.png",
+      "bytes": 7547,
+      "sha256": "1afdc4fc82f8967e649bf0a8fc228a038e6847b9b44b7acd008cdd8102da8684"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs/9.png.meta",
+      "bytes": 2801,
+      "sha256": "4f13b4e2fa9d75ab81660d52bae7534395d94112befbab5a11fd4b3c0b82a332"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/balltexs.meta",
+      "bytes": 172,
+      "sha256": "4b6f0eafbf969137c3100dc981065655a6f9a727918b211049c2ff696b13f555"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/Integrated/Environment.prefab",
+      "bytes": 194133,
+      "sha256": "c90e704a0e7ba94827e41dd038ab48262b31c68848fc3ecd83ff274b55ad3dd5"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/Integrated/Environment.prefab.meta",
+      "bytes": 154,
+      "sha256": "c9c5605a75596674a7be643def87b92f470a38865361dfb806f330ec121ea4d2"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/Integrated/PresentationAssets.asset",
+      "bytes": 1983,
+      "sha256": "6bc072ac57fc67eef184f8e264fece10b8d75ac8807f5a515814b67c64bd2317"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/Integrated/PresentationAssets.asset.meta",
+      "bytes": 189,
+      "sha256": "1510676130bbb2f674c42630c8a550d12047114240452448e3e4c0ccce2e5b38"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/Integrated.meta",
+      "bytes": 172,
+      "sha256": "7e1df4cf0a9871f0825e806f48bcd575ee3c531a69a1bb09bb53a085a1998479"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/bump_ball.ogg",
+      "bytes": 7014,
+      "sha256": "6818c08f54624bb01de303a18c82ac44c7b213e1813d97b198c2035b05e4096f"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/bump_ball.ogg.meta",
+      "bytes": 1095,
+      "sha256": "515b8e0b26d7664df17d2b6067b9116a3d6ad189142b8e7ed1ee1326b7dd40fe"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/bump_table.ogg",
+      "bytes": 6045,
+      "sha256": "cf6b8d45ea46490e8e13b969b9c44bd22fe4789e2e255866167aab2f0919b36e"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/bump_table.ogg.meta",
+      "bytes": 1095,
+      "sha256": "caa7d4c37dd2c688be6801003a565b0c4d363fa0b34a597b84d250d4110a66d9"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/lose.ogg",
+      "bytes": 20306,
+      "sha256": "54af4e355ebed5e194004c3c78616a7a9f97b268de3bb5c25f67da5abc78de7d"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/lose.ogg.meta",
+      "bytes": 1095,
+      "sha256": "80cad0a2d3dd97b93335108992d28996099038fcd53a619e52d31d8575adafb2"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/pot.ogg",
+      "bytes": 10722,
+      "sha256": "8ab746f051570d1742a15d339983a58242c230ee0a5a9a6bf25467c1288f74ea"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/pot.ogg.meta",
+      "bytes": 1095,
+      "sha256": "270ff5a642eb7c2c5b1039c38423a7cfe15186dcc97e5a24043a36a9d6776756"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/shot_heavy.ogg",
+      "bytes": 4847,
+      "sha256": "8fc31dcf3e67d637ae86982f210e4524e4a9cc7299741123ec48e39ed55f42d8"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/shot_heavy.ogg.meta",
+      "bytes": 1095,
+      "sha256": "38abc1afde3dbfc7c13b0f2bd93b778485673a9e443c61c84b8d518e2c119796"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/shot_light.ogg",
+      "bytes": 5795,
+      "sha256": "afa2958fb01b35e823e95ec272918d972f708fab72581a601d86f0c712b71d90"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/shot_light.ogg.meta",
+      "bytes": 1095,
+      "sha256": "8dae0d2504356b9035d31fc7453ab4ad58c14e94827d3acd6c57c3adcf8a71d5"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/shot_mid.ogg",
+      "bytes": 6166,
+      "sha256": "747506e0d6d6d120ac44f64f655eb0a0e03c2008059f66502d0595d76857e097"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/shot_mid.ogg.meta",
+      "bytes": 1095,
+      "sha256": "8a91ca185191abd732007fc010f6ed223c4865c3109ddc296d9d94a863149fa7"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/win.ogg",
+      "bytes": 22363,
+      "sha256": "b9473c49c087da19a911e934c6d9cd9c18215708a0ae75dd868a861984b5b3df"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio/win.ogg.meta",
+      "bytes": 1095,
+      "sha256": "7350f92bbf94443bcdec9ad5a6660e3cbdb1ed58ea9c91bde3020b0de3c8f8da"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineAudio.meta",
+      "bytes": 172,
+      "sha256": "606cad3c890b007f4d86238cb06114676e42b6a3a2bf1e1a6e9505283114bc14"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineConfig/Camera.json",
+      "bytes": 766,
+      "sha256": "2e9f21484958cfdcf2334924f421ca41b15b2d572fa23ab7067480d28c5fb246"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineConfig/Camera.json.meta",
+      "bytes": 194,
+      "sha256": "925eeeccaa7da7aff47f6362fe5e26c6cba238810d311ad6779a783c628470e8"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineConfig/Cue.txt",
+      "bytes": 15092,
+      "sha256": "5bca02b9ddfe1597265b7eb69bf8652b5da42b805172c0b0d9ef338d35ea73ac"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineConfig/Cue.txt.meta",
+      "bytes": 197,
+      "sha256": "a2e86632103ad966e225479f3f78a7d028d8ce6327e5209a5ced6bf0749fea1e"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineConfig/VsMode.txt",
+      "bytes": 6808,
+      "sha256": "1537c15ce31f411e5b5c38df27865dae68374a7d862ea165293949a04f37acba"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineConfig/VsMode.txt.meta",
+      "bytes": 197,
+      "sha256": "d2790f5bf877c1f829c17dd747a3dcdd40ef9f0e4e225dd838ca3b5ef6236c0e"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineConfig.meta",
+      "bytes": 172,
+      "sha256": "1d2cc5fec2efdfc94d42298992327a43982b559d1256bbe6a503d82394e29970"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineStandard.mat",
+      "bytes": 2189,
+      "sha256": "edec549677e61580743854a6f3cc58eadfef3b81b77676141f410af256edcf1d"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OfflineStandard.mat.meta",
+      "bytes": 188,
+      "sha256": "10ea2852c3822db7baebf54b161cb39d8c1e73236d5afe55b3fa3794e644cbf1"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OriginalCue/Cue0.prefab",
+      "bytes": 2393,
+      "sha256": "1505007e8998c270e357febc2f375f5ebf0c68a7d87b85e5461f46a36e450a0e"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OriginalCue/Cue0.prefab.meta",
+      "bytes": 290,
+      "sha256": "0a516230318c8dc5a772811d42c795dca7b8a62c000279ed315c68a633e9989c"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OriginalCue/Cue0Texture.png",
+      "bytes": 46825,
+      "sha256": "1c87d17c1db8628212fe4c908f21254c55a05879433efad70af8ae67cb11d12c"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OriginalCue/Cue0Texture.png.meta",
+      "bytes": 2801,
+      "sha256": "65f8754878a0d43683a768643dd79b9b6b6b2a3021ecef4702a0ebd734522b71"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OriginalCue/Cue_A_mesh.asset",
+      "bytes": 16020,
+      "sha256": "a8620e6d8a305d035362fac522a666a7cd7f0730be8fe36e800892909d2f5f0c"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OriginalCue/Cue_A_mesh.asset.meta",
+      "bytes": 227,
+      "sha256": "a92b68ed1a353bd17cb7f738abe85ab3010cea175055f2189a5768fa82e4c41c"
+    },
+    {
+      "path": "UnityProject/Assets/Resources/OriginalCue.meta",
+      "bytes": 172,
+      "sha256": "934ddd122649c52b243affce8d3f1c96cfa6265ede4bbbe936c7f7858d0de175"
+    },
+    {
+      "path": "UnityProject/Assets/Resources.meta",
+      "bytes": 172,
+      "sha256": "91723bf80f38786a57c6fbac6d2f61e0ad4188416341c60c5869c693548f073b"
+    },
+    {
+      "path": "UnityProject/Assets/Scenes/IntegratedOffline.unity",
+      "bytes": 7796,
+      "sha256": "84a126deb4247cd52666b86c15fe151bc925170961bbfb36b6dd5c89b043329c"
+    },
+    {
+      "path": "UnityProject/Assets/Scenes/IntegratedOffline.unity.meta",
+      "bytes": 155,
+      "sha256": "1efa45c7a407b88fed75d21357af3befd6cf29d6948bb6bf9f9a23e29ed1bce1"
+    },
+    {
+      "path": "UnityProject/Assets/Scenes/Offline.unity",
+      "bytes": 1072,
+      "sha256": "64d605386148d77c095b0dfebd6f592c82ec9b8339046c97835ee37c2b983cb7"
+    },
+    {
+      "path": "UnityProject/Assets/Scenes/Offline.unity.meta",
+      "bytes": 152,
+      "sha256": "4539bf956c7d4aeb7af67104b5354720a52c4c7c73415ce6f86c669d660b3f2c"
+    },
+    {
+      "path": "UnityProject/Assets/Scenes.meta",
+      "bytes": 172,
+      "sha256": "8f904166d3a4d1846f72b61a0aa020ce6cd3fa4039bfcb5a79a0d58e65eb8153"
+    },
+    {
+      "path": "UnityProject/Assets/StreamingAssets/SpinPhysics.json",
+      "bytes": 522,
+      "sha256": "ed286b58b77745e1342281ba3ea0c0d9096beb2ada4c0366bdab8bb672995b3f"
+    },
+    {
+      "path": "UnityProject/Assets/StreamingAssets/SpinPhysics.json.meta",
+      "bytes": 155,
+      "sha256": "57e67be1eb47177c4030dfa0638713807c1f8e3bf1f0ffd827208519c9cc1d89"
+    },
+    {
+      "path": "UnityProject/Assets/StreamingAssets/TableGeometry.json",
+      "bytes": 40635,
+      "sha256": "bef31a48d642d5709262cf1a4b5afbd2c8aec95996ab7b79602cb54e9b02c750"
+    },
+    {
+      "path": "UnityProject/Assets/StreamingAssets/TableGeometry.json.meta",
+      "bytes": 155,
+      "sha256": "9ceb9e8bbf818ba9ad47015c46e561864e1f4ee25d08f5d07bf41ebe7426624a"
+    },
+    {
+      "path": "UnityProject/Assets/StreamingAssets.meta",
+      "bytes": 172,
+      "sha256": "3d8f379882649927c286ee7ed78bf9125f758fa4c5b0d0b89b0e30baf2c2d7fd"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_0.mat",
+      "bytes": 2273,
+      "sha256": "720b414d7d6c15a15af4b26c4e7e864737242f621ddb0e041acbd54366aec683"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_0.mat.meta",
+      "bytes": 188,
+      "sha256": "cd897417ec21271bf51a62c673ec4187c6968595faeec62ab31cc5473519433f"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_1.mat",
+      "bytes": 2220,
+      "sha256": "c5bda98cee3817aef438f69416ecfdb9fd7449669fd432215c440464bf57bbaf"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_1.mat.meta",
+      "bytes": 188,
+      "sha256": "03abe9c06553e838b7a56bd6a3050511ad7ac4c3b2261ff7ce04fa113477d1c8"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_2.mat",
+      "bytes": 2220,
+      "sha256": "35301275214e85fbe1e38a9cdbbdbba4b86255f5e05e28c2977615ae1b6afcd4"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_2.mat.meta",
+      "bytes": 188,
+      "sha256": "0e04784d5e2a1805e27bab1c02def10d91e285045a63869282ee081dde0a47b8"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_3.mat",
+      "bytes": 2220,
+      "sha256": "440d4b00d83ee78cae45c3d7ca2d540154604d349ae373d1b5d03bcd05a80340"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_3.mat.meta",
+      "bytes": 188,
+      "sha256": "767f5c98c0339a9b41401231e4817fdb39c87c24d510226a56293a2b6f68dd42"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_4.mat",
+      "bytes": 2602,
+      "sha256": "2358fd30c12b98937231d91cc789144a3e326ee5186096c407fc3d4b16f3ad92"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_4.mat.meta",
+      "bytes": 188,
+      "sha256": "5ee2e70c05890301bc99f095cc9e55bb1b0aa730e597d66a747335041e176071"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_5.mat",
+      "bytes": 2222,
+      "sha256": "a82fcc1d104c238845e0b32b15fa556d737705260303743ba81bc3564f6eb5dc"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_5.mat.meta",
+      "bytes": 188,
+      "sha256": "9eb931f1f3ebc92155113cb9c2f03f51aa6d0c49b3afe4857848f5acc4d31e42"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_6.mat",
+      "bytes": 2214,
+      "sha256": "3550c6fac22985f4917eba770b2f17b72e578018af9fb010078e34c3847eac52"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_6.mat.meta",
+      "bytes": 188,
+      "sha256": "d9eebf760940d1f50312fa57b93617616b1dc76835e37a57e91732418e1d8d52"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_7.mat",
+      "bytes": 2222,
+      "sha256": "e8df01ee52e42273394fe24ab07698d3aad162def44c21a9794e123abb738b6e"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_7.mat.meta",
+      "bytes": 188,
+      "sha256": "b56622f009a40d0bca4ea6dfb9dd903ba5d06846e6271a19b94c88d82cf8e525"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_8.mat",
+      "bytes": 2219,
+      "sha256": "466ee3613e244897accac10991ff5d39f3d5e3867f5c7af279bf5c91da8567dd"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials/Material_8.mat.meta",
+      "bytes": 188,
+      "sha256": "ed68ed7ce5173a24eb16c34fcba652a5ee4f95584a9c604fffc48e3faf504b46"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Materials.meta",
+      "bytes": 172,
+      "sha256": "ad5223caecd425bbf6f413f7a847873da4941da9492f4c11ef321a88e2113363"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_0.asset",
+      "bytes": 3297944,
+      "sha256": "023c288e2898c10dd9ee4d5155426427b4afe2c6b1d72a225b82ed2b96082093"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_0.asset.meta",
+      "bytes": 188,
+      "sha256": "7c1f9c3d1a92836485571da63156194ac72545b4c2e936e6fbfd9e362f61b818"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_1.asset",
+      "bytes": 127415,
+      "sha256": "df6779cb88bfb41ec40ed6a20c7380a9dd6452dfd2446ab4428d70410698138d"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_1.asset.meta",
+      "bytes": 188,
+      "sha256": "be14c7132240f97b2d7a0a8dbcddccd1194f5dd2f5fcaac5ccb1ca74b924d2f2"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_10.asset",
+      "bytes": 24752,
+      "sha256": "ed10b9ab30274752a457f65753647aa9898c7486872938f0282176dbaf0e58cb"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_10.asset.meta",
+      "bytes": 188,
+      "sha256": "12ac43fca179a64d790b22ccfece5eb3187bb7db657ea9242d3761ee1bbcc2e2"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_11.asset",
+      "bytes": 24750,
+      "sha256": "892136e7340c3e1b09141945a5b708243d2979e497aef17d5e8ac2ede243428b"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_11.asset.meta",
+      "bytes": 188,
+      "sha256": "af48425020e690d609f8d8ff2b5010588da33a935468490e979c3686fe156378"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_12.asset",
+      "bytes": 24724,
+      "sha256": "8ff34750231f5035e3b15eb62e794308f3685131b342e1e85daf85bdca59b4cb"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_12.asset.meta",
+      "bytes": 188,
+      "sha256": "006fafb49515ce1de945621d7b4ad2b5d4963069c9010c924b6a5759d9c71e45"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_13.asset",
+      "bytes": 24722,
+      "sha256": "175387a1016122d9d1b1227a8b6ae804188b0d2084da53095101f126e2380da0"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_13.asset.meta",
+      "bytes": 188,
+      "sha256": "534a011c0488a3f1f8752e0ecc24051809b8ee6fe423c491ccb508cc4d2413fb"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_14.asset",
+      "bytes": 1953171,
+      "sha256": "641e43180b79747b06cbfe05297922e72d45e92f7eaa8c1e08e1d51dfa79cd1a"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_14.asset.meta",
+      "bytes": 188,
+      "sha256": "2fd6db7dba746c91f9ef850259e3a7e5fd4bcb8323ae3e0e5d9f8539fc20a276"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_15.asset",
+      "bytes": 27664,
+      "sha256": "66b27d1aca7483405d3f46cda99c0a36bcf471538b62d8a0819994d73004f158"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_15.asset.meta",
+      "bytes": 188,
+      "sha256": "6cca65a6e4abc2ae551b0ca8ca52cabd3dd62670ee4a6f589872a72c03b33f68"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_16.asset",
+      "bytes": 27648,
+      "sha256": "8446f250b4389190e7173abf13a7241cbbcbf375123949704a4c971c6b68de4e"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_16.asset.meta",
+      "bytes": 188,
+      "sha256": "b9b4935afc1549f9fa4645f526727135018ab4a6d9f15a1a220df6b33288aafd"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_17.asset",
+      "bytes": 27664,
+      "sha256": "3b8e964c851767b1f88c8ae79772e16fe84f5998e92b0f37443c035aa1d387c8"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_17.asset.meta",
+      "bytes": 188,
+      "sha256": "f2cf8c97711fa89bbec1356d734242329fc777327ddc8169a2119fa5459ac8bb"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_18.asset",
+      "bytes": 7511,
+      "sha256": "99ee71d9dd1bdcfb7677f0c168219071827b0a99903a690823261b507df05c7b"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_18.asset.meta",
+      "bytes": 188,
+      "sha256": "5b2e45d9c4c65f4357e8f1be2470921147091a2b32ec1ae4f65d7b3037add351"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_19.asset",
+      "bytes": 289371,
+      "sha256": "f463058a500d062f73a42fc1318c379d994678e20000a31705577f78aeff8b5a"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_19.asset.meta",
+      "bytes": 188,
+      "sha256": "15beea38b79acbba9e2eafb0b7c10144dc8cb67c84d8f9bebf77ffee6baaf382"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_2.asset",
+      "bytes": 128277,
+      "sha256": "065e17411e0898e6fab70a2cf54f452fb1157285d07ee11de4f0877594ca8c41"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_2.asset.meta",
+      "bytes": 188,
+      "sha256": "5dce57650ad682d29df4a1d3f07cebbf4faff4ac2640f3299bafbd5da5ae525e"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_20.asset",
+      "bytes": 1953169,
+      "sha256": "1da5b320b65cf270b4b14eaa7ee3a5eac004c471ab56fd343e405af1ac91af00"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_20.asset.meta",
+      "bytes": 188,
+      "sha256": "29a6372ea2495e7159b783105e83d6ee920d7f8a49adf7e50e3a39c21fc99a54"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_21.asset",
+      "bytes": 27662,
+      "sha256": "7e437a42242a24ec2dc21563190b22c0ddf7877650ff5d703ea2b4e49236fbae"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_21.asset.meta",
+      "bytes": 188,
+      "sha256": "21c5fd2457fc89e6469746fa31ebad205275d801d0ad73becf18ddba8ba0baea"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_22.asset",
+      "bytes": 27646,
+      "sha256": "105c8acd72bba4f8c5c2f91680c8b73caf10f0450ffbd9d936aab6194d1389cd"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_22.asset.meta",
+      "bytes": 188,
+      "sha256": "414ff759443cc08482f37cc3d179a8370d686e8864d4a4ec460e56211bfd0453"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_23.asset",
+      "bytes": 27662,
+      "sha256": "49dd752dd695cc24ed910f742eab996ea8caff3a14221c1cd7d86b3ddc240b50"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_23.asset.meta",
+      "bytes": 188,
+      "sha256": "6915b1dd2cabdfe166cf9eb9f04668dfe3139810b64c5817f46bee18130ddbaf"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_24.asset",
+      "bytes": 7505,
+      "sha256": "70f226e6228b213f77b721615068547f2cbcb22f393e5f8f235e4f8e5f17cfe2"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_24.asset.meta",
+      "bytes": 188,
+      "sha256": "3bc489a9e591ac6ff21eb629c4dc9e4c0f7a8b20ab8251035d8722004f0962db"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_25.asset",
+      "bytes": 289367,
+      "sha256": "b32e6cf16d4adb14442e8e1fc7c1c6abd003199b3e79c1aa02b058c32c772412"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_25.asset.meta",
+      "bytes": 188,
+      "sha256": "9c71bf1e392409998daf4c23224775b3f2544c110d91558fc5306c1ed353f762"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_26.asset",
+      "bytes": 1953169,
+      "sha256": "649bc84b77d787a04c1413f3945514ea33bf861feedf18637cd0c42352d1e64e"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_26.asset.meta",
+      "bytes": 188,
+      "sha256": "2826897910284a80ba85407c5f9d72a1662b1bd50d912b86181c9d8ecf53e8e1"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_27.asset",
+      "bytes": 27662,
+      "sha256": "35d5169d6e549a6029f3040a26a1b115d01236512d286629d950d6afb2c57836"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_27.asset.meta",
+      "bytes": 188,
+      "sha256": "3af460dfb25827e4c7a1d225da12cd1b55a06a7fcb8bf9867b32feaea56cfd93"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_28.asset",
+      "bytes": 27646,
+      "sha256": "e90d778732f2906fad8f38e72c83cbf2e459f4cda0de373b77073f6a1662ac5b"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_28.asset.meta",
+      "bytes": 188,
+      "sha256": "6747243e3596c64394879011dfdba77a5e0f55be18dc2682ee44a8c84ef85bb4"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_29.asset",
+      "bytes": 27662,
+      "sha256": "e3fb12d0592e756c6c847e3be02f076723ff4c60183940a9267a590bc4f4aff9"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_29.asset.meta",
+      "bytes": 188,
+      "sha256": "2d5f47e70cd12834766137581f67437f91160d772dece6263497b0727db59088"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_3.asset",
+      "bytes": 127413,
+      "sha256": "f0f49290324101a727854807c6349760d05a52f030163fa4de36437809cde020"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_3.asset.meta",
+      "bytes": 188,
+      "sha256": "60c5a57c2a05293a900c9992f0fce24c271305eb9f49d517bd2c78b6586bdf32"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_30.asset",
+      "bytes": 7511,
+      "sha256": "f62c65944a0deef1a0a60280b6f5fb9ef36e92ca048b80adff334f4555b9ee5e"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_30.asset.meta",
+      "bytes": 188,
+      "sha256": "30d19321d2af0b322cbc6ba91eaf7b241ac1a49fe081f2fc56114c746639f930"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_31.asset",
+      "bytes": 289367,
+      "sha256": "3632fe3bf5f485335864d1c4ff4eb56b6db553ea7d677b9ea3b85b2018a823b7"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_31.asset.meta",
+      "bytes": 188,
+      "sha256": "310e6bdcbfd1db0399a18b9c1d92ab3f2ee89e02551c4721ad176e7802013118"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_32.asset",
+      "bytes": 1953167,
+      "sha256": "87e107e433c1d8452e5b7085c766f36f964c2e1f8176e84db9df37b3f288fb00"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_32.asset.meta",
+      "bytes": 188,
+      "sha256": "479b17056f152d25d2f25f5d46642cc16eaec97ad90fec10e5e6860e09a84aeb"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_33.asset",
+      "bytes": 27660,
+      "sha256": "8516bd07a2a5a19b2c1b11d0dfef34d85405169555ce7785a312b827926e4ce4"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_33.asset.meta",
+      "bytes": 188,
+      "sha256": "c36c8e1dadd7c9a95bab92b561e0846b6e8ede0806f43dd1e2f1b76fb8bd02e1"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_34.asset",
+      "bytes": 27644,
+      "sha256": "2ff3b5de63d6238fd931cc88994e2427ed706acf93e8496b16dd46841adda830"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_34.asset.meta",
+      "bytes": 188,
+      "sha256": "c4ea1e07c6953401843b5f31f9fb7d62bc067c4deeb5d2b8405a632bb34049ac"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_35.asset",
+      "bytes": 27660,
+      "sha256": "3d20cf7e4702ade84090817f396453d29e1548e8f7d913d8f318697eacfdcf4d"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_35.asset.meta",
+      "bytes": 188,
+      "sha256": "d3643cfaf4eaba641635bee1a78da166dd06a1fda8be2886768d37518c38d756"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_36.asset",
+      "bytes": 7509,
+      "sha256": "e92469efdba20b7edccb0e4794d9f3fc99fe52af087ad54f8a317c9f99eeaaff"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_36.asset.meta",
+      "bytes": 188,
+      "sha256": "2a38b27f2bd7e4f904c5a2bbde80f70992fecd25972caafcda7ce49f04b4ec2d"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_37.asset",
+      "bytes": 289365,
+      "sha256": "d24c899110969caf5f78d60b311bb8308f165e479ddc498ebb4132f73a89f710"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_37.asset.meta",
+      "bytes": 188,
+      "sha256": "4a8c7288d85842c4aa6ce946e648ca013b9ee948c9b1536898bf9575da3af12f"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_38.asset",
+      "bytes": 1953165,
+      "sha256": "bb1dc0b5c0f69a84d0506ea8d4863d00412080ba2d2bd4ee9016987aa3a8c31e"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_38.asset.meta",
+      "bytes": 188,
+      "sha256": "31fe3bea8fa7416562acd2cf5803652a7aff800ad275bfa53c964b6b0a8d483a"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_39.asset",
+      "bytes": 27666,
+      "sha256": "3302c9f5adac4baf040ade92b6a2434ac57c02ea0f93fe0eb5d2733749458b41"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_39.asset.meta",
+      "bytes": 188,
+      "sha256": "5c46fedb0fd2d8ccfbaca4a0c27ea7abf7a5b5fdc26db457c549ff38d0dc52f9"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_4.asset",
+      "bytes": 128275,
+      "sha256": "e896f46da2a3f3794c7ffcf1e2d024fed400cbbd0a802ed1d619059a04425bcb"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_4.asset.meta",
+      "bytes": 188,
+      "sha256": "a30ba0623c6af987741c213a8e315774d4c57ab96e15bfcf0a7ab3404ec4aa1d"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_40.asset",
+      "bytes": 27644,
+      "sha256": "f81aa2070b66b9999beb7f129e0a2bae755e808d5cf3f9b0d5f817132e398326"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_40.asset.meta",
+      "bytes": 188,
+      "sha256": "67e1806d5e02a838f11c0b68b9e2e65cea5ba1735213ef1b6ca672c65da3a8e9"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_41.asset",
+      "bytes": 27664,
+      "sha256": "86a4a08e236688d2dbaab631c562f51803303cfc5bed1ebd945b0919e0a345ba"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_41.asset.meta",
+      "bytes": 188,
+      "sha256": "8bf6e6667a8a4b7403c0dc62e903e519e1b3f2a2d82de279491f9645d3232926"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_42.asset",
+      "bytes": 7507,
+      "sha256": "c5da50c5de1859ec5d6a771201f03ea335a89b6cfbd20f1e5dd6fcb6c4be6e50"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_42.asset.meta",
+      "bytes": 188,
+      "sha256": "9016fa60f63c5bfd2a1e105781185c14bf1ffe5b7d739f3e90bcf856c6290e38"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_43.asset",
+      "bytes": 289373,
+      "sha256": "587fede4c253cde3865962536b2e53cf8831b46912135dd7051a5bdf9f70b072"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_43.asset.meta",
+      "bytes": 188,
+      "sha256": "d9cd82a2e5ce2ad61ec4858890096538d8b788af6b12defaf5ffa9cd883af3bc"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_44.asset",
+      "bytes": 1953199,
+      "sha256": "d64cca80ef6dacb40b020d62cd1f4daba17c95006453d9e681a028d839b22263"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_44.asset.meta",
+      "bytes": 188,
+      "sha256": "6f8864b6c0c75581301f4f7beccaa2ffa9d214deb0cf92f521bbbfd79990724e"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_45.asset",
+      "bytes": 27664,
+      "sha256": "b45e848733fd531d659667b5e6feb4b2a3ae0d7f9e0c05f718e95617d0cbb38c"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_45.asset.meta",
+      "bytes": 188,
+      "sha256": "dd4624ce160694783073ccf8ae56663320ad92fdd51d460853326f697f6a3ec2"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_46.asset",
+      "bytes": 27648,
+      "sha256": "6915a5399054a7e5f92e36f7c5100362d0aa70902182baf06053731396b46c56"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_46.asset.meta",
+      "bytes": 188,
+      "sha256": "007fd5f3af04ab04d245bb9c43c6d234185940766e58edd742e7724493939f38"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_47.asset",
+      "bytes": 27662,
+      "sha256": "0d70a1044dfc758056db339171ddb38e4ccdf26aa7066f7b109f9aa5b3dd0dc9"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_47.asset.meta",
+      "bytes": 188,
+      "sha256": "bc3644a57bb7bd5bddc25c44880837a211abb50cfe4f1d1ac8e2d29624444930"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_48.asset",
+      "bytes": 7515,
+      "sha256": "5d836ebfeb60b174b7e53e3d1fce58d1ff75fe820b35fcb41c7191e3419257e4"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_48.asset.meta",
+      "bytes": 188,
+      "sha256": "b3d25df52c146ffff8b7b51791fe18b16d6f44f070ce909f9c17b6c8996791ea"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_49.asset",
+      "bytes": 289369,
+      "sha256": "8dd512a2412600e811a9f5cbf55d7d5152b915ff9517f7dd01fa25a60ad2b7df"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_49.asset.meta",
+      "bytes": 188,
+      "sha256": "e20df007c7b034214d21f477d22631bee9625d8176062478789c6a2fd0e9aa9a"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_5.asset",
+      "bytes": 139201,
+      "sha256": "58920c2122948ffbe21f1022995a9e7125fba1370464a8af61a6abd2523b31b6"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_5.asset.meta",
+      "bytes": 188,
+      "sha256": "3421a2150824c66608efbf8c43308f7b4794f9405d956e0dd89ff91a4636cf31"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_6.asset",
+      "bytes": 139199,
+      "sha256": "8a274d94ae64403f2799559f6ddceffaa16231c8d46862da2722e7ae25409bc3"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_6.asset.meta",
+      "bytes": 188,
+      "sha256": "1820775d4f0535e90b8a6531ebf392f1faf33c1c5dc3d9ee107b6867110c9d7a"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_7.asset",
+      "bytes": 77589,
+      "sha256": "5491e03ca9aab6b8e9ed61cc09ef0c2145c3db4ebbbb88e1475fd8117f25d0bc"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_7.asset.meta",
+      "bytes": 188,
+      "sha256": "73dfd152ea300fd118d7df09dc744b3aad698a11d2a982a91edaf8297a08a41b"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_8.asset",
+      "bytes": 24754,
+      "sha256": "c40fa6cb554f8c3798dab883a64909930ca59784db90772f8b3523d91ed4f1cf"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_8.asset.meta",
+      "bytes": 188,
+      "sha256": "60c417a7ad02586ad6f3bf09535f2da458f14433b60f2af8986f9656cb173acf"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_9.asset",
+      "bytes": 24752,
+      "sha256": "7975f01e32f7f0a5f34d445fc863e1dc0797f68662c930d2949e9328025a0a27"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes/Mesh_9.asset.meta",
+      "bytes": 188,
+      "sha256": "59596cd071852bd4eb88409a2ebece148689eb57af8b31bd672379d471a19719"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Meshes.meta",
+      "bytes": 172,
+      "sha256": "3b3f5376425d6b72c276726266225aa4f752963917572c309416c19c665a9ee7"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Prefabs/TableGameSpace.prefab",
+      "bytes": 123543,
+      "sha256": "e66d8aed0c96557e311b803f2aeb1e6429f1cbd8110dec5ab9924a5cb7ab2516"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Prefabs/TableGameSpace.prefab.meta",
+      "bytes": 154,
+      "sha256": "4d1ed4e44b6a339369c218a309c4e85f66e75328bbd6e0ae880d83ddab61e9d0"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Prefabs/TableMetres.prefab",
+      "bytes": 123516,
+      "sha256": "5b638fe279693cef3c5cd6bab64b1bd4fe03519d56e79b02016720a11bb4a3f6"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Prefabs/TableMetres.prefab.meta",
+      "bytes": 154,
+      "sha256": "9b4425537ffc16d1537cfcdf641dd9f3c7f39ef456807bcfbde8b5a8bdd908a9"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Prefabs.meta",
+      "bytes": 172,
+      "sha256": "ed82644460335581c43aad4e9d901d1b7fd9b55cd6b8a036f3802a63d6b1687f"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Source/TableMesh.json",
+      "bytes": 30972263,
+      "sha256": "2ffd4dcd7e2784e8021493b29f5ac00d157f46aacc6b5f14f77ebe1ebbe201eb"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Source/TableMesh.json.meta",
+      "bytes": 158,
+      "sha256": "be02acc98669f9910caa74c888e3e4f4be8c0d6f032388928c2b8b66464aa3a7"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Source.meta",
+      "bytes": 172,
+      "sha256": "abc8d05b2987123cb620742565c7d7fc5ca685c997f182b9c746e8dd51ff365e"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Textures/BaseColor.jpg",
+      "bytes": 4518595,
+      "sha256": "3c39a98ba73ff1082c3094692df6fbcbd50e1af8ddfa55236c5f1c530896777c"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Textures/BaseColor.jpg.meta",
+      "bytes": 2948,
+      "sha256": "5a7e248992006953518ed7b57d693bd6c6fb177e3a0f8d75cb9082d23d1e54ce"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement/Textures.meta",
+      "bytes": 172,
+      "sha256": "89e870788e8a68bf3b84630bc42ecf49df24fc8d12561488064e8ce242949cdf"
+    },
+    {
+      "path": "UnityProject/Assets/TableReplacement.meta",
+      "bytes": 172,
+      "sha256": "2e1df8901a7cf2dd9249d3fed411f5e1c9fdf39d6ff1ade34ed0c1aa88207c0c"
+    },
+    {
+      "path": "UnityProject/Assets/ThirdParty/PoolSet/LICENSE.txt",
+      "bytes": 1071,
+      "sha256": "56ce39f787678dea408e7bb6eb47bf426afc3823e9a4736ccbf809cafd82ea70"
+    },
+    {
+      "path": "UnityProject/Assets/ThirdParty/PoolSet/LICENSE.txt.meta",
+      "bytes": 158,
+      "sha256": "68eff9351317e391885356f83de6d0a6c538764bbf4ee08859b6b2d6eabe32b4"
+    },
+    {
+      "path": "UnityProject/Assets/ThirdParty/PoolSet/PoolTable_Chinese.fbx",
+      "bytes": 725308,
+      "sha256": "43bd3b4bf12ccc287cc0f3d2969927e674fdd4b773ad069b82dbacc36fd6dc9b"
+    },
+    {
+      "path": "UnityProject/Assets/ThirdParty/PoolSet/PoolTable_Chinese.fbx.meta",
+      "bytes": 2830,
+      "sha256": "24fe52f25c8d9c650bcba0125dfe69e1ee501ef71628e8fe809321e60616e20d"
+    },
+    {
+      "path": "UnityProject/Assets/ThirdParty/PoolSet.meta",
+      "bytes": 172,
+      "sha256": "856b471655ae2ec35f1400cce7b96808b2e158b0b46bb60c160c982989aad919"
+    },
+    {
+      "path": "UnityProject/Assets/ThirdParty.meta",
+      "bytes": 172,
+      "sha256": "60658b93b4e551679d3ad4d3548150114db88076ba1acf102010028fa5dcc7cb"
+    },
+    {
+      "path": "UnityProject/Assets/ThirdPartyNotices/ProtocolBuffers-LICENSE.txt",
+      "bytes": 1672,
+      "sha256": "cceea54d02beb54316eae94c8ea4c68450f00956a5ec3e89fbc36d148573a57f"
+    },
+    {
+      "path": "UnityProject/Assets/ThirdPartyNotices/ProtocolBuffers-LICENSE.txt.meta",
+      "bytes": 152,
+      "sha256": "b56db503952dc13d95f381c9151693d3593990f2b9909aad5eaddcd97035b0f8"
+    },
+    {
+      "path": "UnityProject/Assets/ThirdPartyNotices.meta",
+      "bytes": 172,
+      "sha256": "c6dc69333fd134cd95059120dc4446dea4f679a3a620b8b668f14ae6f667f5bc"
+    },
+    {
+      "path": "UnityProject/Packages/manifest.json",
+      "bytes": 379,
+      "sha256": "1c953d140cb7904a0af15cf3582f5cd8c0c48c269e3f87c3f11d3b2e80c24efc"
+    },
+    {
+      "path": "UnityProject/Packages/packages-lock.json",
+      "bytes": 1233,
+      "sha256": "c4bdc3a69b46696e7663341cbd6ae8b4d3b6ae7bd6183539709c4e96f0784a86"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/AudioManager.asset",
+      "bytes": 443,
+      "sha256": "9a554916fe138ebcad8443ee9b079363ecc72795c39d0e80f5f7ca99e2c6f5e7"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/ClusterInputManager.asset",
+      "bytes": 114,
+      "sha256": "40e65dd214bf254955d2c8829ca8ce2130fd3510485560ce012e9a1ddd93e623"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/DynamicsManager.asset",
+      "bytes": 1394,
+      "sha256": "62fd35da36080a098d3e9f90cf4af6c655fe582091c33e505b812cf9aa36fee1"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/EditorBuildSettings.asset",
+      "bytes": 263,
+      "sha256": "4e9af49210bd36d193b3973ffb11e8fa56cd25ce133c69379956aeaad428e647"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/EditorSettings.asset",
+      "bytes": 181,
+      "sha256": "cdd11a9e3945449259c357b2ed7eb0bc2b94b27d4454c6c6c3d02e642179f161"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/GraphicsSettings.asset",
+      "bytes": 2392,
+      "sha256": "96fbec3a726513347293fb201477836277ade290a0bd7bd473cea90ffe896820"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/InputManager.asset",
+      "bytes": 5816,
+      "sha256": "d0f454ddb880912abcae92e3e12957a7446786ba89e24937e019ff3bbc0d4300"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/MemorySettings.asset",
+      "bytes": 1192,
+      "sha256": "1e8379a461b10ae09f3f696911088c16875d63e87ed5f2d95df9e1892703f9fd"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/NavMeshAreas.asset",
+      "bytes": 1361,
+      "sha256": "7ebbf8f53b8033104e1878b95ca07a28d0954092d81c220f14196a42f651e658"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/PackageManagerSettings.asset",
+      "bytes": 952,
+      "sha256": "20f7714fc743c4ff29480dcc3545a63533f629b3460861c8426d0d84fec7082c"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/Physics2DSettings.asset",
+      "bytes": 1635,
+      "sha256": "531861618163b01648a075414f6e864506ad8fe0a0d4d0096aa1fbbfcd3937dc"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/PresetManager.asset",
+      "bytes": 146,
+      "sha256": "29c125923fe6e29f90190d4fce1c82d660e7051546e2c9d02908d18c9cf2436c"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/ProjectSettings.asset",
+      "bytes": 22078,
+      "sha256": "31c0626cad89122b1e3794c597bbca5999f61496a0757eae6bf4d896011e1707"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/ProjectVersion.txt",
+      "bytes": 85,
+      "sha256": "21b4cd39f50b6e0b77cc9f18b79c453e9212e19b953a23e0ceb761c627de97c3"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/QualitySettings.asset",
+      "bytes": 9183,
+      "sha256": "944b52d523bcb15b945bc80924b9289f59185ab19bce8a00e99eec345bde6440"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/SceneTemplateSettings.json",
+      "bytes": 3534,
+      "sha256": "5baf593374ad67246277a435d8d0ded7167696eef6e05d2d245670e490625d8c"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/TagManager.asset",
+      "bytes": 378,
+      "sha256": "8e18b1c820e9c09e16bbd1f1b7842e9fb3b0158a0921b0964e0b8fa12c6e2c01"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/TimeManager.asset",
+      "bytes": 202,
+      "sha256": "1a83e54adbbda7c9f4851103a0c6ab7f6448a3343d4ea5b7620452fa08416ecd"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/UnityConnectSettings.asset",
+      "bytes": 943,
+      "sha256": "d6034acbef6c9e3179866486c31eab81fcbe5e7ed350ce71e0fa2b1449b77109"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/VersionControlSettings.asset",
+      "bytes": 188,
+      "sha256": "e7bda45bf7a394745fee1316e6c71fa676004d591ad1f3aa247fd3e4ceb86071"
+    },
+    {
+      "path": "UnityProject/ProjectSettings/VFXManager.asset",
+      "bytes": 465,
+      "sha256": "3f31266c7c1910447586e71b041dabd58d8371715ac3142d3e38ace46121f4ab"
+    }
+  ]
+}

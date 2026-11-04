@@ -1,0 +1,11 @@
+newmtl Maple_wood
+Kd .7 .4 .16
+
+newmtl Ivory_ferrule
+Kd .85 .84 .75
+
+newmtl Chalked_leather_tip
+Kd .04 .14 .18
+
+newmtl Rubber_butt
+Kd .02 .02 .02

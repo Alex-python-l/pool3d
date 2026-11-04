@@ -1,0 +1,162 @@
+[
+  {
+    "number": 0,
+    "file": "Ball_0.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "b07087a8268bd9c401aba516b13601c1a9bf10b6172f337f5d19616768cab167"
+  },
+  {
+    "number": 1,
+    "file": "Ball_1.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "adb8504af3b38057005f7d2739b1a3c050615429779ff9b4e72e12fd31d28444"
+  },
+  {
+    "number": 2,
+    "file": "Ball_2.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "3392ade8e31f2340e9fba5107f264dbb58afeae89b9b4e63aabfdbb52e1c8585"
+  },
+  {
+    "number": 3,
+    "file": "Ball_3.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "ede9c31e72557ff737b42ebfdef2a07f0deb0bc195ed466af90479e02c5248a8"
+  },
+  {
+    "number": 4,
+    "file": "Ball_4.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "46b1add18704b095654e0d922e614fca0efb01c6391c80909702dc74d5807942"
+  },
+  {
+    "number": 5,
+    "file": "Ball_5.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "2f740818fe9a1592aa89e139b7bc54b9018000580379481a36c8589d975eab2e"
+  },
+  {
+    "number": 6,
+    "file": "Ball_6.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "032be9b2824a43219252209ff3f3498139fbc7db9470620a39afee71cd6d592f"
+  },
+  {
+    "number": 7,
+    "file": "Ball_7.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "db7b1aa7b5b1e88f75beb1d4f73df1ad8330545dfb10bf9b99a3372c93bee216"
+  },
+  {
+    "number": 8,
+    "file": "Ball_8.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "517b662eb281eeee1371609b73b5562a3b00b9ced5329d090785b445c235bc32"
+  },
+  {
+    "number": 9,
+    "file": "Ball_9.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "1b15cf28c76b5bae5d6c5101a92308e1a3531f3b6c5f0ccf0bf9f15b562634bb"
+  },
+  {
+    "number": 10,
+    "file": "Ball_10.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "3f638c95a888afd2be61170bbfe9ad07a0773970b649f14455feb61b02bcf359"
+  },
+  {
+    "number": 11,
+    "file": "Ball_11.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "d2af1263cccbed5a2cd78d4abcef6b0916df28819efc904470d278fe37b034ee"
+  },
+  {
+    "number": 12,
+    "file": "Ball_12.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "4f61410d928b5854401043c46a14c8cbcbc644ab9617158231031b853c12192f"
+  },
+  {
+    "number": 13,
+    "file": "Ball_13.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "ae031ef2e663d92aa0694b05681558eb58504ef6a1ab2c140b1ef9f801304ce3"
+  },
+  {
+    "number": 14,
+    "file": "Ball_14.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "6c7f99c346892f496787fc89ff549c0e54c073a5bea10c677cbe22fd4f9e165a"
+  },
+  {
+    "number": 15,
+    "file": "Ball_15.png",
+    "size": [
+      2048,
+      2048,
+      3
+    ],
+    "sha256": "f011cd3278b99d9bffc81da91d4bae9f35594d2090b7fb790e5c0364a03db685"
+  }
+]

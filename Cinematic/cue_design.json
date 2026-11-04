@@ -1,0 +1,17 @@
+{
+  "only_film_copy_changed": true,
+  "original_model_retained_hidden": "Cue | supplied magic staff model",
+  "logical_full_length_m": 1.45,
+  "visible_front_section_m": 0.735,
+  "tip_diameter_mm": 10.2,
+  "front_shaft_diameter_range_mm": [
+    10.2,
+    12.8
+  ],
+  "ferrule_length_mm": 12,
+  "visible_shot_frames": [
+    145,
+    216
+  ],
+  "look": "fine straight ash grain, satin polish; no exaggerated bump"
+}

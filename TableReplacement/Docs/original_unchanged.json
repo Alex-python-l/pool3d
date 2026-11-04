@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "existing_files": 535,
+  "observed_missing_from_previous_baseline": [
+    {
+      "path": "UnityProject/Assets/IntegratedArt/Textures/Cloth_Normal.png",
+      "sha256": "980b2ff80095cf9630ec190d909b533464281a2f6e189189be1ec1de89be5927"
+    }
+  ],
+  "source_modified": false,
+  "missing_texture_restored_in_candidate_only": true
+}

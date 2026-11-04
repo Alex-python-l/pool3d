@@ -1,0 +1,890 @@
+{
+  "schema": 1,
+  "revision": "R3b minimal UV correction with original pocket appearance",
+  "original_project": "Pool3D-Integrated-V1",
+  "geometryId": "luxury-chinese8-20261030-r3",
+  "files": [
+    {
+      "path": "Assets/TableReplacement.meta",
+      "sha256": "2e1df8901a7cf2dd9249d3fed411f5e1c9fdf39d6ff1ade34ed0c1aa88207c0c",
+      "existed": false,
+      "bytes": 172
+    },
+    {
+      "path": "Assets/OfflineRuntime/OfflineSceneView.cs",
+      "sha256": "b1d1f4d43de1c6a0a331bf99707efcf4d0bd323a1d07b91b2fb7ccdf6719656e",
+      "existed": true,
+      "bytes": 9806
+    },
+    {
+      "path": "Assets/Scenes/IntegratedOffline.unity",
+      "sha256": "84a126deb4247cd52666b86c15fe151bc925170961bbfb36b6dd5c89b043329c",
+      "existed": true,
+      "bytes": 7796
+    },
+    {
+      "path": "Assets/StreamingAssets/TableGeometry.json",
+      "sha256": "bef31a48d642d5709262cf1a4b5afbd2c8aec95996ab7b79602cb54e9b02c750",
+      "existed": true,
+      "bytes": 40635
+    },
+    {
+      "path": "Assets/TableReplacement/Materials.meta",
+      "sha256": "ad5223caecd425bbf6f413f7a847873da4941da9492f4c11ef321a88e2113363",
+      "existed": false,
+      "bytes": 172
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes.meta",
+      "sha256": "3b3f5376425d6b72c276726266225aa4f752963917572c309416c19c665a9ee7",
+      "existed": false,
+      "bytes": 172
+    },
+    {
+      "path": "Assets/TableReplacement/Prefabs.meta",
+      "sha256": "ed82644460335581c43aad4e9d901d1b7fd9b55cd6b8a036f3802a63d6b1687f",
+      "existed": false,
+      "bytes": 172
+    },
+    {
+      "path": "Assets/TableReplacement/Source.meta",
+      "sha256": "abc8d05b2987123cb620742565c7d7fc5ca685c997f182b9c746e8dd51ff365e",
+      "existed": false,
+      "bytes": 172
+    },
+    {
+      "path": "Assets/TableReplacement/Textures.meta",
+      "sha256": "89e870788e8a68bf3b84630bc42ecf49df24fc8d12561488064e8ce242949cdf",
+      "existed": false,
+      "bytes": 172
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_0.mat",
+      "sha256": "720b414d7d6c15a15af4b26c4e7e864737242f621ddb0e041acbd54366aec683",
+      "existed": false,
+      "bytes": 2273
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_0.mat.meta",
+      "sha256": "cd897417ec21271bf51a62c673ec4187c6968595faeec62ab31cc5473519433f",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_1.mat",
+      "sha256": "c5bda98cee3817aef438f69416ecfdb9fd7449669fd432215c440464bf57bbaf",
+      "existed": false,
+      "bytes": 2220
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_1.mat.meta",
+      "sha256": "03abe9c06553e838b7a56bd6a3050511ad7ac4c3b2261ff7ce04fa113477d1c8",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_2.mat",
+      "sha256": "35301275214e85fbe1e38a9cdbbdbba4b86255f5e05e28c2977615ae1b6afcd4",
+      "existed": false,
+      "bytes": 2220
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_2.mat.meta",
+      "sha256": "0e04784d5e2a1805e27bab1c02def10d91e285045a63869282ee081dde0a47b8",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_3.mat",
+      "sha256": "440d4b00d83ee78cae45c3d7ca2d540154604d349ae373d1b5d03bcd05a80340",
+      "existed": false,
+      "bytes": 2220
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_3.mat.meta",
+      "sha256": "767f5c98c0339a9b41401231e4817fdb39c87c24d510226a56293a2b6f68dd42",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_4.mat",
+      "sha256": "2358fd30c12b98937231d91cc789144a3e326ee5186096c407fc3d4b16f3ad92",
+      "existed": false,
+      "bytes": 2602
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_4.mat.meta",
+      "sha256": "5ee2e70c05890301bc99f095cc9e55bb1b0aa730e597d66a747335041e176071",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_5.mat",
+      "sha256": "a82fcc1d104c238845e0b32b15fa556d737705260303743ba81bc3564f6eb5dc",
+      "existed": false,
+      "bytes": 2222
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_5.mat.meta",
+      "sha256": "9eb931f1f3ebc92155113cb9c2f03f51aa6d0c49b3afe4857848f5acc4d31e42",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_6.mat",
+      "sha256": "3550c6fac22985f4917eba770b2f17b72e578018af9fb010078e34c3847eac52",
+      "existed": false,
+      "bytes": 2214
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_6.mat.meta",
+      "sha256": "d9eebf760940d1f50312fa57b93617616b1dc76835e37a57e91732418e1d8d52",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_7.mat",
+      "sha256": "e8df01ee52e42273394fe24ab07698d3aad162def44c21a9794e123abb738b6e",
+      "existed": false,
+      "bytes": 2222
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_7.mat.meta",
+      "sha256": "b56622f009a40d0bca4ea6dfb9dd903ba5d06846e6271a19b94c88d82cf8e525",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_8.mat",
+      "sha256": "466ee3613e244897accac10991ff5d39f3d5e3867f5c7af279bf5c91da8567dd",
+      "existed": false,
+      "bytes": 2219
+    },
+    {
+      "path": "Assets/TableReplacement/Materials/Material_8.mat.meta",
+      "sha256": "ed68ed7ce5173a24eb16c34fcba652a5ee4f95584a9c604fffc48e3faf504b46",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_0.asset",
+      "sha256": "023c288e2898c10dd9ee4d5155426427b4afe2c6b1d72a225b82ed2b96082093",
+      "existed": false,
+      "bytes": 3297944
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_0.asset.meta",
+      "sha256": "7c1f9c3d1a92836485571da63156194ac72545b4c2e936e6fbfd9e362f61b818",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_1.asset",
+      "sha256": "df6779cb88bfb41ec40ed6a20c7380a9dd6452dfd2446ab4428d70410698138d",
+      "existed": false,
+      "bytes": 127415
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_1.asset.meta",
+      "sha256": "be14c7132240f97b2d7a0a8dbcddccd1194f5dd2f5fcaac5ccb1ca74b924d2f2",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_10.asset",
+      "sha256": "ed10b9ab30274752a457f65753647aa9898c7486872938f0282176dbaf0e58cb",
+      "existed": false,
+      "bytes": 24752
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_10.asset.meta",
+      "sha256": "12ac43fca179a64d790b22ccfece5eb3187bb7db657ea9242d3761ee1bbcc2e2",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_11.asset",
+      "sha256": "892136e7340c3e1b09141945a5b708243d2979e497aef17d5e8ac2ede243428b",
+      "existed": false,
+      "bytes": 24750
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_11.asset.meta",
+      "sha256": "af48425020e690d609f8d8ff2b5010588da33a935468490e979c3686fe156378",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_12.asset",
+      "sha256": "8ff34750231f5035e3b15eb62e794308f3685131b342e1e85daf85bdca59b4cb",
+      "existed": false,
+      "bytes": 24724
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_12.asset.meta",
+      "sha256": "006fafb49515ce1de945621d7b4ad2b5d4963069c9010c924b6a5759d9c71e45",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_13.asset",
+      "sha256": "175387a1016122d9d1b1227a8b6ae804188b0d2084da53095101f126e2380da0",
+      "existed": false,
+      "bytes": 24722
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_13.asset.meta",
+      "sha256": "534a011c0488a3f1f8752e0ecc24051809b8ee6fe423c491ccb508cc4d2413fb",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_14.asset",
+      "sha256": "641e43180b79747b06cbfe05297922e72d45e92f7eaa8c1e08e1d51dfa79cd1a",
+      "existed": false,
+      "bytes": 1953171
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_14.asset.meta",
+      "sha256": "2fd6db7dba746c91f9ef850259e3a7e5fd4bcb8323ae3e0e5d9f8539fc20a276",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_15.asset",
+      "sha256": "66b27d1aca7483405d3f46cda99c0a36bcf471538b62d8a0819994d73004f158",
+      "existed": false,
+      "bytes": 27664
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_15.asset.meta",
+      "sha256": "6cca65a6e4abc2ae551b0ca8ca52cabd3dd62670ee4a6f589872a72c03b33f68",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_16.asset",
+      "sha256": "8446f250b4389190e7173abf13a7241cbbcbf375123949704a4c971c6b68de4e",
+      "existed": false,
+      "bytes": 27648
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_16.asset.meta",
+      "sha256": "b9b4935afc1549f9fa4645f526727135018ab4a6d9f15a1a220df6b33288aafd",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_17.asset",
+      "sha256": "3b8e964c851767b1f88c8ae79772e16fe84f5998e92b0f37443c035aa1d387c8",
+      "existed": false,
+      "bytes": 27664
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_17.asset.meta",
+      "sha256": "f2cf8c97711fa89bbec1356d734242329fc777327ddc8169a2119fa5459ac8bb",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_18.asset",
+      "sha256": "99ee71d9dd1bdcfb7677f0c168219071827b0a99903a690823261b507df05c7b",
+      "existed": false,
+      "bytes": 7511
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_18.asset.meta",
+      "sha256": "5b2e45d9c4c65f4357e8f1be2470921147091a2b32ec1ae4f65d7b3037add351",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_19.asset",
+      "sha256": "f463058a500d062f73a42fc1318c379d994678e20000a31705577f78aeff8b5a",
+      "existed": false,
+      "bytes": 289371
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_19.asset.meta",
+      "sha256": "15beea38b79acbba9e2eafb0b7c10144dc8cb67c84d8f9bebf77ffee6baaf382",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_2.asset",
+      "sha256": "065e17411e0898e6fab70a2cf54f452fb1157285d07ee11de4f0877594ca8c41",
+      "existed": false,
+      "bytes": 128277
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_2.asset.meta",
+      "sha256": "5dce57650ad682d29df4a1d3f07cebbf4faff4ac2640f3299bafbd5da5ae525e",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_20.asset",
+      "sha256": "1da5b320b65cf270b4b14eaa7ee3a5eac004c471ab56fd343e405af1ac91af00",
+      "existed": false,
+      "bytes": 1953169
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_20.asset.meta",
+      "sha256": "29a6372ea2495e7159b783105e83d6ee920d7f8a49adf7e50e3a39c21fc99a54",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_21.asset",
+      "sha256": "7e437a42242a24ec2dc21563190b22c0ddf7877650ff5d703ea2b4e49236fbae",
+      "existed": false,
+      "bytes": 27662
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_21.asset.meta",
+      "sha256": "21c5fd2457fc89e6469746fa31ebad205275d801d0ad73becf18ddba8ba0baea",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_22.asset",
+      "sha256": "105c8acd72bba4f8c5c2f91680c8b73caf10f0450ffbd9d936aab6194d1389cd",
+      "existed": false,
+      "bytes": 27646
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_22.asset.meta",
+      "sha256": "414ff759443cc08482f37cc3d179a8370d686e8864d4a4ec460e56211bfd0453",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_23.asset",
+      "sha256": "49dd752dd695cc24ed910f742eab996ea8caff3a14221c1cd7d86b3ddc240b50",
+      "existed": false,
+      "bytes": 27662
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_23.asset.meta",
+      "sha256": "6915b1dd2cabdfe166cf9eb9f04668dfe3139810b64c5817f46bee18130ddbaf",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_24.asset",
+      "sha256": "70f226e6228b213f77b721615068547f2cbcb22f393e5f8f235e4f8e5f17cfe2",
+      "existed": false,
+      "bytes": 7505
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_24.asset.meta",
+      "sha256": "3bc489a9e591ac6ff21eb629c4dc9e4c0f7a8b20ab8251035d8722004f0962db",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_25.asset",
+      "sha256": "b32e6cf16d4adb14442e8e1fc7c1c6abd003199b3e79c1aa02b058c32c772412",
+      "existed": false,
+      "bytes": 289367
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_25.asset.meta",
+      "sha256": "9c71bf1e392409998daf4c23224775b3f2544c110d91558fc5306c1ed353f762",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_26.asset",
+      "sha256": "649bc84b77d787a04c1413f3945514ea33bf861feedf18637cd0c42352d1e64e",
+      "existed": false,
+      "bytes": 1953169
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_26.asset.meta",
+      "sha256": "2826897910284a80ba85407c5f9d72a1662b1bd50d912b86181c9d8ecf53e8e1",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_27.asset",
+      "sha256": "35d5169d6e549a6029f3040a26a1b115d01236512d286629d950d6afb2c57836",
+      "existed": false,
+      "bytes": 27662
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_27.asset.meta",
+      "sha256": "3af460dfb25827e4c7a1d225da12cd1b55a06a7fcb8bf9867b32feaea56cfd93",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_28.asset",
+      "sha256": "e90d778732f2906fad8f38e72c83cbf2e459f4cda0de373b77073f6a1662ac5b",
+      "existed": false,
+      "bytes": 27646
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_28.asset.meta",
+      "sha256": "6747243e3596c64394879011dfdba77a5e0f55be18dc2682ee44a8c84ef85bb4",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_29.asset",
+      "sha256": "e3fb12d0592e756c6c847e3be02f076723ff4c60183940a9267a590bc4f4aff9",
+      "existed": false,
+      "bytes": 27662
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_29.asset.meta",
+      "sha256": "2d5f47e70cd12834766137581f67437f91160d772dece6263497b0727db59088",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_3.asset",
+      "sha256": "f0f49290324101a727854807c6349760d05a52f030163fa4de36437809cde020",
+      "existed": false,
+      "bytes": 127413
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_3.asset.meta",
+      "sha256": "60c5a57c2a05293a900c9992f0fce24c271305eb9f49d517bd2c78b6586bdf32",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_30.asset",
+      "sha256": "f62c65944a0deef1a0a60280b6f5fb9ef36e92ca048b80adff334f4555b9ee5e",
+      "existed": false,
+      "bytes": 7511
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_30.asset.meta",
+      "sha256": "30d19321d2af0b322cbc6ba91eaf7b241ac1a49fe081f2fc56114c746639f930",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_31.asset",
+      "sha256": "3632fe3bf5f485335864d1c4ff4eb56b6db553ea7d677b9ea3b85b2018a823b7",
+      "existed": false,
+      "bytes": 289367
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_31.asset.meta",
+      "sha256": "310e6bdcbfd1db0399a18b9c1d92ab3f2ee89e02551c4721ad176e7802013118",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_32.asset",
+      "sha256": "87e107e433c1d8452e5b7085c766f36f964c2e1f8176e84db9df37b3f288fb00",
+      "existed": false,
+      "bytes": 1953167
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_32.asset.meta",
+      "sha256": "479b17056f152d25d2f25f5d46642cc16eaec97ad90fec10e5e6860e09a84aeb",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_33.asset",
+      "sha256": "8516bd07a2a5a19b2c1b11d0dfef34d85405169555ce7785a312b827926e4ce4",
+      "existed": false,
+      "bytes": 27660
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_33.asset.meta",
+      "sha256": "c36c8e1dadd7c9a95bab92b561e0846b6e8ede0806f43dd1e2f1b76fb8bd02e1",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_34.asset",
+      "sha256": "2ff3b5de63d6238fd931cc88994e2427ed706acf93e8496b16dd46841adda830",
+      "existed": false,
+      "bytes": 27644
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_34.asset.meta",
+      "sha256": "c4ea1e07c6953401843b5f31f9fb7d62bc067c4deeb5d2b8405a632bb34049ac",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_35.asset",
+      "sha256": "3d20cf7e4702ade84090817f396453d29e1548e8f7d913d8f318697eacfdcf4d",
+      "existed": false,
+      "bytes": 27660
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_35.asset.meta",
+      "sha256": "d3643cfaf4eaba641635bee1a78da166dd06a1fda8be2886768d37518c38d756",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_36.asset",
+      "sha256": "e92469efdba20b7edccb0e4794d9f3fc99fe52af087ad54f8a317c9f99eeaaff",
+      "existed": false,
+      "bytes": 7509
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_36.asset.meta",
+      "sha256": "2a38b27f2bd7e4f904c5a2bbde80f70992fecd25972caafcda7ce49f04b4ec2d",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_37.asset",
+      "sha256": "d24c899110969caf5f78d60b311bb8308f165e479ddc498ebb4132f73a89f710",
+      "existed": false,
+      "bytes": 289365
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_37.asset.meta",
+      "sha256": "4a8c7288d85842c4aa6ce946e648ca013b9ee948c9b1536898bf9575da3af12f",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_38.asset",
+      "sha256": "bb1dc0b5c0f69a84d0506ea8d4863d00412080ba2d2bd4ee9016987aa3a8c31e",
+      "existed": false,
+      "bytes": 1953165
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_38.asset.meta",
+      "sha256": "31fe3bea8fa7416562acd2cf5803652a7aff800ad275bfa53c964b6b0a8d483a",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_39.asset",
+      "sha256": "3302c9f5adac4baf040ade92b6a2434ac57c02ea0f93fe0eb5d2733749458b41",
+      "existed": false,
+      "bytes": 27666
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_39.asset.meta",
+      "sha256": "5c46fedb0fd2d8ccfbaca4a0c27ea7abf7a5b5fdc26db457c549ff38d0dc52f9",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_4.asset",
+      "sha256": "e896f46da2a3f3794c7ffcf1e2d024fed400cbbd0a802ed1d619059a04425bcb",
+      "existed": false,
+      "bytes": 128275
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_4.asset.meta",
+      "sha256": "a30ba0623c6af987741c213a8e315774d4c57ab96e15bfcf0a7ab3404ec4aa1d",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_40.asset",
+      "sha256": "f81aa2070b66b9999beb7f129e0a2bae755e808d5cf3f9b0d5f817132e398326",
+      "existed": false,
+      "bytes": 27644
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_40.asset.meta",
+      "sha256": "67e1806d5e02a838f11c0b68b9e2e65cea5ba1735213ef1b6ca672c65da3a8e9",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_41.asset",
+      "sha256": "86a4a08e236688d2dbaab631c562f51803303cfc5bed1ebd945b0919e0a345ba",
+      "existed": false,
+      "bytes": 27664
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_41.asset.meta",
+      "sha256": "8bf6e6667a8a4b7403c0dc62e903e519e1b3f2a2d82de279491f9645d3232926",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_42.asset",
+      "sha256": "c5da50c5de1859ec5d6a771201f03ea335a89b6cfbd20f1e5dd6fcb6c4be6e50",
+      "existed": false,
+      "bytes": 7507
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_42.asset.meta",
+      "sha256": "9016fa60f63c5bfd2a1e105781185c14bf1ffe5b7d739f3e90bcf856c6290e38",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_43.asset",
+      "sha256": "587fede4c253cde3865962536b2e53cf8831b46912135dd7051a5bdf9f70b072",
+      "existed": false,
+      "bytes": 289373
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_43.asset.meta",
+      "sha256": "d9cd82a2e5ce2ad61ec4858890096538d8b788af6b12defaf5ffa9cd883af3bc",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_44.asset",
+      "sha256": "d64cca80ef6dacb40b020d62cd1f4daba17c95006453d9e681a028d839b22263",
+      "existed": false,
+      "bytes": 1953199
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_44.asset.meta",
+      "sha256": "6f8864b6c0c75581301f4f7beccaa2ffa9d214deb0cf92f521bbbfd79990724e",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_45.asset",
+      "sha256": "b45e848733fd531d659667b5e6feb4b2a3ae0d7f9e0c05f718e95617d0cbb38c",
+      "existed": false,
+      "bytes": 27664
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_45.asset.meta",
+      "sha256": "dd4624ce160694783073ccf8ae56663320ad92fdd51d460853326f697f6a3ec2",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_46.asset",
+      "sha256": "6915a5399054a7e5f92e36f7c5100362d0aa70902182baf06053731396b46c56",
+      "existed": false,
+      "bytes": 27648
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_46.asset.meta",
+      "sha256": "007fd5f3af04ab04d245bb9c43c6d234185940766e58edd742e7724493939f38",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_47.asset",
+      "sha256": "0d70a1044dfc758056db339171ddb38e4ccdf26aa7066f7b109f9aa5b3dd0dc9",
+      "existed": false,
+      "bytes": 27662
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_47.asset.meta",
+      "sha256": "bc3644a57bb7bd5bddc25c44880837a211abb50cfe4f1d1ac8e2d29624444930",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_48.asset",
+      "sha256": "5d836ebfeb60b174b7e53e3d1fce58d1ff75fe820b35fcb41c7191e3419257e4",
+      "existed": false,
+      "bytes": 7515
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_48.asset.meta",
+      "sha256": "b3d25df52c146ffff8b7b51791fe18b16d6f44f070ce909f9c17b6c8996791ea",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_49.asset",
+      "sha256": "8dd512a2412600e811a9f5cbf55d7d5152b915ff9517f7dd01fa25a60ad2b7df",
+      "existed": false,
+      "bytes": 289369
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_49.asset.meta",
+      "sha256": "e20df007c7b034214d21f477d22631bee9625d8176062478789c6a2fd0e9aa9a",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_5.asset",
+      "sha256": "58920c2122948ffbe21f1022995a9e7125fba1370464a8af61a6abd2523b31b6",
+      "existed": false,
+      "bytes": 139201
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_5.asset.meta",
+      "sha256": "3421a2150824c66608efbf8c43308f7b4794f9405d956e0dd89ff91a4636cf31",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_6.asset",
+      "sha256": "8a274d94ae64403f2799559f6ddceffaa16231c8d46862da2722e7ae25409bc3",
+      "existed": false,
+      "bytes": 139199
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_6.asset.meta",
+      "sha256": "1820775d4f0535e90b8a6531ebf392f1faf33c1c5dc3d9ee107b6867110c9d7a",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_7.asset",
+      "sha256": "5491e03ca9aab6b8e9ed61cc09ef0c2145c3db4ebbbb88e1475fd8117f25d0bc",
+      "existed": false,
+      "bytes": 77589
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_7.asset.meta",
+      "sha256": "73dfd152ea300fd118d7df09dc744b3aad698a11d2a982a91edaf8297a08a41b",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_8.asset",
+      "sha256": "c40fa6cb554f8c3798dab883a64909930ca59784db90772f8b3523d91ed4f1cf",
+      "existed": false,
+      "bytes": 24754
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_8.asset.meta",
+      "sha256": "60c417a7ad02586ad6f3bf09535f2da458f14433b60f2af8986f9656cb173acf",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_9.asset",
+      "sha256": "7975f01e32f7f0a5f34d445fc863e1dc0797f68662c930d2949e9328025a0a27",
+      "existed": false,
+      "bytes": 24752
+    },
+    {
+      "path": "Assets/TableReplacement/Meshes/Mesh_9.asset.meta",
+      "sha256": "59596cd071852bd4eb88409a2ebece148689eb57af8b31bd672379d471a19719",
+      "existed": false,
+      "bytes": 188
+    },
+    {
+      "path": "Assets/TableReplacement/Prefabs/TableGameSpace.prefab",
+      "sha256": "e66d8aed0c96557e311b803f2aeb1e6429f1cbd8110dec5ab9924a5cb7ab2516",
+      "existed": false,
+      "bytes": 123543
+    },
+    {
+      "path": "Assets/TableReplacement/Prefabs/TableGameSpace.prefab.meta",
+      "sha256": "4d1ed4e44b6a339369c218a309c4e85f66e75328bbd6e0ae880d83ddab61e9d0",
+      "existed": false,
+      "bytes": 154
+    },
+    {
+      "path": "Assets/TableReplacement/Prefabs/TableMetres.prefab",
+      "sha256": "5b638fe279693cef3c5cd6bab64b1bd4fe03519d56e79b02016720a11bb4a3f6",
+      "existed": false,
+      "bytes": 123516
+    },
+    {
+      "path": "Assets/TableReplacement/Prefabs/TableMetres.prefab.meta",
+      "sha256": "9b4425537ffc16d1537cfcdf641dd9f3c7f39ef456807bcfbde8b5a8bdd908a9",
+      "existed": false,
+      "bytes": 154
+    },
+    {
+      "path": "Assets/TableReplacement/Source/TableMesh.json",
+      "sha256": "2ffd4dcd7e2784e8021493b29f5ac00d157f46aacc6b5f14f77ebe1ebbe201eb",
+      "existed": false,
+      "bytes": 30972263
+    },
+    {
+      "path": "Assets/TableReplacement/Source/TableMesh.json.meta",
+      "sha256": "be02acc98669f9910caa74c888e3e4f4be8c0d6f032388928c2b8b66464aa3a7",
+      "existed": false,
+      "bytes": 158
+    },
+    {
+      "path": "Assets/TableReplacement/Textures/BaseColor.jpg",
+      "sha256": "3c39a98ba73ff1082c3094692df6fbcbd50e1af8ddfa55236c5f1c530896777c",
+      "existed": false,
+      "bytes": 4518595
+    },
+    {
+      "path": "Assets/TableReplacement/Textures/BaseColor.jpg.meta",
+      "sha256": "5a7e248992006953518ed7b57d693bd6c6fb177e3a0f8d75cb9082d23d1e54ce",
+      "existed": false,
+      "bytes": 2948
+    },
+    {
+      "path": "Assets/Resources/Integrated/Environment.prefab",
+      "sha256": "c90e704a0e7ba94827e41dd038ab48262b31c68848fc3ecd83ff274b55ad3dd5",
+      "existed": true,
+      "bytes": 194133
+    },
+    {
+      "path": "Assets/Resources/Integrated/PresentationAssets.asset",
+      "sha256": "6bc072ac57fc67eef184f8e264fece10b8d75ac8807f5a515814b67c64bd2317",
+      "existed": true,
+      "bytes": 1983
+    },
+    {
+      "path": "Assets/OfflineRuntime/Editor/IntegratedFeltBuilder.cs.meta",
+      "sha256": "c7eb8488b41bdd8ef1089fb43ef015f3ac46c8a042938579151ca5ae491dd9b1",
+      "existed": false,
+      "bytes": 243
+    },
+    {
+      "path": "Assets/OfflineRuntime/Editor/IntegratedGeometryChecks.cs",
+      "sha256": "8e66c6f6998aa55cebd120144380e196050029b10839804ae777b2957e258c1b",
+      "existed": true,
+      "bytes": 8175
+    },
+    {
+      "path": "Assets/OfflineRuntime/Editor/TableReplacementBuilder.cs",
+      "sha256": "adda87d434a28fdf019cb9b773737b0ae74b123b430861e6aec31a106f4d7fdb",
+      "existed": false,
+      "bytes": 7449
+    },
+    {
+      "path": "Assets/OfflineRuntime/Editor/TableReplacementBuilder.cs.meta",
+      "sha256": "f50eef5efe01b95e85f1aad4577ef0cd46e81bc9abe86123d07591a20908d47d",
+      "existed": false,
+      "bytes": 243
+    },
+    {
+      "path": "Assets/OfflineRuntime/Editor/TableReplacementChecks.cs",
+      "sha256": "6e42e6ea2caf217e5df03b6f0766c1fea436b949b19fbb593305a6c51336c9db",
+      "existed": false,
+      "bytes": 10616
+    },
+    {
+      "path": "Assets/OfflineRuntime/Editor/TableReplacementChecks.cs.meta",
+      "sha256": "d3f53ea135984681a61981eade50d49c8c2636bd4dd89cc1e2ead6ae1b3943e7",
+      "existed": false,
+      "bytes": 243
+    },
+    {
+      "path": "Assets/OfflineRuntime/Geometry/TableGeometryConfig.cs",
+      "sha256": "227338aad83703aab0ff83e37430db562289862602e7c96c3c0b0300c513b354",
+      "existed": true,
+      "bytes": 13460
+    },
+    {
+      "path": "Assets/OfflineRuntime/Presentation/DynamicFeltContacts.cs.meta",
+      "sha256": "22d8ce0c3eaab902ac2e7f6700fe1f04c73d329a04b8c8e22819e58161efbada",
+      "existed": false,
+      "bytes": 243
+    },
+    {
+      "path": "Assets/OfflineRuntime/Presentation/IntegratedArtAssets.cs",
+      "sha256": "f688d9be7fd31731f19a80c1b68568983ea9d5fe25e0fff5d2b53d2b0e14668b",
+      "existed": true,
+      "bytes": 526
+    },
+    {
+      "path": "Assets/IntegratedArt/Textures/Cloth_Normal.png",
+      "sha256": "980b2ff80095cf9630ec190d909b533464281a2f6e189189be1ec1de89be5927",
+      "existed": false,
+      "bytes": 8488821
+    }
+  ]
+}

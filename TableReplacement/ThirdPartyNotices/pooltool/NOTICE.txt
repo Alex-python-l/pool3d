@@ -1,0 +1,6 @@
+This experimental game contains C# adaptations of selected physics algorithms from pooltool, by Evan Kiefl and contributors.
+Source: https://github.com/ekiefl/pooltool at commit 7632b1c66f19159741a4cfe48b23d18f079d9a87.
+License: Apache License 2.0 (included in LICENSE.txt).
+Modifications: C# port, existing two-dimensional rv/w state mapping, zero-elevation cue strike, configurable coefficients, existing fixed-step integration and desktop input.
+The complete pooltool engine is not included. No upstream endorsement is claimed.
+Citation: Evan Kiefl (2024), Pooltool: A Python package for realistic billiards simulation, JOSS 9(101),7301, doi:10.21105/joss.07301.

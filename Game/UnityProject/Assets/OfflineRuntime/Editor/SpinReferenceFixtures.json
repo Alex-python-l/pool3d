@@ -1,0 +1,1043 @@
+{
+  "upstreamCommit": "7632b1c66f19159741a4cfe48b23d18f079d9a87",
+  "fixtures": [
+    {
+      "name": "head_on",
+      "kind": "ball",
+      "first": {
+        "velocity": {
+          "x": 1,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 0
+      },
+      "second": {
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 0
+      },
+      "normal": {
+        "x": 1,
+        "y": 0
+      },
+      "radius": 1,
+      "metresPerUnit": 0.001,
+      "useAlciatore": false,
+      "restitution": 0.95,
+      "friction": 0.05,
+      "expectedFirst": {
+        "velocity": {
+          "x": 0.025000000000000022,
+          "y": 0.0
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": 0.0
+      },
+      "expectedSecond": {
+        "velocity": {
+          "x": 0.975,
+          "y": 0.0
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": 0.0
+      }
+    },
+    {
+      "name": "side_sliding",
+      "kind": "ball",
+      "first": {
+        "velocity": {
+          "x": 1,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 1
+      },
+      "second": {
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 0
+      },
+      "normal": {
+        "x": 1,
+        "y": 0
+      },
+      "radius": 1,
+      "metresPerUnit": 0.001,
+      "useAlciatore": false,
+      "restitution": 0.95,
+      "friction": 0.05,
+      "expectedFirst": {
+        "velocity": {
+          "x": 0.025000000000000022,
+          "y": -0.0475
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": 0.88125
+      },
+      "expectedSecond": {
+        "velocity": {
+          "x": 0.975,
+          "y": 0.0475
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": -0.11875
+      }
+    },
+    {
+      "name": "side_reverse",
+      "kind": "ball",
+      "first": {
+        "velocity": {
+          "x": 1,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": -1
+      },
+      "second": {
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 0
+      },
+      "normal": {
+        "x": 1,
+        "y": 0
+      },
+      "radius": 1,
+      "metresPerUnit": 0.001,
+      "useAlciatore": false,
+      "restitution": 0.95,
+      "friction": 0.05,
+      "expectedFirst": {
+        "velocity": {
+          "x": 0.025000000000000022,
+          "y": 0.0475
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": -0.88125
+      },
+      "expectedSecond": {
+        "velocity": {
+          "x": 0.975,
+          "y": -0.0475
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": 0.11875
+      }
+    },
+    {
+      "name": "side_sticking",
+      "kind": "ball",
+      "first": {
+        "velocity": {
+          "x": 1,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 0.1
+      },
+      "second": {
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 0
+      },
+      "normal": {
+        "x": 1,
+        "y": 0
+      },
+      "radius": 1,
+      "metresPerUnit": 0.001,
+      "useAlciatore": false,
+      "restitution": 0.95,
+      "friction": 0.05,
+      "expectedFirst": {
+        "velocity": {
+          "x": 0.025000000000000022,
+          "y": -0.014285714285714285
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": 0.06428571428571428
+      },
+      "expectedSecond": {
+        "velocity": {
+          "x": 0.975,
+          "y": 0.014285714285714285
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": -0.03571428571428572
+      }
+    },
+    {
+      "name": "rolling_transfer",
+      "kind": "ball",
+      "first": {
+        "velocity": {
+          "x": 1,
+          "y": 0
+        },
+        "rolling": {
+          "x": -1,
+          "y": 0
+        },
+        "side": 0
+      },
+      "second": {
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 0
+      },
+      "normal": {
+        "x": 1,
+        "y": 0
+      },
+      "radius": 1,
+      "metresPerUnit": 0.001,
+      "useAlciatore": false,
+      "restitution": 0.95,
+      "friction": 0.05,
+      "expectedFirst": {
+        "velocity": {
+          "x": 0.025000000000000022,
+          "y": 0.0
+        },
+        "rolling": {
+          "x": -0.88125,
+          "y": 0.0
+        },
+        "side": 0.0
+      },
+      "expectedSecond": {
+        "velocity": {
+          "x": 0.975,
+          "y": 0.0
+        },
+        "rolling": {
+          "x": 0.11875,
+          "y": 0.0
+        },
+        "side": 0.0
+      }
+    },
+    {
+      "name": "cut_throw",
+      "kind": "ball",
+      "first": {
+        "velocity": {
+          "x": 1,
+          "y": 0.3
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 0
+      },
+      "second": {
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 0
+      },
+      "normal": {
+        "x": 1,
+        "y": 0
+      },
+      "radius": 1,
+      "metresPerUnit": 0.001,
+      "useAlciatore": false,
+      "restitution": 0.95,
+      "friction": 0.05,
+      "expectedFirst": {
+        "velocity": {
+          "x": 0.025000000000000022,
+          "y": 0.2571428571428571
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": -0.10714285714285714
+      },
+      "expectedSecond": {
+        "velocity": {
+          "x": 0.975,
+          "y": 0.04285714285714285
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": -0.10714285714285714
+      }
+    },
+    {
+      "name": "separating",
+      "kind": "ball",
+      "first": {
+        "velocity": {
+          "x": -1,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 1
+      },
+      "second": {
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 0
+      },
+      "normal": {
+        "x": 1,
+        "y": 0
+      },
+      "radius": 1,
+      "metresPerUnit": 0.001,
+      "useAlciatore": false,
+      "restitution": 0.95,
+      "friction": 0.05,
+      "expectedFirst": {
+        "velocity": {
+          "x": -1,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 1
+      },
+      "expectedSecond": {
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 0
+      }
+    },
+    {
+      "name": "zero_friction",
+      "kind": "ball",
+      "first": {
+        "velocity": {
+          "x": 1,
+          "y": 0.3
+        },
+        "rolling": {
+          "x": -0.5,
+          "y": 0.2
+        },
+        "side": 4
+      },
+      "second": {
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 0
+      },
+      "normal": {
+        "x": 1,
+        "y": 0
+      },
+      "radius": 1,
+      "metresPerUnit": 0.001,
+      "useAlciatore": false,
+      "restitution": 0.95,
+      "friction": 0,
+      "expectedFirst": {
+        "velocity": {
+          "x": 0.025000000000000022,
+          "y": 0.3
+        },
+        "rolling": {
+          "x": -0.5,
+          "y": 0.2
+        },
+        "side": 4.0
+      },
+      "expectedSecond": {
+        "velocity": {
+          "x": 0.975,
+          "y": 0.0
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": 0.0
+      }
+    },
+    {
+      "name": "rotated_moving_pair",
+      "kind": "ball",
+      "first": {
+        "velocity": {
+          "x": 2,
+          "y": 1
+        },
+        "rolling": {
+          "x": -1,
+          "y": 0.4
+        },
+        "side": 3
+      },
+      "second": {
+        "velocity": {
+          "x": -0.4,
+          "y": 0.1
+        },
+        "rolling": {
+          "x": 0.2,
+          "y": -0.1
+        },
+        "side": -1
+      },
+      "normal": {
+        "x": 0.8,
+        "y": 0.6
+      },
+      "radius": 1,
+      "metresPerUnit": 0.001,
+      "useAlciatore": false,
+      "restitution": 0.95,
+      "friction": 0.05,
+      "expectedFirst": {
+        "velocity": {
+          "x": 0.14717874835839587,
+          "y": -0.5270716644778612
+        },
+        "rolling": {
+          "x": -0.9209629576956716,
+          "y": 0.45927778172824646
+        },
+        "side": 2.725088548506683
+      },
+      "expectedSecond": {
+        "velocity": {
+          "x": 1.4528212516416041,
+          "y": 1.6270716644778613
+        },
+        "rolling": {
+          "x": 0.2790370423043286,
+          "y": -0.04072221827175362
+        },
+        "side": -1.2749114514933166
+      }
+    },
+    {
+      "name": "alciatore_mm_units",
+      "kind": "ball",
+      "first": {
+        "velocity": {
+          "x": 2500,
+          "y": 600
+        },
+        "rolling": {
+          "x": -800,
+          "y": 100
+        },
+        "side": 90
+      },
+      "second": {
+        "velocity": {
+          "x": 300,
+          "y": -100
+        },
+        "rolling": {
+          "x": 40,
+          "y": 70
+        },
+        "side": -6
+      },
+      "normal": {
+        "x": 1,
+        "y": 0
+      },
+      "radius": 28.575,
+      "metresPerUnit": 0.001,
+      "useAlciatore": true,
+      "restitution": 0.95,
+      "friction": 0.05,
+      "expectedFirst": {
+        "velocity": {
+          "x": 355.00000000000006,
+          "y": 572.9991354666267
+        },
+        "rolling": {
+          "x": -783.452684381057,
+          "y": 100.0
+        },
+        "side": 87.63771963837505
+      },
+      "expectedSecond": {
+        "velocity": {
+          "x": 2445.0,
+          "y": -72.99913546662675
+        },
+        "rolling": {
+          "x": 56.54731561894307,
+          "y": 70.0
+        },
+        "side": -8.362280361624956
+      }
+    },
+    {
+      "name": "alciatore_metre_units",
+      "kind": "ball",
+      "first": {
+        "velocity": {
+          "x": 2.5,
+          "y": 0.6
+        },
+        "rolling": {
+          "x": -0.8,
+          "y": 0.1
+        },
+        "side": 90
+      },
+      "second": {
+        "velocity": {
+          "x": 0.3,
+          "y": -0.1
+        },
+        "rolling": {
+          "x": 0.04,
+          "y": 0.07
+        },
+        "side": -6
+      },
+      "normal": {
+        "x": 1,
+        "y": 0
+      },
+      "radius": 0.028575,
+      "metresPerUnit": 1,
+      "useAlciatore": true,
+      "restitution": 0.95,
+      "friction": 0.05,
+      "expectedFirst": {
+        "velocity": {
+          "x": 0.35500000000000004,
+          "y": 0.5729991354666267
+        },
+        "rolling": {
+          "x": -0.783452684381057,
+          "y": 0.1
+        },
+        "side": 87.63771963837505
+      },
+      "expectedSecond": {
+        "velocity": {
+          "x": 2.445,
+          "y": -0.07299913546662674
+        },
+        "rolling": {
+          "x": 0.05654731561894307,
+          "y": 0.07
+        },
+        "side": -8.362280361624958
+      }
+    },
+    {
+      "name": "cushion_side",
+      "kind": "cushion",
+      "first": {
+        "velocity": {
+          "x": -1,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 1
+      },
+      "normal": {
+        "x": 1,
+        "y": 0
+      },
+      "radius": 1,
+      "friction": 0.2,
+      "restitution": 0.85,
+      "expectedFirst": {
+        "velocity": {
+          "x": 0.8500000000000001,
+          "y": 0.2857142857142857
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": 0.2857142857142857
+      }
+    },
+    {
+      "name": "cushion_combined",
+      "kind": "cushion",
+      "first": {
+        "velocity": {
+          "x": -2,
+          "y": 1
+        },
+        "rolling": {
+          "x": 0.8,
+          "y": -0.2
+        },
+        "side": -2
+      },
+      "normal": {
+        "x": 1,
+        "y": 0
+      },
+      "radius": 1,
+      "friction": 0.2,
+      "restitution": 0.85,
+      "expectedFirst": {
+        "velocity": {
+          "x": 1.7000000000000002,
+          "y": 0.28498614469507777
+        },
+        "rolling": {
+          "x": 0.3233240964633852,
+          "y": -0.2
+        },
+        "side": -0.2124653617376946
+      }
+    },
+    {
+      "name": "cushion_rotated",
+      "kind": "cushion",
+      "first": {
+        "velocity": {
+          "x": -2,
+          "y": -1
+        },
+        "rolling": {
+          "x": 1,
+          "y": 0.3
+        },
+        "side": 2
+      },
+      "normal": {
+        "x": 0.8,
+        "y": 0.6
+      },
+      "radius": 1,
+      "friction": 0.2,
+      "restitution": 0.85,
+      "expectedFirst": {
+        "velocity": {
+          "x": 0.9817142857142861,
+          "y": 1.8077142857142856
+        },
+        "rolling": {
+          "x": 0.44,
+          "y": -0.12
+        },
+        "side": 0.857142857142857
+      }
+    },
+    {
+      "name": "strike_center",
+      "kind": "strike",
+      "radius": 28.575,
+      "speed": 3000,
+      "angle": 0,
+      "contact": {
+        "x": 0,
+        "y": 0
+      },
+      "expectedFirst": {
+        "velocity": {
+          "x": 3000.0,
+          "y": -1.8369701987210297e-13
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": 0.0
+      }
+    },
+    {
+      "name": "strike_follow",
+      "kind": "strike",
+      "radius": 28.575,
+      "speed": 3000,
+      "angle": 0,
+      "contact": {
+        "x": 0,
+        "y": 0.4
+      },
+      "expectedFirst": {
+        "velocity": {
+          "x": 2294.115450094772,
+          "y": -1.4047405714165259e-13
+        },
+        "rolling": {
+          "x": -2294.115450094772,
+          "y": 1.4047405714165259e-13
+        },
+        "side": 0.0
+      }
+    },
+    {
+      "name": "strike_draw",
+      "kind": "strike",
+      "radius": 28.575,
+      "speed": 3000,
+      "angle": 0,
+      "contact": {
+        "x": 0,
+        "y": -0.4
+      },
+      "expectedFirst": {
+        "velocity": {
+          "x": 2294.115450094772,
+          "y": -1.4047405714165259e-13
+        },
+        "rolling": {
+          "x": 2294.115450094772,
+          "y": -1.4047405714165259e-13
+        },
+        "side": 0.0
+      }
+    },
+    {
+      "name": "strike_left",
+      "kind": "strike",
+      "radius": 28.575,
+      "speed": 3000,
+      "angle": 0,
+      "contact": {
+        "x": 0.4,
+        "y": 0
+      },
+      "expectedFirst": {
+        "velocity": {
+          "x": 2294.115450094772,
+          "y": -1.4047405714165259e-13
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": -80.28400525266044
+      }
+    },
+    {
+      "name": "strike_diagonal",
+      "kind": "strike",
+      "radius": 28.575,
+      "speed": 3000,
+      "angle": 37,
+      "contact": {
+        "x": 0.3,
+        "y": -0.2
+      },
+      "expectedFirst": {
+        "velocity": {
+          "x": 1916.7236638925306,
+          "y": 1444.3548798540821
+        },
+        "rolling": {
+          "x": 958.3618319462652,
+          "y": 722.1774399270411
+        },
+        "side": -62.992074708443184
+      }
+    },
+    {
+      "name": "cloth_slide",
+      "kind": "cloth",
+      "first": {
+        "velocity": {
+          "x": 2,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0.2,
+          "y": 0.1
+        },
+        "side": 4
+      },
+      "radius": 0.028575,
+      "metresPerUnit": 1,
+      "dt": 0.1,
+      "expectedFirst": {
+        "velocity": {
+          "x": 1.8040023724107392,
+          "y": -0.008908983072239128
+        },
+        "rolling": {
+          "x": -0.28999406897315194,
+          "y": 0.0777275423194022
+        },
+        "side": 2.91
+      }
+    },
+    {
+      "name": "cloth_transition",
+      "kind": "cloth",
+      "first": {
+        "velocity": {
+          "x": 1,
+          "y": 0
+        },
+        "rolling": {
+          "x": -0.9,
+          "y": 0
+        },
+        "side": 4
+      },
+      "radius": 0.028575,
+      "metresPerUnit": 1,
+      "dt": 0.2,
+      "expectedFirst": {
+        "velocity": {
+          "x": 0.9532371428571429,
+          "y": 0.0
+        },
+        "rolling": {
+          "x": -0.9532371428571429,
+          "y": 5.836894079141841e-17
+        },
+        "side": 1.8199999999999998
+      }
+    },
+    {
+      "name": "cloth_roll",
+      "kind": "cloth",
+      "first": {
+        "velocity": {
+          "x": 1,
+          "y": 0
+        },
+        "rolling": {
+          "x": -1,
+          "y": 0
+        },
+        "side": 4
+      },
+      "radius": 0.028575,
+      "metresPerUnit": 1,
+      "dt": 0.2,
+      "expectedFirst": {
+        "velocity": {
+          "x": 0.98038,
+          "y": 0.0
+        },
+        "rolling": {
+          "x": -0.9803799999999999,
+          "y": 6.00309614474041e-17
+        },
+        "side": 1.8199999999999998
+      }
+    },
+    {
+      "name": "cloth_stop",
+      "kind": "cloth",
+      "first": {
+        "velocity": {
+          "x": 0.01,
+          "y": 0
+        },
+        "rolling": {
+          "x": -0.01,
+          "y": 0
+        },
+        "side": 0.2
+      },
+      "radius": 0.028575,
+      "metresPerUnit": 1,
+      "dt": 1,
+      "expectedFirst": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": 0.0
+      }
+    },
+    {
+      "name": "cloth_spin_only",
+      "kind": "cloth",
+      "first": {
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "rolling": {
+          "x": 0,
+          "y": 0
+        },
+        "side": 4
+      },
+      "radius": 0.028575,
+      "metresPerUnit": 1,
+      "dt": 0.1,
+      "expectedFirst": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "rolling": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "side": 2.91
+      }
+    }
+  ],
+  "gameplayExecuted": false,
+  "functions": [
+    {
+      "path": "pooltool/ptmath/utils.py",
+      "functions": [
+        "coordinate_rotation",
+        "angle"
+      ],
+      "sha256": "80c1d4c55c500d13a1e9dcf7b6f05928fdefa827c809fb3370b3eb49389a374c"
+    },
+    {
+      "path": "pooltool/physics/utils.py",
+      "functions": [
+        "surface_velocity_vw",
+        "surface_velocity",
+        "tangent_surface_velocity_vw",
+        "rel_velocity",
+        "get_slide_time",
+        "get_roll_time",
+        "get_spin_time"
+      ],
+      "sha256": "678ea7be56a37b9567b1fa25219d10ca0fb8fb53c99baa5d5ae9b71ccb84a488"
+    },
+    {
+      "path": "pooltool/physics/resolve/ball_ball/frictional_inelastic/__init__.py",
+      "functions": [
+        "_resolve_ball_ball_x_normal"
+      ],
+      "sha256": "1750c14f1c80cb5a4213e126cc08161aa6386724ef554e1e3fce5f8d09662bf8"
+    },
+    {
+      "path": "pooltool/physics/resolve/sphere_half_space_collision.py",
+      "functions": [
+        "resolve_sphere_half_space_collision_z_normal"
+      ],
+      "sha256": "f173882d98a1b5dd217acf6eba54b157af6548d03af000bd98966e69ed9880c3"
+    },
+    {
+      "path": "pooltool/physics/resolve/stick_ball/instantaneous_point/__init__.py",
+      "functions": [
+        "cue_strike"
+      ],
+      "sha256": "056f29f24a14c624a470003334217e7cc145b8f2108ce64ccf4e721b2b56602d"
+    },
+    {
+      "path": "pooltool/physics/evolve/__init__.py",
+      "functions": [
+        "evolve_ball_motion",
+        "_evolve_slide_state",
+        "_evolve_roll_state",
+        "_evolve_perpendicular_spin_component",
+        "_evolve_perpendicular_spin_state",
+        "_evolve_airborne_state"
+      ],
+      "sha256": "f69de6e5c4c76db3eed0cf7b808c47adec10afd8ac37b8a40afffd25430a6335"
+    }
+  ]
+}

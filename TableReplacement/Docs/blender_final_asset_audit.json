@@ -1,0 +1,825 @@
+{
+  "passed": true,
+  "stage": "Blender asset preparation, before Unity replacement",
+  "units": "metres",
+  "playing_area_measured_between_nose_planes_mm": [
+    2540,
+    1270
+  ],
+  "outer_dimensions_measured_mm": [
+    2840.0,
+    1560.0,
+    849.937
+  ],
+  "cloth_height_mm": 800,
+  "nose_height_mm": 836,
+  "cushion_nose_above_cloth_mm": 36,
+  "nose_planes": [
+    {
+      "cushion": "Chinese8 | cushion Long -1 -1",
+      "axis": "Y",
+      "nose_plane_m": -0.635,
+      "straight_span_m": 1.1443414352834225
+    },
+    {
+      "cushion": "Chinese8 | cushion Long +1 -1",
+      "axis": "Y",
+      "nose_plane_m": -0.635,
+      "straight_span_m": 1.1443414352834225
+    },
+    {
+      "cushion": "Chinese8 | cushion Long -1 +1",
+      "axis": "Y",
+      "nose_plane_m": 0.635,
+      "straight_span_m": 1.1443414352834225
+    },
+    {
+      "cushion": "Chinese8 | cushion Long +1 +1",
+      "axis": "Y",
+      "nose_plane_m": 0.635,
+      "straight_span_m": 1.1443414352834225
+    },
+    {
+      "cushion": "Chinese8 | cushion End -1",
+      "axis": "X",
+      "nose_plane_m": -1.27,
+      "straight_span_m": 1.137402892112732
+    },
+    {
+      "cushion": "Chinese8 | cushion End +1",
+      "axis": "X",
+      "nose_plane_m": 1.27,
+      "straight_span_m": 1.137402892112732
+    }
+  ],
+  "bed_samples": [
+    [
+      -1.1,
+      -0.5,
+      0.800000011920929
+    ],
+    [
+      -1.1,
+      -0.25,
+      0.800000011920929
+    ],
+    [
+      -1.1,
+      0,
+      0.800000011920929
+    ],
+    [
+      -1.1,
+      0.25,
+      0.800000011920929
+    ],
+    [
+      -1.1,
+      0.5,
+      0.800000011920929
+    ],
+    [
+      -0.6,
+      -0.5,
+      0.800000011920929
+    ],
+    [
+      -0.6,
+      -0.25,
+      0.800000011920929
+    ],
+    [
+      -0.6,
+      0,
+      0.800000011920929
+    ],
+    [
+      -0.6,
+      0.25,
+      0.800000011920929
+    ],
+    [
+      -0.6,
+      0.5,
+      0.800000011920929
+    ],
+    [
+      0,
+      -0.5,
+      0.800000011920929
+    ],
+    [
+      0,
+      -0.25,
+      0.800000011920929
+    ],
+    [
+      0,
+      0,
+      0.800000011920929
+    ],
+    [
+      0,
+      0.25,
+      0.800000011920929
+    ],
+    [
+      0,
+      0.5,
+      0.800000011920929
+    ],
+    [
+      0.6,
+      -0.5,
+      0.800000011920929
+    ],
+    [
+      0.6,
+      -0.25,
+      0.800000011920929
+    ],
+    [
+      0.6,
+      0,
+      0.800000011920929
+    ],
+    [
+      0.6,
+      0.25,
+      0.800000011920929
+    ],
+    [
+      0.6,
+      0.5,
+      0.800000011920929
+    ],
+    [
+      1.1,
+      -0.5,
+      0.800000011920929
+    ],
+    [
+      1.1,
+      -0.25,
+      0.800000011920929
+    ],
+    [
+      1.1,
+      0,
+      0.800000011920929
+    ],
+    [
+      1.1,
+      0.25,
+      0.800000011920929
+    ],
+    [
+      1.1,
+      0.5,
+      0.800000011920929
+    ]
+  ],
+  "pocket_clearance_checks": [
+    {
+      "center_m": [
+        -1.305,
+        -0.66
+      ],
+      "column_radius_m": 0.0295,
+      "samples": 97,
+      "blocked": []
+    },
+    {
+      "center_m": [
+        -1.305,
+        0.66
+      ],
+      "column_radius_m": 0.0295,
+      "samples": 97,
+      "blocked": []
+    },
+    {
+      "center_m": [
+        1.305,
+        -0.66
+      ],
+      "column_radius_m": 0.0295,
+      "samples": 97,
+      "blocked": []
+    },
+    {
+      "center_m": [
+        1.305,
+        0.66
+      ],
+      "column_radius_m": 0.0295,
+      "samples": 97,
+      "blocked": []
+    },
+    {
+      "center_m": [
+        0,
+        -0.665
+      ],
+      "column_radius_m": 0.0295,
+      "samples": 97,
+      "blocked": []
+    },
+    {
+      "center_m": [
+        0,
+        0.665
+      ],
+      "column_radius_m": 0.0295,
+      "samples": 97,
+      "blocked": []
+    }
+  ],
+  "pocket_clearance_note": "Static sampled open-column check through the mouth and net throat; no physics or gameplay simulation.",
+  "six_collectors": true,
+  "tray_rods": 18,
+  "unbranded_surface_materials": [
+    "Chinese8 | unbranded ivory leather",
+    "Chinese8 | unbranded brass inlay X",
+    "Chinese8 | unbranded brass inlay Y"
+  ],
+  "body_material_faces": {
+    "a469b894_16a7_4c84_a10c_bec6dd15d8e9": 13577,
+    "Chinese8 | unbranded ivory leather": 4017,
+    "Chinese8 | level unmarked green cloth": 1581,
+    "Chinese8 | unbranded brass inlay X": 12,
+    "Chinese8 | unbranded brass inlay Y": 16
+  },
+  "packed_images": [
+    {
+      "name": "luxury_pool_table_3d_model_basecolor.jpg",
+      "size": [
+        4096,
+        4096
+      ]
+    }
+  ],
+  "mesh_objects": 50,
+  "estimated_triangles": 264707,
+  "topology": [
+    {
+      "object": "Chinese8 | luxury body",
+      "vertices": 18052,
+      "faces": 19203,
+      "boundary_edges": 8666,
+      "overconnected_edges": 311,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "Chinese8 | cushion Long -1 -1",
+      "vertices": 300,
+      "faces": 396,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "Chinese8 | cushion Long +1 -1",
+      "vertices": 300,
+      "faces": 396,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "Chinese8 | cushion Long -1 +1",
+      "vertices": 300,
+      "faces": 396,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "Chinese8 | cushion Long +1 +1",
+      "vertices": 300,
+      "faces": 396,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "Chinese8 | cushion End -1",
+      "vertices": 300,
+      "faces": 396,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "Chinese8 | cushion End +1",
+      "vertices": 300,
+      "faces": 396,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "Chinese8 | level cloth with six open pockets",
+      "vertices": 322,
+      "faces": 312,
+      "boundary_edges": 322,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "Chinese8 | open pocket lining 01",
+      "vertices": 192,
+      "faces": 128,
+      "boundary_edges": 128,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "Chinese8 | open pocket lining 02",
+      "vertices": 192,
+      "faces": 128,
+      "boundary_edges": 128,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "Chinese8 | open pocket lining 03",
+      "vertices": 192,
+      "faces": 128,
+      "boundary_edges": 128,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "Chinese8 | open pocket lining 04",
+      "vertices": 192,
+      "faces": 128,
+      "boundary_edges": 128,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "Chinese8 | open pocket lining 05",
+      "vertices": 192,
+      "faces": 128,
+      "boundary_edges": 128,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "Chinese8 | open pocket lining 06",
+      "vertices": 192,
+      "faces": 128,
+      "boundary_edges": 128,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "01 | open diamond net",
+      "vertices": 16272,
+      "faces": 16048,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "01 | tray rod 1",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "01 | tray rod 2",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "01 | tray rod 3",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "01 | diagonal mounting stay",
+      "vertices": 36,
+      "faces": 26,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "01 | brass ring and terminal clamps",
+      "vertices": 2388,
+      "faces": 2298,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "02 | open diamond net",
+      "vertices": 16272,
+      "faces": 16048,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "02 | tray rod 1",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "02 | tray rod 2",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "02 | tray rod 3",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "02 | diagonal mounting stay",
+      "vertices": 36,
+      "faces": 26,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "02 | brass ring and terminal clamps",
+      "vertices": 2388,
+      "faces": 2298,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "03 | open diamond net",
+      "vertices": 16272,
+      "faces": 16048,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "03 | tray rod 1",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "03 | tray rod 2",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "03 | tray rod 3",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "03 | diagonal mounting stay",
+      "vertices": 36,
+      "faces": 26,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "03 | brass ring and terminal clamps",
+      "vertices": 2388,
+      "faces": 2298,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "04 | open diamond net",
+      "vertices": 16272,
+      "faces": 16048,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "04 | tray rod 1",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "04 | tray rod 2",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "04 | tray rod 3",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "04 | diagonal mounting stay",
+      "vertices": 36,
+      "faces": 26,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "04 | brass ring and terminal clamps",
+      "vertices": 2388,
+      "faces": 2298,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "05 | open diamond net",
+      "vertices": 16272,
+      "faces": 16048,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "05 | tray rod 1",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "05 | tray rod 2",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "05 | tray rod 3",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "05 | diagonal mounting stay",
+      "vertices": 36,
+      "faces": 26,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "05 | brass ring and terminal clamps",
+      "vertices": 2388,
+      "faces": 2298,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "06 | open diamond net",
+      "vertices": 16272,
+      "faces": 16048,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "06 | tray rod 1",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "06 | tray rod 2",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "06 | tray rod 3",
+      "vertices": 204,
+      "faces": 194,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "06 | diagonal mounting stay",
+      "vertices": 36,
+      "faces": 26,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    },
+    {
+      "object": "06 | brass ring and terminal clamps",
+      "vertices": 2388,
+      "faces": 2298,
+      "boundary_edges": 0,
+      "overconnected_edges": 0,
+      "winding_mismatches": 0,
+      "degenerate_faces": 0,
+      "loose_vertices": 0,
+      "finite": true
+    }
+  ],
+  "warnings": [
+    "The imported decorative body retains open seams and overconnected edges; do not use it as a watertight solid or assign it as the whole-table gameplay collider.",
+    "Procedural leather/brass/cloth materials are Blender authoring materials. A later Unity import must recreate or bake them in the project material system.",
+    "The six new pocket/jaw outlines differ from the current V3 physics geometry; migrate the collision configuration before game replacement.",
+    "No visual render review, Play Mode or Player run was performed."
+  ],
+  "blender_file": "C:\\Users\\L\\Desktop\\破壳BullBear Labs\\art-source\\luxury_pool_table\\20261029_cleanup_sizing\\luxury_pool_table_clean_metric.blend",
+  "unity_modified": false,
+  "visual_review_performed": false
+}

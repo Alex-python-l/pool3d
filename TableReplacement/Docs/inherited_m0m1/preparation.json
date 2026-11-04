@@ -1,0 +1,8 @@
+{
+  "spin_source": "deliverables/Pool3D-SpinLab-20261026",
+  "art_source": "deliverables/Pool3D-MaterialStudy-V3-20261025",
+  "source_files_protected": 1035,
+  "duplicate_guids": 0,
+  "scope": "M0/M1 only; no gameplay/visual review/lighting bake",
+  "original_sources_modified": false
+}
